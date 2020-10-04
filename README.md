@@ -35,11 +35,11 @@ Officially implementated map changes can be viewed in-game by:
     * The changes loaded depend on the gamemode, be sure to view the changes in the gamemode relevant to your config or server.
     * Some potential gamemodes are: `versus`, `coop`, `survival`, `realism`, `scavenge`, `mutation15` (vs survival)
     * Versus based gamemodes require `sb_all_bot_game 1` to prevent automatic server shutdown.
-3. Enable `sv_cheats`
+3. Enable `sv_cheats`.
 4. Type `script ShowUpdate()` into console.
     * This is case sensitive.
     * Additional changes may also be printed to the console but not highlighted.
-4. Type `script HideUpdate()` to hide stop highlighting the changes.
+4. Type `script HideUpdate()` to stop highlighting the changes.
 
 ## Credits:
 If you believe that you or any other historical contributors haven't been credited properly please raise an **[issue](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/issues)** so that they can be credited appropriately for their Stripper:Source and related work.
