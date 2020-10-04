@@ -8,7 +8,7 @@ The aim is to re-implement improved versions of historical changes, unify map mo
 While many of the changes will appear very similar to those included in previous versions of competitive Stripper:Source files and is heavily inspired by them, the goal is to re-create everything from the ground up to ensure the best possible implementation of the changes.
 
 ## Usage:
-Any server owner or config developer is allowed to freely use this as a base for their own Stripper:Source modifications _**as long as credit is provided**_ to this repository.
+Any server owner or config developer can freely use this as a base for their own Stripper:Source modifications _**as long as credit is provided**_ to this repository.
 
 All changes are tested and implemented with the latest version of Stripper:Source only.
 * **Version:** 1.2.2 (hg82) (updated 2011-04-15)
@@ -17,22 +17,25 @@ All changes are tested and implemented with the latest version of Stripper:Sourc
 * **Documentation:** https://www.bailopan.net/stripper/
 
 ## Compatibility:
-In order to ensure full compatibility with the changes provided by this rework, it is highly recommended that servers **DO NOT** load _**clip_removal.smx**_ with configs that uses this rework.
+In order to ensure full compatibility with the changes provided by this rework, it is highly recommended that servers **DO NOT** load **clip_removal.smx** with configs that uses this rework.
+
 This plugin is flawed and does apply changes to both versus rounds. All functionality of this plugin can also be achieved with Stripper.
 
 ## Documentation:
-A complete changelog and documentation of changes will be available on the **[wiki](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/wiki)**. Where possible screenshots will also be available.
+A complete changelog and documentation of changes will be available on the **[wiki](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/wiki)**.
+
+Where possible screenshots will also be available.
 
 ## Credits:
 If you believe that you or any other historical contributors haven't been credited please raise an issue on Derpduck/L4D2-Comp-Stripper-Rework so that they can be credited appropriately.
 
 ## Rework Contributors
-Derpduck
+* Derpduck
 
 ### Historical Contributors:
-ProdigySim
-Jacob
-NF
-Visor
-SirPlease
-Wicket
+* ProdigySim
+* Jacob
+* NF
+* Visor
+* SirPlease
+* Wicket
