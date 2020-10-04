@@ -21,7 +21,7 @@ All changes are tested and implemented with the latest version of Stripper:Sourc
 ## Compatibility:
 In order to ensure full compatibility with the changes provided by this rework, it is highly recommended that servers **DO NOT** load `clip_removal.smx` with configs that uses this rework.
 
-This plugin is flawed and does apply changes to both versus rounds. All functionality of this plugin can also be achieved with Stripper.
+This plugin is flawed and does apply changes to both versus rounds. All functionality of this plugin can also be achieved with Stripper, making it entirely redundant.
 
 
 ## Documentation:
@@ -30,14 +30,14 @@ Where possible screenshots will also be available.
 
 Information on best practices and help setting up a local/listen server to run Sourcemod with Stripper:Source can also be found on the wiki.
 
-Templates for Stripper files can be found in the `Templates` folder. Use these to ensure consistency between all Stripper implementations and make it as easy as possible for others to use and modify in the future.
+Templates for Stripper files can be found in the `Templates` folder. Use these to ensure consistency between all Stripper implementations and to make it as easy as possible for others to use and modify in the future.
 
 To see what is being worked on currently, planned changes, and potential ideas for changes check out the **[Projects](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/projects)** tab. 
 
 
 ## Official Map Updates
-Documentation and source code for the Last Stand update map updates can be found here:\
-**https://github.com/Tsuey/L4D2-Community-Update**
+**Documentation and source code for the Last Stand update map updates can be found here:**\
+**[Tsuey/L4D2-Community-Update](https://github.com/Tsuey/L4D2-Community-Update)**
 
 How to view these officially implementated map changes can be viewed in-game:
 1. Launch the game in developer mode via the `-dev` launch option.
@@ -57,27 +57,28 @@ How to view these officially implementated map changes can be viewed in-game:
 **Decompiled versions of the offical L4D2 maps can be found here:**\
 [spumer/left_4_dead_2__decompiled_maps](https://github.com/spumer/left_4_dead_2__decompiled_maps)
 
-These files can be viewed in the Hammer Editor.\
-It is highly recommended that any work done for the Stripper rework is done through Hammer then implemented into Stripper to ensure they are as accurate as possible.
+These files can be viewed and modified in the Hammer Editor by installing L4D2 Authoring Tools on Steam.\
+It is highly recommended that any work done for this project is done through Hammer then implemented into Stripper to ensure values are accurate as possible.
+**Disclaimer:** These files may not be 100% accurate as the decompiling process is not perfect, and the source files not provided by Valve in any official capacity.
 
 ### Decompiled VScripts
 **Decompiled versions of L4D2's VScripts can be found here:**\
 **[jacob404/Official-Vscripts-Decompiled](https://github.com/jacob404/Official-Vscripts-Decompiled)**
 
-These scripts can be used as reference or a base for modifying director scripts for maps.
+These scripts can be used as reference or as a base for modifying director scripts for maps.\
 **NOTE:** This repository is now outdated as of the Last Stand update.\
-Compiled versions of new or updated vscripts can be found at `Steam\steamapps\common\Left 4 Dead 2\update` 
+Compiled versions of new or updated vscripts can be found at `Steam\steamapps\common\Left 4 Dead 2\update`.
 
 ### Stripper Dumps
 To dump all entities on a map to text type `stripper_dump` in console while Stripper:Source is loaded.\
 Files are dumped to the `stripper\dumps` directory in `.txt` format.
 
 ## Setting Up A Competitive L4D2 Server
-**Resources and information for setting up a competitive L4D2 can be found here:\
+**Resources and information for setting up a competitive L4D2 can be found here:**\
 **[SirPlease/L4D2-Competitive-Rework](https://github.com/SirPlease/L4D2-Competitive-Rework)**
 
-This project is not a part of the L4D2 Competitive Rework, however it is a useful resource for anything related to competitive L4D2 and server-based modifications.\
-The Stripper changes found in this project take inspiration from Zonemod 1.9.8.
+This project is not part of the L4D2 Competitive Rework, however it is a useful resource for anything related to running competitive L4D2 and configs.\
+Stripper changes found in this project take inspiration from Zonemod 1.9.8.
 
 
 ## Contributing
