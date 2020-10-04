@@ -32,12 +32,13 @@ Documentation and source code for the Last Stand update map changes can be found
 Officially implementated map changes can be viewed in-game by:
 1. Launch the game in developer mode via the `-dev` launch option.
 2. Load map via console: `map [map name] [gamemode]`
-    1. The changes loaded depend on the gamemode. Some potential gamemodes are: `versus`, `coop`, `survival`, `realism`, `scavenge`, `mutation15` (vs survival)
-    2. Versus based gamemodes require `sb_all_bot_game 1` to prevent automatic server shutdown.
+    * The changes loaded depend on the gamemode, be sure to view the changes in the gamemode relevant to your config or server.
+    * Some potential gamemodes are: `versus`, `coop`, `survival`, `realism`, `scavenge`, `mutation15` (vs survival)
+    * Versus based gamemodes require `sb_all_bot_game 1` to prevent automatic server shutdown.
 3. Enable `sv_cheats`
 4. Type `script ShowUpdate()` into console.
-    1. This is case sensitive.
-    2. Additional changes may also be printed to the console but not highlighted.
+    * This is case sensitive.
+    * Additional changes may also be printed to the console but not highlighted.
 4. Type `script HideUpdate()` to hide stop highlighting the changes.
 
 ## Credits:
