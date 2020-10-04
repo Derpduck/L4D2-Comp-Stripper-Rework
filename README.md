@@ -17,7 +17,8 @@ All changes are tested and implemented with the latest version of Stripper:Sourc
 * **Documentation:** https://www.bailopan.net/stripper/
 
 ## Compatibility:
-In order to ensure full compatibility with the changes provided by this rework, it is highly recommended that servers **DO NOT** load _clip_removal.smx_ with configs that uses this rework. This plugin is flawed and does apply changes to both versus rounds. All functionality of this plugin can also be achieved with Stripper.
+In order to ensure full compatibility with the changes provided by this rework, it is highly recommended that servers **DO NOT** load _**clip_removal.smx**_ with configs that uses this rework.
+This plugin is flawed and does apply changes to both versus rounds. All functionality of this plugin can also be achieved with Stripper.
 
 ## Documentation:
 A complete changelog and documentation of changes will be available on the **[wiki](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/wiki)**. Where possible screenshots will also be available.
