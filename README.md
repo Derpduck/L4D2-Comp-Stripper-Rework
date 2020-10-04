@@ -41,7 +41,7 @@ To see what is being worked on currently, planned changes, and potential ideas f
 
 How to view these officially implementated map changes can be viewed in-game:
 1. Launch the game in developer mode via the `-dev` launch option.
-2. Load map via console: `map [map name] [gamemode]`
+2. Load map via console: `map [map_name] [gamemode]`
     * The changes loaded depend on the gamemode, be sure to view the changes in the gamemode relevant to your config or server.
     * Some potential gamemodes are: `versus`, `coop`, `survival`, `realism`, `scavenge`, `mutation15` (vs survival)
     * Versus based gamemodes require `sb_all_bot_game 1` to prevent automatic server shutdown.
@@ -77,7 +77,7 @@ Files are dumped to the `stripper\dumps` directory in `.txt` format.
 **Resources and information for setting up a competitive L4D2 can be found here:**\
 **[SirPlease/L4D2-Competitive-Rework](https://github.com/SirPlease/L4D2-Competitive-Rework)**
 
-This project is not part of the L4D2 Competitive Rework, however it is a useful resource for anything related to running competitive L4D2 and configs.\
+This project is not part of the L4D2 Competitive Rework, however it is a useful resource for anything related to running a competitive L4D2 server and competitive configs.\
 Stripper changes found in this project take inspiration from Zonemod 1.9.8.
 
 
