@@ -55,7 +55,7 @@ How to view these officially implementated map changes can be viewed in-game:
 ## Official Map Sources
 ### Decompiled VMFs (Valve Map Format)
 **Decompiled versions of the offical L4D2 maps can be found here:**\
-[spumer/left_4_dead_2__decompiled_maps](https://github.com/spumer/left_4_dead_2__decompiled_maps)
+**[spumer/left_4_dead_2__decompiled_maps](https://github.com/spumer/left_4_dead_2__decompiled_maps)**
 
 These files can be viewed and modified in the Hammer Editor by installing L4D2 Authoring Tools on Steam.\
 It is highly recommended that any work done for this project is done through Hammer then implemented into Stripper to ensure values are accurate as possible.
