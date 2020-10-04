@@ -48,23 +48,24 @@ How to view these officially implementated map changes can be viewed in-game:
 4. Type `script HideUpdate()` to stop highlighting the changes.
 
 ## Official Map Sources
-**Decompiled VMFs (Valve Map Format) for the offical L4D2 maps can be found here:**
+### Decompiled VMFs (Valve Map Format)
+Decompiled versions of the offical L4D2 maps can be found here:\
 https://github.com/spumer/left_4_dead_2__decompiled_maps
 \
 These files can be viewed in the Hammer Editor.\
 It is highly recommended that any work done for the Stripper rework is done through Hammer then implemented into Stripper to ensure they are as accurate as possible.
 
-<hr>
-**Decompiled vscripts can be found here:**
+### Decompiled VScripts
+Decompiled versions of L4D2's VScripts can be found here:\
 https://github.com/jacob404/Official-Vscripts-Decompiled
 \
 These scripts can be used as reference or a base for modifying director scripts for maps.
 **NOTE:** This repository is now outdated as of the Last Stand update.\
 Compiled versions of new or updated vscripts can be found at `Steam\steamapps\common\Left 4 Dead 2\update` 
 
-<hr>
-To dump all entities on a map to text type `stripper_dump` in console while Stripper:Source is loaded.
-Files are dumped to the `stripper\dumps` directory.
+### Stripper Dumps
+To dump all entities on a map to text type `stripper_dump` in console while Stripper:Source is loaded.\
+Files are dumped to the `stripper\dumps` directory in `.txt` format.
 
 ## Setting Up A Competitive L4D2 Server
 For more information on setting up a competitive L4D2 server with the most up-to-date configs and fixes can be found here:\
