@@ -95,6 +95,11 @@ If you believe that you or any other historical contributors haven't been credit
 ### Historical Contributors:
 * ProdigySim
 * Jacob
+* Blade
+* Tabun
+* Stabby
+* CircleSquared
+* Estoopi
 * NF
 * Visor
 * SirPlease
