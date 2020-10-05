@@ -30,7 +30,7 @@ Where possible screenshots will also be available.
 
 Information on best practices and help setting up a local/listen server to run Sourcemod with Stripper:Source can also be found on the wiki.
 
-Templates for Stripper files can be found in the `Templates` folder. Use these to ensure consistency between all Stripper implementations and to make it as easy as possible for others to use and modify in the future.
+Templates for Stripper files can be found in the `_Templates` folder. Use these to ensure consistency between all Stripper implementations and to make it as easy as possible for others to use and modify in the future.
 
 To see what is being worked on currently, planned changes, and potential ideas for changes check out the **[Projects](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/projects)** tab. 
 
