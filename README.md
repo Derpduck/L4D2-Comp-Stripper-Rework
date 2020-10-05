@@ -5,7 +5,7 @@ This repository is for reworking the Stripper:Source map changes for competitive
 
 The aim is to re-implement improved versions of historical changes, unify map modifications across servers and configs, and providing a basic template that already includes all necessary fixes and improvements, which can easily be added to or modified by any server owners and config developers.
 
-While many of the changes will appear very similar to those included in previous versions of competitive Stripper:Source files and is heavily inspired by them, the goal is to re-create everything from the ground up to ensure the best possible implementation of the changes.
+While many of the changes will appear similar to those included in previous versions of competitive Stripper:Source modifications, as they are designed to address the same issues and meet the expectations of the competitive community, the goal is to re-create everything from the ground up to ensure the best possible implementation of the changes.
 
 
 ## Usage
