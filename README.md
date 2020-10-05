@@ -9,7 +9,7 @@ While many of the changes will appear very similar to those included in previous
 
 
 ## Usage
-Any server owner or config developer can freely use this as a base for their own Stripper modifications _**as long as credit is provided**_ to this repository.
+Any server owner or config developer can freely use this as a base for their own Stripper modifications _**provided credit is provided**_ to this repository.
 
 All changes are tested and implemented with the latest version of Stripper:Source only.
 * **Version:** 1.2.2 (hg82) `(updated 2011-04-15)`
