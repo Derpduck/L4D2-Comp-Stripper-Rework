@@ -19,6 +19,8 @@ All changes are tested and implemented with the latest version of Stripper:Sourc
 
 
 ## Compatibility
+The Stripper Rework is designed for full compatibility with the Last Stand map changes, as a result there is no need to modifiy the `mapspawn.nut` file. The removal of any entities added through this method will be handled by Stripper.
+
 In order to ensure full compatibility with the changes provided by this rework, it is highly recommended that servers **DO NOT** load `clip_removal.smx` with configs that uses this rework.
 
 This plugin is flawed and does apply changes to both versus rounds. All functionality of this plugin can also be achieved with Stripper, making it entirely redundant.
