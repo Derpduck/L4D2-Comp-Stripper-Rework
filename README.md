@@ -76,7 +76,7 @@ To dump all entities on a map to text type `stripper_dump` in console while Stri
 Files are dumped to the `stripper\dumps` directory in `.txt` format.
 
 ## Setting Up A Competitive L4D2 Server
-**Resources and information for setting up a competitive L4D2 can be found here:**\
+**Resources and information for setting up a competitive L4D2 server can be found here:**\
 **[SirPlease/L4D2-Competitive-Rework](https://github.com/SirPlease/L4D2-Competitive-Rework)**
 
 This project is not part of the L4D2 Competitive Rework, however it is a useful resource for anything related to running a competitive L4D2 server and competitive configs.\
