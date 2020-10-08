@@ -107,3 +107,4 @@ If you believe that you or any other historical contributors haven't been credit
 * Visor
 * SirPlease
 * Wicket
+* Devilesk
