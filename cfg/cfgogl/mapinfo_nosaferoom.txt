@@ -1,0 +1,803 @@
+"MapInfo"
+{
+	"c1m1_hotel"
+	{
+		"tank_z_fix"        "1"
+		"max_tank_z"        "1200.000000"
+		"tank_warpto"       "2168.357666 5803.427734 2464.031250"
+		"tank_ban_flow_min" "28"
+        "tank_ban_flow_max" "82"
+		"max_distance"      "400"
+	}
+	"c1m2_streets"
+	{
+		"horde_limit"       "120"
+	}
+	"c1m3_mall"
+	{
+		"tank_ban_flow_min" "64"
+		"tank_ban_flow_max" "68"
+		"max_distance"      "600"
+		"horde_limit"       "180"
+	}
+	"c1m4_atrium"
+	{
+		"max_distance"      "700"
+		"ItemLimits"
+		{
+			"pain_pills"    "0"
+		}
+		"horde_tank"        "1"
+	}
+	"c2m1_highway"
+	{
+	}
+	"c2m2_fairgrounds"
+	{
+		"max_distance"      "500"
+		"horde_limit"       "120"
+	}
+	"c2m3_coaster"
+	{
+		"max_distance"      "600"
+		"horde_limit"       "300"
+		"tank_ban_flow_min" "56"
+		"tank_ban_flow_max" "100"
+	}
+	"c2m4_barns"
+	{
+		"max_distance"      "500"
+		"horde_limit"       "150"
+	}
+	"c2m5_concert"
+	{
+		"ItemLimits"
+		{
+			"pain_pills"    "0"
+		}
+	}
+	"c3m1_plankcountry"
+	{
+		"max_distance"      "500"
+		"tank_ban_flow_min" "45"
+		"tank_ban_flow_max" "60"
+	}
+	"c3m2_swamp"
+	{
+		"max_distance"      "500"
+	}
+	"c3m3_shantytown"
+	{
+		"max_distance"      "500"
+	}
+	"c3m4_plantation"
+	{
+		"ItemLimits"
+		{
+			"pain_pills"    "0"
+		}
+	}
+	"c4m1_milltown_a"
+	{
+		"max_distance"      "400"
+	}
+	"c4m2_sugarmill_a"
+	{
+		"max_distance"      "500"
+		"tank_ban_flow_min" "80"
+		"tank_ban_flow_max" "100"
+	}
+	"c4m3_sugarmill_b"
+	{
+		"max_distance"      "500"
+		"tank_ban_flow_min" "20"
+		"tank_ban_flow_max" "35"
+	}
+	"c4m4_milltown_b"
+	{
+		"max_distance"      "400"
+	}
+	"c4m5_milltown_escape"
+	{
+		"max_distance"      "400"
+		"ItemLimits"
+		{
+			"pain_pills"    "0"
+		}
+	}
+	"c5m1_waterfront"
+	{
+		"max_distance"      "300"
+		"tank_ban_flow_min" "0"
+		"tank_ban_flow_max" "38"
+	}
+	"c5m2_park"
+	{
+		"tank_ban_flow_min" "49"
+		"tank_ban_flow_max" "54"
+		"horde_limit"       "240"
+	}
+	"c5m3_cemetery"
+	{
+		"tank_ban_flow_min" "50"
+		"tank_ban_flow_max" "70"
+	}
+	"c5m4_quarter"
+	{
+		"tank_ban_flow_min" "80"
+		"tank_ban_flow_max" "100"
+	}
+	"c5m5_bridge"
+	{
+		"max_distance"      "600"
+	}
+	"c6m1_riverbank"
+	{
+		"max_distance"      "500"
+	}
+	"c6m2_bedlam"
+	{
+		"max_distance"      "800"
+		"tank_ban_flow_min" "74"
+		"tank_ban_flow_max" "100"
+	}
+	"c6m3_port"
+	{
+		"max_distance"      "700"
+		"ItemLimits"
+		{
+			"pain_pills"    "0"
+		}
+	}
+	"c7m1_docks"
+	{
+		"max_distance"      "600"
+	}
+	"c7m2_barge"
+	{
+		"max_distance"      "700"
+		"tank_ban_flow_min" "72"
+		"tank_ban_flow_max" "78"
+	}
+	"c7m3_port"
+	{
+		"max_distance"      "700"
+		"ItemLimits"
+		{
+			"pain_pills"    "0"
+		}
+	}
+	"c8m1_apartment"
+	{
+		"max_distance"      "400"
+	}
+	"c8m2_subway"
+	{
+	}
+	"c8m3_sewers"
+	{
+		"max_distance"      "600"
+		"tank_ban_flow_min" "55"
+		"tank_ban_flow_max" "80"
+	}
+	"c8m4_interior"
+	{
+		"tank_z_fix"        "1"
+		"max_tank_z"        "4000.000000"
+		"tank_warpto"       "13428.627930 15072.313477 486.031250"
+		"max_distance"      "500"
+	}
+	"c8m5_rooftop"
+	{
+		"tank_ban_flow_min" "0"
+        "tank_ban_flow_max" "55"
+		"ItemLimits"
+		{
+			"pain_pills"    "0"
+		}
+	}
+	"c9m1_alleys"
+	{
+	}
+	"c9m2_lots"
+	{
+		"max_distance"      "800"
+		"ItemLimits"
+		{
+			"pain_pills"    "2"
+		}
+	}
+	"c10m1_caves"
+	{
+		"max_distance"      "300"
+	}
+	"c10m2_drainage"
+	{
+		"max_distance"      "400"
+	}
+	"c10m3_ranchhouse"
+	{
+		"max_distance"      "500"
+	}
+	"c10m4_mainstreet"
+	{
+		"horde_limit"       "180"
+	}
+	"c10m5_houseboat"
+	{
+		"ItemLimits"
+		{
+			"pain_pills"    "0"
+		}
+	}
+	"c11m1_greenhouse"
+	{
+		"max_distance"      "300"
+	}
+	"c11m2_offices"
+	{
+		"max_distance"      "600"
+	}
+	"c11m3_garage"
+	{
+	}
+	"c11m4_terminal"
+	{
+		"max_distance"      "500"
+	}
+	"c11m5_runway"
+	{
+		"ItemLimits"
+		{
+			"pain_pills"    "0"
+		}
+	}
+	"c12m1_hilltop"
+	{
+		"tank_ban_flow_min" "0"
+		"tank_ban_flow_max" "57"
+		"max_distance"      "300"
+	}
+	"c12m2_traintunnel"
+	{
+		"max_distance"      "400"
+	}
+	"c12m3_bridge"
+	{
+		"tank_ban_flow_min" "82"
+		"tank_ban_flow_max" "100"
+		"max_distance"      "500"
+		"horde_limit"       "90"
+	}
+	"c12m4_barn"
+	{
+		"tank_ban_flow_min" "47"
+		"tank_ban_flow_max" "57"
+		"max_distance"      "600"
+		"horde_limit"       "60"
+	}
+	"c12m5_cornfield"
+	{
+		"tank_ban_flow_min" "80"
+		"tank_ban_flow_max" "100"
+		"ItemLimits"
+		{
+			"pain_pills"    "0"
+		}
+	}
+	"c13m1_alpinecreek"
+	{
+	}
+	"c13m2_southpinestream"
+	{
+	}
+	"c13m3_memorialbridge"
+	{
+	}
+	"c13m4_cutthroatcreek"
+	{
+	}
+	"c5m1_darkwaterfront"
+	{
+		"tank_ban_flow_min" "0"
+		"tank_ban_flow_max" "38"
+		"max_distance" 	    "300"
+	}
+	"c5m2_darkpark"
+	{
+	}
+	"c5m3_darkcemetery"
+	{
+		"tank_ban_flow_min" "50"
+		"tank_ban_flow_max" "70"
+	}
+	"c5m4_darkquarter"
+	{
+		"tank_ban_flow_min" "80"
+		"tank_ban_flow_max" "100"
+	}
+	"c5m5_darkbridge"
+	{
+		"max_distance"      "500"
+	}
+	"cdta_01detour"
+	{
+	}
+	"cdta_02road"
+	{
+		"horde_limit"       "120"
+	}
+	"cdta_03warehouse"
+	{
+		"tank_ban_flow_min" "55"
+		"tank_ban_flow_max" "78"
+	}
+	"cdta_04onarail"
+	{
+		"tank_ban_flow_min" "0"
+		"tank_ban_flow_max" "28"
+		"max_distance"      "700"
+	}
+	"cdta_05finalroad"
+	{
+		"tank_ban_flow_min" "1"
+		"tank_ban_flow_max" "70"
+	}
+	"l4d_deathaboard01_prison"
+	{
+	}
+	"l4d_deathaboard02_yard"
+	{
+	}
+	"l4d_deathaboard03_docks"
+	{
+		"tank_ban_flow_min" "25"
+		"tank_ban_flow_max" "50"
+	}
+	"l4d_deathaboard04_ship"
+	{
+		"tank_ban_flow_min" "0"
+		"tank_ban_flow_max" "40"
+	}
+	"l4d_deathaboard05_light"
+	{
+		"ItemLimits"
+		{
+			"pain_pills"    "0"
+		}
+	}
+	"l4d_ihm01_forest"
+	{
+	}
+	"l4d_ihm02_manor"
+	{
+	}
+	"l4d_ihm03_underground"
+	{
+	}
+	"l4d_ihm04_lumberyard"
+	{
+		"max_distance"      "600"
+	}
+	"l4d_ihm05_lakeside"
+	{
+		"ItemLimits"
+		{
+			"pain_pills"    "0"
+		}
+	}
+	"bloodtracks_01"
+	{
+	}
+	"bloodtracks_02"
+	{
+	}
+	"bloodtracks_03"
+	{
+	}
+	"bloodtracks_04"
+	{
+		"ItemLimits"
+		{
+			"pain_pills"    "0"
+		}
+	}
+	"cwm1_intro"
+	{
+		"max_distance"      "400"
+	}
+	"cwm2_warehouse"
+	{
+		"tank_ban_flow_min" "72"
+		"tank_ban_flow_max" "99"
+		"max_distance"      "700"
+		"horde_limit"       "90"
+	}
+	"cwm3_drain"
+	{
+		"max_distance"      "600"
+	}
+	"cwm4_building"
+	{
+		"max_distance"      "700"
+	}
+	"l4d2_stadium1_apartment"
+	{
+		"tank_ban_flow_min" "0"
+		"tank_ban_flow_max" "45"
+		"max_distance"      "400"
+	}
+	"l4d2_vs_stadium2_riverwalk"
+	{
+		"max_distance"      "600"
+	}
+	"l4d2_stadium3_city1"
+	{
+		"tank_ban_flow_min" "0"
+		"tank_ban_flow_max" "40"
+		"max_distance"      "500"
+	}
+	"l4d2_stadium4_city2"
+	{
+		"max_distance"      "600"
+	}
+	"l4d2_stadium5_stadium"
+	{
+		"max_distance"      "700"
+	}
+	"l4d2_city17_01"
+	{
+	}
+	"l4d2_city17_02"
+	{
+		"tank_ban_flow_min" "0"
+		"tank_ban_flow_max" "80"
+	}
+	"l4d2_city17_03"
+	{
+		"tank_ban_flow_min" "55"
+		"tank_ban_flow_max" "68"
+	}
+	"l4d2_city17_04"
+	{
+		"tank_ban_flow_min" "25"
+		"tank_ban_flow_max" "68"
+	}
+	"l4d2_city17_05"
+	{
+		"ItemLimits"
+		{
+			"pain_pills"    "0"
+		}
+	}
+	"hf01_theforest"
+	{
+	}
+	"hf02_thesteeple"
+	{
+		"horde_limit"       "90"
+	}
+	"hf03_themansion"
+	{
+	}
+	"hf04_escape"
+	{
+	}
+	"ddg1_tower_v1_6"
+	{
+	}
+	"ddg2_gristmill_v1_5"
+	{
+	}
+	"ddg3_bluff_v1_5"
+	{
+		"ItemLimits"
+		{
+			"pain_pills"    "0"
+		}
+	}
+	"l4d_dbd2dc_anna_is_gone"
+	{
+		"max_distance"      "400"
+	}
+	"l4d_dbd2dc_the_mall"
+	{
+		"max_distance"      "600"
+	}
+	"l4d_dbd2dc_clean_up"
+	{
+		"max_distance"      "700"
+	}
+	"l4d_dbd2dc_undead_center"
+	{
+		"max_distance"      "700"
+	}
+	"l4d_dbd2dc_new_dawn"
+	{
+		"tank_ban_flow_min" "0"
+		"tank_ban_flow_max" "70"
+		"max_distance"      "800"
+	}
+	"uf1_boulevard"
+	{
+	}
+	"uf2_rooftops"
+	{
+		"tank_ban_flow_min" "60"
+		"tank_ban_flow_max" "100"
+	}
+	"uf3_harbor"
+	{
+	}
+	"uf4_airfield"
+	{
+	}
+	"l4d_149_1"
+	{
+		"tank_ban_flow_min" "30"
+		"tank_ban_flow_max" "62"
+	}
+	"l4d_149_2"
+	{
+	}
+	"l4d_149_3"
+	{
+		"tank_ban_flow_min" "0"
+		"tank_ban_flow_max" "75"
+	}
+	"l4d_149_4"
+	{
+		"tank_ban_flow_min" "45"
+		"tank_ban_flow_max" "85"
+	}
+	"l4d_149_5"
+	{
+		"ItemLimits"
+		{
+			"pain_pills"    "0"
+		}
+	}
+	"eu01_residential_b16"
+	{
+	}
+	"eu02_castle_b16"
+	{
+		"tank_ban_flow_min" "55"
+		"tank_ban_flow_max" "100"
+	}
+	"eu03_oldtown_b16"
+	{
+	}
+	"eu04_freeway_b16"
+	{
+	}
+	"eu05_train_b16"
+	{
+		"ItemLimits"
+		{
+			"pain_pills"    "0"
+		}
+	}
+	"srocchurch"
+	{
+		"tank_ban_flow_min" "0"
+		"tank_ban_flow_max" "25"
+		"max_distance"      "400"
+	}
+	"plaza_espana"
+	{
+		"max_distance"      "600"
+		"horde_limit"       "90"
+	}
+	"maria_cristina"
+	{
+		"max_distance"      "600"
+		"horde_limit"       "90"
+	}
+	"mnac"
+	{
+		"max_distance"      "800"
+	}
+	"jsarena201_town"
+	{
+		"max_distance"      "800"
+		"tank_ban_flow_min" "75"
+		"tank_ban_flow_max" "99"
+	}
+	"jsarena202_alley"
+	{
+		"tank_ban_flow_min" "35"
+		"tank_ban_flow_max" "70"
+	}
+	"jsarena203_roof"
+	{
+		"tank_ban_flow_min" "72"
+		"tank_ban_flow_max" "99"
+		"max_distance"      "600"
+	}
+	"jsarena204_arena"
+	{
+		"tank_ban_flow_min" "86"
+		"tank_ban_flow_max" "99"
+	}
+	"versus_1"
+	{
+		"tank_ban_flow_min" "84"
+		"tank_ban_flow_max" "99"
+		"max_distance"      "400"
+	}
+	"versus_2"
+	{
+		"max_distance"      "500"
+	}
+	"versus_3"
+	{
+		"max_distance"      "600"
+		"tank_ban_flow_min" "30"
+		"tank_ban_flow_max" "78"
+	}
+	"versus_4"
+	{
+		"tank_ban_flow_min" "1"
+		"tank_ban_flow_max" "70"
+		"max_distance"      "700"
+	}
+	"l4d2_bts01_forest"
+	{
+		"tank_ban_flow_min" "1"
+		"tank_ban_flow_max" "50"
+	}
+	"l4d2_bts02_station"
+	{
+		"tank_ban_flow_min" "1"
+		"tank_ban_flow_max" "40"
+	}
+	"l4d2_bts03_town"
+	{
+		"max_distance"      "800"
+	}
+	"l4d2_bts04_cinema"
+	{
+	}
+	"l4d2_bts05_church"
+	{
+		"max_distance"      "800"
+	}
+	"l4d2_bts06_school"
+	{
+	}
+	"AirCrash"
+	{
+	}
+	"RiverMotel"
+	{
+		"tank_ban_flow_min" "20"
+		"tank_ban_flow_max" "55"
+	}
+	"OutSkirts"
+	{
+	}
+	"CityHall"
+	{
+		"tank_ban_flow_min" "35"
+		"tank_ban_flow_max" "72"
+		"max_distance"      "800"
+	}
+	"BombShelter"
+	{
+	}
+	"l4d2_diescraper1_apartment_361"
+	{
+		"tank_ban_flow_min" "30"
+		"tank_ban_flow_max" "50"
+	}
+	"l4d2_diescraper2_streets_361"
+	{
+		"horde_limit"       "90"
+	}
+	"l4d2_diescraper3_mid_361"
+	{
+		"horde_limit"       "60"
+	}
+	"l4d2_diescraper4_top_361"
+	{
+	}
+	"damitdc1"
+	{
+		"tank_ban_flow_min" "30"
+		"tank_ban_flow_max" "50"
+		"max_distance"      "600"
+	}
+	"damitdc2"
+	{
+		"tank_ban_flow_min" "0"
+		"tank_ban_flow_max" "75"
+		"max_distance"      "500"
+	}
+	"damitdc3"
+	{
+		"tank_ban_flow_min" "0"
+		"tank_ban_flow_max" "45"
+		"max_distance"      "700"
+	}
+	"damitdc4"
+	{
+		"tank_ban_flow_min" "0"
+		"tank_ban_flow_max" "70"
+	}
+	"l4d_tbm_1"
+	{
+	}
+	"l4d_tbm_2"
+	{
+		"tank_ban_flow_min" "52"
+		"tank_ban_flow_max" "88"
+		"max_distance"      "600"
+		"horde_limit"       "60"
+	}
+	"l4d_tbm_3"
+	{
+		"tank_ban_flow_min" "60"
+		"tank_ban_flow_max" "80"
+		"max_distance"      "500"
+		"horde_limit"       "60"
+	}
+	"l4d_tbm_4"
+	{
+		"tank_ban_flow_min" "0"
+		"tank_ban_flow_max" "25"
+		"max_distance"      "700"
+	}
+	"l4d_tbm_5"
+	{
+		"tank_ban_flow_min" "50"
+		"tank_ban_flow_max" "100"
+		"max_distance"      "600"
+	}
+	"l4d2_fallindeath01"
+	{
+		"max_distance"      "500"
+		"max_distance"		"500"
+	}
+	
+	"l4d2_fallindeath02"
+	{
+		"max_distance"		"500"
+	}
+	"l4d2_fallindeath03"
+	{
+		"max_distance"		"600"
+	}
+	"l4d2_fallindeath04"
+	{
+		"max_distance"		"800"
+		"tank_ban_flow_min" "0"
+		"tank_ban_flow_max" "40"
+	}
+	"l4d2_daybreak01_hotel"
+	{
+		"max_distance"      "500"
+	}
+	"l4d2_daybreak02_coastline"
+	{
+	}
+	"l4d2_daybreak03_bridge"
+	{
+	}
+	"l4d2_daybreak04_cruise"
+	{
+		"tank_ban_flow_min" "35"
+		"tank_ban_flow_max" "60"
+		"max_distance"      "600"
+	}
+	"l4d2_daybreak05_rescue"
+	{
+		"max_distance"      "800"
+	}
+	"l4d2_ff04_plant"
+	{
+		"tank_ban_flow_min" "56"
+		"tank_ban_flow_max" "99"
+		"horde_limit"       "200"
+	}
+}
