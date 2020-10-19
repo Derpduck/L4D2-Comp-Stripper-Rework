@@ -53,7 +53,7 @@ How to view these officially implementated map changes can be viewed in-game:
     * Additional changes may also be printed to the console but not highlighted.
 4. Type `script HideUpdate()` to stop highlighting the changes.
 
-Thanks to this we also now have the functionality to view Stripper entities in-game easily, simply add `"mapupdate" "1"` to the entity parameters. Prefixing the `targetname` field with `anv_mapfixes` will enable full functionality of seeing the name and properties of entities.
+Thanks to this we also now have the functionality to view Stripper entities in-game easily, simply add a `targetname` parameter prefixed with `anv_mapfixes_` to enable full the functionality ShowUpdate with the added entities.
 
 ## Official Map Sources
 ### Decompiled VMFs (Valve Map Format)
