@@ -1,18 +1,18 @@
 # L4D2 Competitive Stripper Rework
-#### Version: v0.0.0-alpha
+#### Version: v0.1.0-dev
 #### Released: N/A
 
 ## Important Links
-#### [Complete Map Changelog](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/wiki/Map-Changes)
-##### [Documentation / Guides](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/wiki)
-##### [Releases](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/releases)
-##### [Version Patch Notes](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/blob/master/CHANGELOG.md)
-##### [Development Branch](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/tree/dev)
-##### [Issues](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/issues) - Bug Reports / Feature Requests / Suggestions
-##### [Projects](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/projects) - See what's being worked on!
-##### [Templates](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/tree/master/_Templates)
+### [Complete Map Changes](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/wiki/Map-Changes)
+#### [Wiki](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/wiki) - Documentation / Guides
+#### [Releases](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/releases)
+#### [Patch Notes](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/blob/master/CHANGELOG.md) - Patch notes for each release version
+#### [Development Branch](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/tree/dev) - See changes currently under development
+#### [Issues](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/issues) - Bug Reports / Feature Requests / Suggestions
+#### [Projects](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/projects) - See what's being worked on!
+#### [Templates](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/tree/master/_Templates)
 
-## About
+## About The Project
 This repository is for reworking the Stripper:Source map changes for competitive L4D2 from scratch, ensuring full compatibility with the map changes added to the game by the Last Stand update.
 
 The aim is to re-implement improved versions of historical changes, unify map modifications across servers and configs, and providing a basic template that already includes all necessary fixes and improvements, which can easily be added to or modified by any server owners and config developers.
