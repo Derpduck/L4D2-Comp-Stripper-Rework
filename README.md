@@ -41,7 +41,7 @@ This plugin is flawed and does apply changes to both versus rounds. All function
 The following plugins can be removed from configs using the rework:
 * **clip_removal** - Redundant, poor functionality, compatibility issues with reworked clips
 * **l4d2_saferoom_gun_control** - Legacy ProMod plugin
-
+    * **saferoom_gun_control.txt** - Dependent file that defines rules for saferoom weapons
 
 
 ## Documentation
