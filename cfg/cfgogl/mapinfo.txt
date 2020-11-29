@@ -63,7 +63,6 @@
 		"start_dist"        "50.000000"
 		"start_extra_dist"  "0.000000"
 		"end_dist"          "150.000000"
-		"max_distance"      "500"
 		"horde_limit"       "120"
 	}
 	"c2m3_coaster"
@@ -73,9 +72,7 @@
 		"start_dist"        "50.000000"
 		"start_extra_dist"  "200.000000"
 		"end_dist"          "150.000000"
-		"max_distance"      "600"
-		"horde_limit"       "300"
-		"tank_ban_flow_min" "56"
+		"tank_ban_flow_min" "58"
 		"tank_ban_flow_max" "100"
 	}
 	"c2m4_barns"
