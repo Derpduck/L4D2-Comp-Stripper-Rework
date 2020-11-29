@@ -3,7 +3,7 @@
 #### Released: N/A
 
 ## Important Links
-### [Complete Map Changes](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/wiki/Map-Changes)
+### [Map Changes Documentation](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/wiki/Map-Changes)
 #### [Wiki](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/wiki) - Documentation / Guides
 #### [Releases](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/releases)
 #### [Patch Notes](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/blob/master/CHANGELOG.md) - Patch notes for each release version
