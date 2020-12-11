@@ -22,6 +22,7 @@
 		"start_extra_dist"  "250.000000"
 		"end_dist"          "200.000000"
 		"horde_limit"       "150"
+		"max_distance"      "700"
 	}
 	"c1m3_mall"
 	{
@@ -145,7 +146,7 @@
 		"start_dist"        "100.000000"
 		"start_extra_dist"  "500.000000"
 		"end_dist"          "275.000000"
-		"max_distance"      "400"
+		"max_distance"      "500"
 	}
 	"c4m2_sugarmill_a"
 	{
@@ -154,7 +155,7 @@
 		"start_dist"        "100.000000"
 		"start_extra_dist"  "250.000000"
 		"end_dist"          "150.000000"
-		"max_distance"      "500"
+		"max_distance"      "600"
 		"tank_ban_flow_min" "80"
 		"tank_ban_flow_max" "100"
 	}
@@ -176,7 +177,7 @@
 		"start_dist"        "50.000000"
 		"start_extra_dist"  "275.000000"
 		"end_dist"          "200.000000"
-		"max_distance"      "400"
+		"max_distance"      "500"
 	}
 	"c4m5_milltown_escape"
 	{
@@ -185,7 +186,7 @@
 		"start_dist"        "50.000000"
 		"start_extra_dist"  "350.000000"
 		"end_dist"          "100.000000"
-		"max_distance"      "400"
+		"max_distance"      "700"
 		"ItemLimits"
 		{
 			"pain_pills"    "0"
