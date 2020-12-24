@@ -1,6 +1,18 @@
 # L4D2 Competitive Stripper Rework
+#### Version: v0.1.0-dev
+#### Released: N/A
 
-## About
+## Important Links
+### [Map Changes Documentation](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/wiki/Map-Changes)
+#### [Wiki](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/wiki) - Documentation / Guides
+#### [Releases](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/releases)
+#### [Patch Notes](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/blob/master/CHANGELOG.md) - Patch notes for each release version
+#### [Development Branch](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/tree/dev) - See changes currently under development
+#### [Issues](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/issues) - Bug Reports / Feature Requests / Suggestions
+#### [Projects](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/projects) - See what's being worked on!
+#### [Templates](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/tree/master/_Templates)
+
+## About The Project
 This repository is for reworking the Stripper:Source map changes for competitive L4D2 from scratch, ensuring full compatibility with the map changes added to the game by the Last Stand update.
 
 The aim is to re-implement improved versions of historical changes, unify map modifications across servers and configs, and providing a basic template that already includes all necessary fixes and improvements, which can easily be added to or modified by any server owners and config developers.
@@ -9,7 +21,7 @@ While many of the changes will appear similar to those included in from competit
 
 
 ## Usage
-Any server owner or config developer can freely use this as a base for their own Stripper modifications _**provided credit is given**_ to this repository.
+Any server owner or config developer can freely use this as a base for their own Stripper modifications if _**credit is given**_ to this repository.
 
 All changes are tested and implemented with the latest version of Stripper:Source only.
 * **Version:** 1.2.2 (hg82) `(updated 2011-04-15)`
@@ -24,6 +36,12 @@ The Stripper Rework is designed for full compatibility with the Last Stand map c
 In order to ensure full compatibility with the changes provided by this rework, it is highly recommended that servers **DO NOT** load `clip_removal.smx` with configs that use this rework.
 
 This plugin is flawed and does apply changes to both versus rounds. All functionality of this plugin can also be achieved with Stripper, making it entirely redundant.
+
+#### Redundant Plugins
+The following plugins can be removed from configs using the rework:
+* **clip_removal** - Redundant, poor functionality, compatibility issues with reworked clips
+* **l4d2_saferoom_gun_control** - Legacy ProMod plugin
+    * **saferoom_gun_control.txt** - Dependent file that defines rules for saferoom weapons
 
 
 ## Documentation
@@ -62,7 +80,7 @@ Thanks to this we now have the functionality to easily view Stripper entities in
 
 These files can be viewed and modified in the Hammer Editor by installing L4D2 Authoring Tools on Steam.\
 It is highly recommended that any work done for this project is done through Hammer then implemented into Stripper to ensure values are accurate as possible.
-**Disclaimer:** These files may not be 100% accurate as the decompiling process is not perfect, and the source files not provided by Valve in any official capacity.
+**Disclaimer:** These files may not be 100% accurate as the decompiling process is not perfect, and the source files are not provided by Valve in any official capacity.
 
 ### Decompiled VScripts
 **Decompiled versions of L4D2's VScripts can be found here:**\
@@ -90,12 +108,12 @@ Raise any issues or questions on the **[issue](https://github.com/Derpduck/L4D2-
 
 
 ## Credits
-If you believe that you or any other historical contributors haven't been credited properly please raise an **[issue](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/issues)** so that they can be credited appropriately for their Stripper:Source and related work.
+If you believe that you or any other historical contributors haven't been credited properly please raise an **[issue](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/issues)** so that they can be credited for their Stripper:Source and other related work.
 
 ### Rework Contributors
 * Derpduck
 
-### Historical Contributors:
+### Historical Contributors
 * ProdigySim
 * Jacob
 * Blade
@@ -105,6 +123,10 @@ If you believe that you or any other historical contributors haven't been credit
 * Estoopi
 * NF
 * Visor
+* RedJaneDoe
+* Electrik
 * SirPlease
+* Spoon
 * Wicket
 * Devilesk
+* Tsuey

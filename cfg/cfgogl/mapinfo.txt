@@ -12,7 +12,7 @@
 		"tank_warpto"       "2168.357666 5803.427734 2464.031250"
 		"tank_ban_flow_min" "38"
         "tank_ban_flow_max" "79"
-		"max_distance"      "400"
+		"max_distance"      "500"
 	}
 	"c1m2_streets"
 	{
@@ -22,6 +22,7 @@
 		"start_extra_dist"  "250.000000"
 		"end_dist"          "200.000000"
 		"horde_limit"       "150"
+		"max_distance"      "700"
 	}
 	"c1m3_mall"
 	{
@@ -41,7 +42,7 @@
 		"start_dist"        "50.000000"
 		"start_extra_dist"  "150.000000"
 		"end_dist"          "150.000000"
-		"max_distance"      "700"
+		"max_distance"      "800"
 		"ItemLimits"
 		{
 			"pain_pills"    "0"
@@ -63,7 +64,6 @@
 		"start_dist"        "50.000000"
 		"start_extra_dist"  "0.000000"
 		"end_dist"          "150.000000"
-		"max_distance"      "500"
 		"horde_limit"       "120"
 	}
 	"c2m3_coaster"
@@ -73,9 +73,7 @@
 		"start_dist"        "50.000000"
 		"start_extra_dist"  "200.000000"
 		"end_dist"          "150.000000"
-		"max_distance"      "600"
-		"horde_limit"       "300"
-		"tank_ban_flow_min" "56"
+		"tank_ban_flow_min" "58"
 		"tank_ban_flow_max" "100"
 	}
 	"c2m4_barns"
@@ -148,7 +146,7 @@
 		"start_dist"        "100.000000"
 		"start_extra_dist"  "500.000000"
 		"end_dist"          "275.000000"
-		"max_distance"      "400"
+		"max_distance"      "500"
 	}
 	"c4m2_sugarmill_a"
 	{
@@ -157,7 +155,7 @@
 		"start_dist"        "100.000000"
 		"start_extra_dist"  "250.000000"
 		"end_dist"          "150.000000"
-		"max_distance"      "500"
+		"max_distance"      "600"
 		"tank_ban_flow_min" "80"
 		"tank_ban_flow_max" "100"
 	}
@@ -169,8 +167,8 @@
 		"start_extra_dist"  "200.000000"
 		"end_dist"          "300.000000"
 		"max_distance"      "500"
-		"tank_ban_flow_min" "20"
-		"tank_ban_flow_max" "35"
+		"tank_ban_flow_min" "30"
+		"tank_ban_flow_max" "36"
 	}
 	"c4m4_milltown_b"
 	{
@@ -179,7 +177,7 @@
 		"start_dist"        "50.000000"
 		"start_extra_dist"  "275.000000"
 		"end_dist"          "200.000000"
-		"max_distance"      "400"
+		"max_distance"      "500"
 	}
 	"c4m5_milltown_escape"
 	{
@@ -188,7 +186,7 @@
 		"start_dist"        "50.000000"
 		"start_extra_dist"  "350.000000"
 		"end_dist"          "100.000000"
-		"max_distance"      "400"
+		"max_distance"      "700"
 		"ItemLimits"
 		{
 			"pain_pills"    "0"
