@@ -112,6 +112,7 @@ If you believe that you or any other historical contributors haven't been credit
 
 ### Rework Contributors
 * Derpduck
+* SirPlease
 
 ### Historical Contributors
 * ProdigySim
