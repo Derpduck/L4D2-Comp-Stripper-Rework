@@ -212,7 +212,6 @@
 		"end_dist"          "250.000000"
 		"tank_ban_flow_min" "49"
 		"tank_ban_flow_max" "54"
-		"horde_limit"       "240"
 	}
 	"c5m3_cemetery"
 	{
