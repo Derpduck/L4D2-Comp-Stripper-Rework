@@ -46,13 +46,13 @@ The following plugins can be removed from configs using the rework:
 
 
 ## Documentation
-A complete changelog and documentation of changes by map is available on the **[wiki](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/wiki)**.
+A complete changelog for each map is available on the **[wiki](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/wiki)**.
 
-Information on best practices for contributors and help setting up a local/listen server to run Sourcemod with Stripper:Source can also be found on the wiki.
+Documentation for contributors and anyone looking to understand the implementation of Stripper:Source changes can also be found on the wiki.
 
-Templates for Stripper files can be found in the `_Templates` folder. Use these to ensure consistency between all Stripper implementations and to make it as easy as possible for others to use and modify in the future.
+Use the templates found in the [Templates](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/tree/master/_Templates) folder to ensure consistency with all Stripper:Source implementations found in this rework, and to make it as easy as possible for future contributors to modify.
 
-To see what is being worked on currently, planned changes, and potential ideas for changes check out the **[Projects](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/projects)** tab. 
+To see what is being worked on currently, planned changes, and potential ideas for changes check out **[Projects](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/projects)**. 
 
 
 ## Official Map Updates
