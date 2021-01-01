@@ -1,5 +1,5 @@
 # L4D2 Competitive Stripper Rework
-#### Version: v0.4.0-dev
+#### Version: v0-dev
 #### Released: N/A
 
 ## Important Links
@@ -31,7 +31,12 @@ All changes are tested and implemented with the latest version of Stripper:Sourc
 
 
 ## Compatibility
-The Stripper Rework is designed for full compatibility with the Last Stand map changes, as a result there is no need to modifiy the `mapspawn.nut` file. The removal of any entities added through this method will be handled by Stripper.
+The Stripper Rework is designed for full compatibility with the Last Stand map changes, as a result there is no need to modifiy `mapspawn.nut` or related files. The removal of any entities added through this method will be handled by Stripper:Source.
+
+Servers should ensure the following scripts (located in `left4dead2/scripts/vscripts`) are unmodified:
+* mapspawn.nut
+* anv_mapfixes.nut
+* anv_versus.nut
 
 In order to ensure full compatibility with the changes provided by this rework, it is highly recommended that servers **DO NOT** load `clip_removal.smx` with configs that use this rework.
 

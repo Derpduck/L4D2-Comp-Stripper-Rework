@@ -231,7 +231,7 @@
 		"start_dist"        "50.000000"
 		"start_extra_dist"  "200.000000"
 		"end_dist"          "350.000000"
-		"tank_ban_flow_min" "84"
+		"tank_ban_flow_min" "82"
 		"tank_ban_flow_max" "100"
 	}
 	"c5m5_bridge"
