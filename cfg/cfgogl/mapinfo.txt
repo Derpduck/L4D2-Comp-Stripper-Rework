@@ -212,6 +212,7 @@
 		"end_dist"          "250.000000"
 		"tank_ban_flow_min" "49"
 		"tank_ban_flow_max" "54"
+		"max_distance"      "600"
 	}
 	"c5m3_cemetery"
 	{
