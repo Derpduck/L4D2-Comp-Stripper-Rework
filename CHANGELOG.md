@@ -2,7 +2,7 @@
 # Changelog
 
 ## Current Release
-### v1 - Released: 2020-01-03
+### v1 - Released: 2021-01-03
 * Initial release
     * Global Fixes
 	* Dead Center
