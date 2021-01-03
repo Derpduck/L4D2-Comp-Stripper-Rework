@@ -1,6 +1,6 @@
 # L4D2 Competitive Stripper Rework
-#### Version: v0-dev
-#### Released: N/A
+#### Version: v1
+#### Released: 2020-01-03
 
 ## Important Links
 ### [Map Changes Documentation](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/wiki/Map-Changes)
@@ -55,7 +55,7 @@ The following plugins can be removed from configs using the rework:
 * **l4d2_fireworks_noise_block** - Silenced the firework sounds on the Dark Carnival finale
 
 #### Other Redundant Files
-* **addons/sourcemod/configs/confogl/mapinfo.txt** - This mapinfo file serves no purpose and should be removed from all servers using Sir's L4D2 competitive rework, instead mapinfo should be loaded from the config folder
+* **addons/sourcemod/configs/confogl/mapinfo.txt** - This mapinfo file serves no purpose for competitive configs, instead mapinfo should be loaded from the config folder
 * **addons/sourcemod/configs/l4d2lib/mapinfo.txt** - Same as above
 * **addons/sourcemod/configs/confogl/entityremove.txt** - Redundant file that defines list of entities to be removed
 
@@ -65,7 +65,7 @@ A complete changelog for each map is available on the **[wiki](https://github.co
 
 Documentation for contributors and anyone looking to understand the implementation of Stripper:Source changes can also be found on the wiki.
 
-Use the templates found in the [Templates](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/tree/master/_Templates) folder to ensure consistency with all Stripper:Source implementations found in this rework, and to make it as easy as possible for future contributors to modify.
+Use the templates found in the **[Templates](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/tree/master/_Templates)** folder to ensure consistency with all Stripper:Source implementations found in this rework, and to make it as easy as possible for future contributors to modify.
 
 To see what is being worked on currently, planned changes, and potential ideas for changes check out **[Projects](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/projects)**.
 
