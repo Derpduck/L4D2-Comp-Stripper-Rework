@@ -15,12 +15,15 @@
 ## About The Project
 This repository is for reworking the Stripper:Source map changes for competitive L4D2 from scratch, ensuring full compatibility with the map changes added to the game by the Last Stand update.
 
-The aim is to re-implement improved versions of historical changes, unify map modifications across servers and configs, and providing a basic template that already includes all necessary fixes and improvements, which can easily be added to or modified by any server owners and config developers.
+The aim is to re-implement improved versions of historical changes, unify map modifications across servers and configs, and providing a basic template that already includes all necessary fixes and improvements, which can easily be added to or modified by any server owners and config developers. There are significant changes on some maps to address balance issues observed in the competitive community, however it should be easy to locate these and exclude them for a more vanilla experience if desired.
 
 While many of the changes will appear similar to those included in from competitive Stripper:Source modifications, as they are designed to address the same issues and meet the expectations of the competitive community, the goal is to re-create everything from the ground up to ensure the best possible implementation of these changes.
 
 
 ## Usage
+
+### [Installation Instructions](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/wiki/Server-Installation-Guide)
+
 Any server owner or config developer can freely use this as a base for their own Stripper modifications if _**credit is given**_ to this repository.
 
 All changes are tested and implemented with the latest version of Stripper:Source only.
@@ -47,7 +50,14 @@ The following plugins can be removed from configs using the rework:
 * **clip_removal** - Redundant, poor functionality, compatibility issues with reworked clips
 * **l4d2_saferoom_gun_control** - Legacy ProMod plugin
     * **saferoom_gun_control.txt** - Dependent file that defines rules for saferoom weapons
+* **holdout_bonus** - Legacy ProMod plugin
+    * **holdoutmapinfo.txt** - Dependent file that defines hooks and values for holdout bonus
 * **l4d2_fireworks_noise_block** - Silenced the firework sounds on the Dark Carnival finale
+
+#### Other Redundant Files
+* **addons/sourcemod/configs/confogl/mapinfo.txt** - This mapinfo file serves no purpose and should be removed from all servers using Sir's L4D2 competitive rework, instead mapinfo should be loaded from the config folder
+* **addons/sourcemod/configs/l4d2lib/mapinfo.txt** - Same as above
+* **addons/sourcemod/configs/confogl/entityremove.txt** - Redundant file that defines list of entities to be removed
 
 
 ## Documentation
@@ -57,7 +67,9 @@ Documentation for contributors and anyone looking to understand the implementati
 
 Use the templates found in the [Templates](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/tree/master/_Templates) folder to ensure consistency with all Stripper:Source implementations found in this rework, and to make it as easy as possible for future contributors to modify.
 
-To see what is being worked on currently, planned changes, and potential ideas for changes check out **[Projects](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/projects)**. 
+To see what is being worked on currently, planned changes, and potential ideas for changes check out **[Projects](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/projects)**.
+
+If a well known exploit does not appear to be blocked, it is likely to have been blocked in The Last Stand update. If this is not the case, create an **[issue](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/issues)** for it.
 
 
 ## Official Map Updates

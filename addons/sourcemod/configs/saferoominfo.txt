@@ -379,6 +379,18 @@
 		"start_loc_a"	"-3631.93 -9377.93 318.42"
 		"start_loc_b"	"-3134.19 -8887.80 513.99"
 	}
+	"c14m1_junkyard"
+	{
+		"start_loc_a"	"-5152 -9872 224"
+		"start_loc_b"	"-3552 -11120 -320"
+		"end_loc_a"	"-3444 10692 148"
+		"end_loc_b"	"-2924 10176 -136"
+	}
+	"c14m2_lighthouse"
+	{
+		"start_loc_a"	"1904 -700 712"
+		"start_loc_b"	"2420 -1220 440"
+	}
 	"c5m1_darkwaterfront"
 	{
 		"start_loc_a"	"668.80 821.66 -204.64"
