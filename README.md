@@ -7,9 +7,10 @@
 #### [Wiki](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/wiki) - Documentation / Guides
 #### [Releases](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/releases)
 #### [Patch Notes](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/blob/master/CHANGELOG.md) - Patch notes for each release version
+#### [Projects](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/projects) - See what's being worked on!
 #### [Development Branch](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/tree/dev) - See changes currently under development
 #### [Issues](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/issues) - Bug Reports / Feature Requests / Suggestions
-#### [Projects](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/projects) - See what's being worked on!
+#### [Discussions](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/discussions) - General community discussion and feedback outside the scope of issues
 #### [Templates](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/tree/master/_Templates)
 
 ## About The Project
@@ -39,9 +40,9 @@ All changes are tested and implemented with the latest version of Stripper:Sourc
 The Stripper Rework is designed for full compatibility with the Last Stand map changes, as a result there is no need to modifiy `mapspawn.nut` or related files. The removal of any entities added through this method will be handled by Stripper:Source.
 
 Servers should ensure the following scripts (located in `left4dead2/scripts/vscripts`) are unmodified:
-* mapspawn.nut
-* anv_mapfixes.nut
-* anv_versus.nut
+* **mapspawn.nut**
+* **anv_mapfixes.nut**
+* **anv_versus.nut**
 
 In order to ensure full compatibility with the changes provided by this rework, it is highly recommended that servers **DO NOT** load `clip_removal.smx` with configs that use this rework.
 
@@ -55,6 +56,7 @@ The following plugins can be removed from configs using the rework:
 * **holdout_bonus** - ProMod plugin that awards bonus points for holdout events
     * **holdoutmapinfo.txt** - Dependent file that defines hooks and values for holdout bonus
 * **l4d2_fireworks_noise_block** - Silences firework sounds on the Dark Carnival finale
+* **l4d_no_cans** - Removes gas cans, propane tanks, oxygen tanks and firework crates
 
 #### Other Redundant Files
 * **addons/sourcemod/configs/confogl/mapinfo.txt** - This mapinfo file serves no purpose for competitive configs, instead mapinfo should be loaded from the config folder
@@ -119,7 +121,7 @@ Before contributing it is recommended to read these guides (currently unfinished
 * **[Design Principles & Goals](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/wiki/Design-Principles-&-Goals)**
 * **[GitHub Guide](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/wiki/GitHub-Guide)**
 
-Raise any issues or questions on the **[issue](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/issues)** tab.
+Raise any issues or questions on the **[issues](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/issues)** tab.
 
 
 ## Credits
