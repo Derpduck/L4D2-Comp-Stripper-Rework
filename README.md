@@ -8,7 +8,6 @@
 #### [Releases](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/releases)
 #### [Patch Notes](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/blob/master/CHANGELOG.md) - Patch notes for each release version
 #### [Projects](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/projects) - See what's being worked on!
-#### [Development Branch](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/tree/dev) - See changes currently under development
 #### [Issues](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/issues) - Bug Reports / Feature Requests / Suggestions
 #### [Discussions](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/discussions) - General community discussion and feedback outside the scope of issues
 #### [Templates](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/tree/master/_Templates)
@@ -115,7 +114,7 @@ Stripper changes found in this project are inspired by previous competitive conf
 
 ## Contributing
 Anyone is able to fork this repository and create pull requests to contribute to the project and will be credited below.<br>
-To contribute simply create a **[pull request](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/pulls)**. The `dev` branch is preferred for PRs over the `master` branch.
+To contribute simply create a **[pull request](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/pulls)**.
 Before contributing it is recommended to read these guides (currently unfinished):
 * **[Contribution Style Guide](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/wiki/Contribution-Style-Guide)**
 * **[Design Principles & Goals](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/wiki/Design-Principles-&-Goals)**
