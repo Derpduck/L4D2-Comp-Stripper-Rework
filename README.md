@@ -38,10 +38,13 @@ All changes are tested and implemented with the latest version of Stripper:Sourc
 ## Compatibility
 The Stripper Rework is designed for full compatibility with the Last Stand map changes, as a result there is no need to modifiy `mapspawn.nut` or related files. The removal of any entities added through this method will be handled by Stripper:Source.
 
-Servers should ensure the following scripts (located in `left4dead2/scripts/vscripts`) are unmodified:
+Servers should ensure the following scripts are **NOT** located in `left4dead2/scripts/vscripts` or `update/scripts/vscripts`:
 * **mapspawn.nut**
 * **anv_mapfixes.nut**
 * **anv_versus.nut**
+
+If these scripts are present they will overwrite the default changes from the Last Stand update, the same applies if modified versions of these scripts are present.
+If you wish to load your own version of these scripts see instructions **[here](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework#official-map-updates)**.
 
 In order to ensure full compatibility with the changes provided by this rework, it is highly recommended that servers **DO NOT** load `clip_removal.smx` with configs that use this rework.
 
@@ -97,7 +100,7 @@ It is highly recommended that any work done for this project is done through Ham
 
 These scripts can be used as reference or as a base for modifying director scripts for maps.<br>
 Compiled versions of VScripts can be found in `left4dead2/pak01_dir.vpk`, or the `pak01_dir.vpk` of the respective DLC folders.<br>
-Compiled versions of new or updated VScripts from the Last Stand update can be found in `Left 4 Dead 2/update/pak01_dir.vpk`.
+Compiled versions of new or updated VScripts from the Last Stand update can be found in `update/pak01_dir.vpk`.
 
 ### Stripper Dumps
 To dump all entities on a map to text type `stripper_dump` in console while Stripper:Source is loaded.<br>
@@ -108,7 +111,7 @@ Files are dumped to the `left4dead2/addons/stripper/dumps` directory in `.txt` f
 **Resources and information for setting up a competitive L4D2 server can be found here:**<br>
 **[SirPlease/L4D2-Competitive-Rework](https://github.com/SirPlease/L4D2-Competitive-Rework)**
 
-This project is not part of the L4D2 Competitive Rework, however the competitive rework is a useful resource for anything related to running a competitive L4D2 server and competitive configs.<br>
+This project is **not** directly a part of the L4D2 Competitive Rework, however the competitive rework is a useful resource for anything related to running a competitive L4D2 server and competitive configs.<br>
 Stripper changes found in this project are inspired by previous competitive configs.
 
 

@@ -15,7 +15,7 @@
 	* c5m4: Blocked standing on the edge of the garage roof on the first street
 	* c5m4: Blocked standing on the edge of the electrical box after the pool room
 * Added a failsafe for fading out alarms to ensure they don't start playing again
-* Added `point_nav_attribute_region` to the `entity_template.cfg`
+* Added `point_nav_attribute_region` to `entity_template.cfg`
 
 ## Past Releases
 ### v1 - Released: 2021-01-03
