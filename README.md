@@ -5,9 +5,9 @@
 ## Important Links
 ### [Map Changes Documentation](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/wiki/Map-Changes)
 #### [Wiki](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/wiki) - Documentation / Guides
-#### [Releases](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/releases)
+#### [Releases](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/releases) - Stable releases, use these for your config / server
 #### [Patch Notes](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/blob/master/CHANGELOG.md) - Patch notes for each release version
-#### [Projects](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/projects) - See what's being worked on!
+#### [Projects](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/projects) - See what's being worked on and ideas
 #### [Issues](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/issues) - Bug Reports / Feature Requests / Suggestions
 #### [Discussions](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/discussions) - General community discussion and feedback outside the scope of issues
 #### [Templates](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/tree/master/_Templates)
