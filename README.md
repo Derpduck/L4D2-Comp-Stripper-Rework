@@ -133,6 +133,10 @@ If you believe that you or any other historical contributors haven't been credit
 * Derpduck
 * SirPlease
 
+#### Additional Help / Testing
+* J.
+* Target_7
+
 ### Historical Contributors
 * ProdigySim
 * Jacob
