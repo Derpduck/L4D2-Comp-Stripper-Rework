@@ -51,19 +51,22 @@ In order to ensure full compatibility with the changes provided by this rework, 
 This plugin is flawed and does apply changes to both versus rounds. All functionality of this plugin can also be achieved with Stripper, making it entirely redundant.
 
 #### Redundant Plugins
-The following plugins can be removed from configs using the rework:
+The following plugins should not be loaded when using the rework:
 * **clip_removal** - Redundant, poor functionality, compatibility issues with reworked clips
+* **l4d2_fireworks_noise_block** - Silences firework sounds on the Dark Carnival finale
+* **l4d_no_cans** - Removes gas cans, propane tanks, oxygen tanks and firework crates
+
+The following plugins are not made redundant by the rework, but are not recommended to use with the rework due to design conflicts:
 * **l4d2_saferoom_gun_control** - Legacy ProMod plugin that controls saferoom weapon spawns
     * **saferoom_gun_control.txt** - Dependent file that defines rules for saferoom weapons
 * **holdout_bonus** - ProMod plugin that awards bonus points for holdout events
     * **holdoutmapinfo.txt** - Dependent file that defines hooks and values for holdout bonus
-* **l4d2_fireworks_noise_block** - Silences firework sounds on the Dark Carnival finale
-* **l4d_no_cans** - Removes gas cans, propane tanks, oxygen tanks and firework crates
 
 #### Other Redundant Files
 * **addons/sourcemod/configs/confogl/mapinfo.txt** - This mapinfo file serves no purpose for competitive configs, instead mapinfo should be loaded from the config folder
 * **addons/sourcemod/configs/l4d2lib/mapinfo.txt** - Same as above
 * **addons/sourcemod/configs/confogl/entityremove.txt** - Redundant file that defines list of entities to be removed
+* **addons/sourcemod/configs/holdoutmapinfo.txt** - Redundant version of holdout bonus file, use the file in the config's folder set by `sm_hbonus_configpath`
 
 
 ## Documentation
