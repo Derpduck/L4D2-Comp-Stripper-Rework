@@ -11,6 +11,12 @@
 * Dead Center
 	* c1m1: Replaced the "pill bin" by the elevator that was filtered out by prop fixes
 	* c1m1: Removed fire sounds from the start of the map that can sometimes loop forever and play across the entire map
+	* c1m1: Added LOS blockers under added snack machines
+	* c1m1: Removed fire and building collapse sounds after the elevator
+	* c1m1: Removed scripted zombie spawns that fall through the windows at the end saferoom
+	* c1m2: Added a fence cover by the dumpster drop
+	* c1m2: Enabled the 2 alarm cars after the event
+	* c1m2: Added LOS blockers to added props after the event
 	* c1m4: Blocked gas cans from being launched by infected onto the 4th floor, and behind the walls on the 3rd floor corner cans
 * Dark Carnival
 	* c2m1: Adjusted position of added rocks near the end of the map
