@@ -17,7 +17,13 @@
 	* c1m2: Added a fence cover by the dumpster drop
 	* c1m2: Enabled the 2 alarm cars after the event
 	* c1m2: Added LOS blockers to added props after the event
+	* c1m2: Added boxes to the walkway before the gun store
+	* c1m2: Added a billboard by the walkway before the gun store
+	* c1m3: Added guareneteed shotgun and SMG spawns to the back corner before the event path
+	* c1m3: Added a clip to make the jump back up the one way drop slightly easier
+	* c1m3: Added an ammo pile on the boxes after the stairs on the event path
 	* c1m4: Blocked gas cans from being launched by infected onto the 4th floor, and behind the walls on the 3rd floor corner cans
+	* c1m4: Removed a left over clip from testing that was left in accidently
 * Dark Carnival
 	* c2m1: Adjusted position of added rocks near the end of the map
 	* c2m2: Adjusted angle of added foodcart and ladder to fix collision issues
