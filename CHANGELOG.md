@@ -8,6 +8,8 @@
 * All Maps
 	* Replaced all prop_physics_multiplayer with prop_physics (fixes custom campaigns ignoring prop fixes)
 	* Prevented added single pickup weapons from being moved before they have been picked up to prevent griefing
+	* Removed additional soundscape entities
+	* Removed microphone / speaker effects
 * Dead Center
 	* c1m1: Replaced the "pill bin" by the elevator that was filtered out by prop fixes
 	* c1m1: Removed fire sounds from the start of the map that can sometimes loop forever and play across the entire map
@@ -36,6 +38,8 @@
 	* c5m1: Added missing glass to wrecked car
 	* c5m2: Added clipping to improve the usage of the ladder on the tree by the gazebo
 	* c5m2: Fixed getting stuck at the top of some ladders added to the hedges for the park route rework
+	* c5m2: Added an ammo pile by the event button
+	* c5m3: Made the guns in the first house always spawn a shotgun and SMG
 	* c5m4: Removed the added pool table in the pool room
 	* c5m4: Adjusted the position of the added ammo pile at the event to be more visible
 * The Passifice / The Saccing
