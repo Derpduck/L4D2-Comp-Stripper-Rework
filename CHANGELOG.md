@@ -26,6 +26,7 @@
 	* c1m4: Removed a left over clip from testing that was left in accidently
 * Dark Carnival
 	* c2m1: Adjusted position of added rocks near the end of the map
+	* c2m2: Improved clipping on the sign above saferoom and by the peanut gallery
 	* c2m2: Adjusted angle of added foodcart and ladder to fix collision issues
 	* c2m2: Moved the added magnum spawn in the new area closer to the entrance and made it potentially spawn a pistol or magnum
 	* c2m2: Replaced the added fences by the slide with a vending machine and boxes
