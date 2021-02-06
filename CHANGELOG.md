@@ -33,6 +33,8 @@
 	* c2m4: Replaced the added plywood at the event to fix common infected nav issues
 * The Parish
 	* c5m1: Added missing glass to wrecked car
+	* c5m2: Added clipping to improve the usage of the ladder on the tree by the gazebo
+	* c5m2: Fixed getting stuck at the top of some ladders added to the hedges for the park route rework
 	* c5m4: Removed the added pool table in the pool room
 	* c5m4: Adjusted the position of the added ammo pile at the event to be more visible
 * The Passifice / The Saccing
