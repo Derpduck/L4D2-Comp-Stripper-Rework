@@ -25,6 +25,7 @@
 	* c1m2: Added LOS blockers to added props after the event
 	* c1m2: Added boxes to the walkway before the gun store
 	* c1m2: Added a billboard by the walkway before the gun store
+	* c1m3: Made the event infinite again
 	* c1m3: Added guareneteed shotgun and SMG spawns to the back corner before the event path
 	* c1m3: Added a clip to make the jump back up the one way drop slightly easier
 	* c1m3: Moved the hand truck at the start of the event path to a less obtrusive position

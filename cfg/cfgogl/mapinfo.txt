@@ -33,7 +33,6 @@
 		"end_dist"          "200.000000"
 		"tank_ban_flow_min" "64"
 		"tank_ban_flow_max" "68"
-		"horde_limit"       "150"
 	}
 	"c1m4_atrium"
 	{
