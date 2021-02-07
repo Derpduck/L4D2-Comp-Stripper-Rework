@@ -10,12 +10,16 @@
 	* Prevented added single pickup weapons from being moved before they have been picked up to prevent griefing
 	* Removed additional soundscape entities
 	* Removed microphone / speaker effects
+	* Fixed fire extinguishers falling off walls
 * Dead Center
 	* c1m1: Replaced the "pill bin" by the elevator that was filtered out by prop fixes
 	* c1m1: Removed fire sounds from the start of the map that can sometimes loop forever and play across the entire map
 	* c1m1: Added LOS blockers under added snack machines
 	* c1m1: Removed fire and building collapse sounds after the elevator
 	* c1m1: Removed scripted zombie spawns that fall through the windows at the end saferoom
+	* c1m1: Slightly reduced the fog strength on the ground floor
+	* c1m1: Blocked survivors from standing on the awning above the check-in desk
+	* c1m2: Removed the police car at the bottom of the first ramp (which was previously moved to the other end of the street)
 	* c1m2: Added a fence cover by the dumpster drop
 	* c1m2: Enabled the 2 alarm cars after the event
 	* c1m2: Added LOS blockers to added props after the event
@@ -23,6 +27,7 @@
 	* c1m2: Added a billboard by the walkway before the gun store
 	* c1m3: Added guareneteed shotgun and SMG spawns to the back corner before the event path
 	* c1m3: Added a clip to make the jump back up the one way drop slightly easier
+	* c1m3: Moved the hand truck at the start of the event path to a less obtrusive position
 	* c1m3: Added an ammo pile on the boxes after the stairs on the event path
 	* c1m4: Blocked gas cans from being launched by infected onto the 4th floor, and behind the walls on the 3rd floor corner cans
 	* c1m4: Removed a left over clip from testing that was left in accidently
