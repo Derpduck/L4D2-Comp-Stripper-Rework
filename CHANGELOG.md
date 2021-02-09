@@ -46,10 +46,11 @@
 	* c5m2: Fixed getting stuck at the top of some ladders added to the hedges for the park route rework
 	* c5m2: Added an ammo pile by the event button
 	* c5m3: Made the guns in the first house always spawn a shotgun and SMG
-	* c5m3: Make it easier to tell which cars are not alarmed by changing their colors (#12)
+	* c5m3: Made it easier to tell which cars are not alarmed by changing their colors (#12)
 	* c5m4: Removed the added pool table in the pool room
 	* c5m4: Adjusted the position of the added ammo pile at the event to be more visible
 * The Passifice / The Saccing
+	* c6m1: Disabled the alarm car at the start of the map that was enabled in v2
 	* Updated `thesaccing.vpk` to `thesaccing_v2.vpk`, which combines The Passing and The Sacrifice campaigns:
 		* Uses the updated mission files from the Last Stand update
 		* Fixes The Sacrifice map 1 tank not using the unique tank arms model
