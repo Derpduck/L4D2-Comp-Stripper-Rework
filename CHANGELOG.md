@@ -7,51 +7,63 @@
     * Swamp Fever
 * All Maps
 	* Replaced all prop_physics_multiplayer with prop_physics (fixes custom campaigns ignoring prop fixes)
-	* Prevented added single pickup weapons from being moved before they have been picked up to prevent griefing
+	* Fixed added single pickup weapons being movable before they have been picked up, to prevent griefing
 	* Removed additional soundscape entities
 	* Removed microphone / speaker effects
 	* Fixed fire extinguishers falling off walls
 * Dead Center
-	* c1m1: Replaced the "pill bin" by the elevator that was filtered out by prop fixes
-	* c1m1: Removed fire sounds from the start of the map that can sometimes loop forever and play across the entire map
-	* c1m1: Added LOS blockers under added snack machines
-	* c1m1: Removed fire and building collapse sounds after the elevator
-	* c1m1: Removed scripted zombie spawns that fall through the windows at the end saferoom
-	* c1m1: Slightly reduced the fog strength on the ground floor
-	* c1m1: Blocked survivors from standing on the awning above the check-in desk
-	* c1m2: Removed the police car at the bottom of the first ramp (which was previously moved to the other end of the street)
-	* c1m2: Added a fence cover by the dumpster drop
-	* c1m2: Enabled the 2 alarm cars after the event
-	* c1m2: Added LOS blockers to added props after the event
-	* c1m2: Added boxes to the walkway before the gun store
-	* c1m2: Added a billboard by the walkway before the gun store
-	* c1m3: Made the event infinite again
-	* c1m3: Added guareneteed shotgun and SMG spawns to the back corner before the event path
-	* c1m3: Added a clip to make the jump back up the one way drop slightly easier
-	* c1m3: Moved the hand truck at the start of the event path to a less obtrusive position
-	* c1m3: Added an ammo pile on the boxes after the stairs on the event path
-	* c1m4: Blocked gas cans from being launched by infected onto the 4th floor, and behind the walls on the 3rd floor corner cans
-	* c1m4: Removed a left over clip from testing that was left in accidently
+	* Map 1
+		* Replaced the "pill bin" by the elevator that was filtered out by prop fixes
+		* Removed fire sounds from the start of the map that can sometimes loop forever and play across the entire map
+		* Added LOS blockers under added snack machines
+		* Removed fire and building collapse sounds after the elevator
+		* Removed scripted zombie spawns that fall through the windows at the end saferoom
+		* Slightly reduced the fog strength on the ground floor
+		* Blocked survivors from standing on the awning above the check-in desk
+	* Map 2
+		* Removed the police car at the bottom of the first ramp (which was previously moved to the other end of the street)
+		* Added a fence cover by the dumpster drop
+		* Enabled the 2 alarm cars after the event
+		* Added LOS blockers to added props after the event
+		* Added boxes to the walkway before the gun store
+		* Added a billboard by the walkway before the gun store
+	* Map 3
+		* Made the event infinite again
+		* Added guareneteed shotgun and SMG spawns to the back corner before the event path
+		* Added a clip to make the jump back up the one way drop slightly easier
+		* Moved the hand truck at the start of the event path to a less obtrusive position
+		* Added an ammo pile on the boxes after the stairs on the event path
+	* Map 4
+		* Blocked gas cans from being launched by infected onto the 4th floor, and behind the walls on the 3rd floor corner cans
+		* Removed a left over clip from testing that was left in accidently
 * Dark Carnival
-	* c2m1: Adjusted position of added rocks near the end of the map
-	* c2m2: Improved clipping on the sign above saferoom and by the peanut gallery
-	* c2m2: Adjusted angle of added foodcart and ladder to fix collision issues
-	* c2m2: Moved the added magnum spawn in the new area closer to the entrance and made it potentially spawn a pistol or magnum
-	* c2m2: Replaced the added fences by the slide with a vending machine and boxes
-	* c2m4: Replaced the 2 bumper cars in the saferoom with a single bumper car
-	* c2m4: Replaced the added plywood at the event to fix common infected nav issues
+	* Map 1
+		* Adjusted position of added rocks before the final hill
+	* Map 2
+		* Improved clipping on the sign above saferoom and by the peanut gallery
+		* Adjusted angle of added foodcart and ladder to fix collision issues
+		* Moved the added magnum spawn in the new area closer to the entrance and made it potentially spawn a pistol or magnum
+		* Replaced the added fences by the slide with a vending machine and boxes
+	* Map 4
+		* Replaced the 2 bumper cars in the saferoom with a single bumper car
+		* Replaced the added plywood at the event to fix common infected nav issues
 * The Parish
-	* c5m1: Added missing glass to wrecked car
-	* c5m2: Added clipping to improve the usage of the ladder on the tree by the gazebo
-	* c5m2: Fixed getting stuck at the top of some ladders added to the hedges for the park route rework
-	* c5m2: Added an ammo pile by the event button
-	* c5m3: Made the guns in the first house always spawn a shotgun and SMG
-	* c5m3: Extended the wall by the cemetery entrance
-	* c5m3: Added infected ladders to the added crypt that blocks the path in the cemetery
-	* c5m4: Removed the added pool table in the pool room
-	* c5m4: Adjusted the position of the added ammo pile at the event to be more visible
+	* Map 1
+		* Added missing glass to wrecked car
+	* Map 2
+		* Added clipping to improve the usage of the ladder on the tree by the gazebo
+		* Fixed getting stuck at the top of some ladders added to the hedges for the park route rework
+		* Added an ammo pile by the event button
+	* Map 3
+		* Made the guns in the first house always spawn a shotgun and SMG
+		* Extended the wall by the cemetery entrance
+		* Added infected ladders to the added crypt that blocks the path in the cemetery
+	* Map 4
+		* Removed the added pool table in the pool room
+		* Adjusted the position of the added ammo pile at the event to be more visible
 * The Passifice / The Saccing
-	* c6m1: Disabled the alarm car at the start of the map that was enabled in v2
+	* Map 1
+		* Disabled the added alarm car at the start of the map
 	* Updated `thesaccing.vpk` to `thesaccing_v2.vpk`, which combines The Passing and The Sacrifice campaigns:
 		* Uses the updated mission files from the Last Stand update
 		* Fixes The Sacrifice map 1 tank not using the unique tank arms model
