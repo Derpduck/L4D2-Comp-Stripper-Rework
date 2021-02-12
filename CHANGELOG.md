@@ -46,7 +46,8 @@
 	* c5m2: Fixed getting stuck at the top of some ladders added to the hedges for the park route rework
 	* c5m2: Added an ammo pile by the event button
 	* c5m3: Made the guns in the first house always spawn a shotgun and SMG
-	* c5m3: Made it easier to tell which cars are not alarmed by changing their colors (#12)
+	* c5m3: Extended the wall by the cemetery entrance
+	* c5m3: Added infected ladders to the added crypt that blocks the path in the cemetery
 	* c5m4: Removed the added pool table in the pool room
 	* c5m4: Adjusted the position of the added ammo pile at the event to be more visible
 * The Passifice / The Saccing
