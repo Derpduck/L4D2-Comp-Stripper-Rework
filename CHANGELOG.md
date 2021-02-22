@@ -80,7 +80,7 @@
 * Templates
     * Added hittable prop template
 * SourceMod
-	* Added 2 new files to replaces cvars in `shared_settings.cfg` globally:
+	* Added 2 new files to replace cvars in `shared_settings.cfg` globally:
 		* `cfgogl/boss_spawns.cfg` - Defines boss spawns for specified maps to control flow or finale tank spawns
 		* `cfgogl/spit_block.cfg` - Defines regions where spit does not deal damage to survivors
 		* Simply replace the relevant sections in your config's shared_settings.cfg file with:
