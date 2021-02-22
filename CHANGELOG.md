@@ -39,6 +39,7 @@
 	* Map 4
 		* Blocked gas cans from being launched by infected onto the 4th floor, and behind the walls on the 3rd floor corner cans
 		* Removed a left over clip from testing that was left in accidently
+		* Fixed spit block not covering the entire elevator
 * Dark Carnival
 	* Map 1
 		* Adjusted position of added rocks before the final hill
@@ -78,6 +79,15 @@
 > Server owners can remove the original `addons/thesaccing.vpk` file from their servers and replace it with this new version
 * Templates
     * Added hittable prop template
+* SourceMod
+	* Added 2 new files to replaces cvars in `shared_settings.cfg` globally:
+		* `cfgogl/boss_spawns.cfg` - Defines boss spawns for specified maps to control flow or finale tank spawns
+		* `cfgogl/spit_block.cfg` - Defines regions where spit does not deal damage to survivors
+		* Simply replace the relevant sections in your config's shared_settings.cfg file with:
+			* `exec cfgogl/boss_spawns`
+			* `exec cfgogl/spit_block`
+			* For configs that want to use different settings, add a copy of these files to your config's folder and load them through the same method in the `shared_settings.cfg` file with the corrected file path
+
 
 
 ## Past Releases
