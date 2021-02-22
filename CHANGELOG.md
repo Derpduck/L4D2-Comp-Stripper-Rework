@@ -11,6 +11,9 @@
 	* Removed additional soundscape entities
 	* Removed microphone / speaker effects
 	* Fixed fire extinguishers falling off walls
+	* Prevented hittables from fading out over far distances
+	* Moved prop_physics_override fix to the top of global filters to improve execution order
+	* Converted all T2 static weapon spawns to T1 weapon_spawn entities
 * Dead Center
 	* Map 1
 		* Replaced the "pill bin" by the elevator that was filtered out by prop fixes
@@ -44,8 +47,11 @@
 		* Adjusted angle of added foodcart and ladder to fix collision issues
 		* Moved the added magnum spawn in the new area closer to the entrance and made it potentially spawn a pistol or magnum
 		* Replaced the added fences by the slide with a vending machine and boxes
+		* Adjusted color of added hedge near the end of the map
 	* Map 4
 		* Replaced the 2 bumper cars in the saferoom with a single bumper car
+		* Added teleport triggers for survivors that get stuck inside props added to the saferoom
+		* Improved game hut sign clipping
 		* Replaced the added plywood at the event to fix common infected nav issues
 * The Parish
 	* Map 1
@@ -70,6 +76,8 @@
 		* After The Sacrifice finale ends, the map will change back to The Passing for the scavenge finale if players wish to play it
 		* Supports spawning of all melee weapons that are available in both campaigns
 > Server owners can remove the original `addons/thesaccing.vpk` file from their servers and replace it with this new version
+* Templates
+    * Added hittable prop template
 
 
 ## Past Releases
