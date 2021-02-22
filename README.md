@@ -13,13 +13,13 @@
 #### [Templates](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/tree/master/_Templates)
 
 ## About The Project
-This repository is for reworking the Stripper:Source map changes for competitive L4D2 from scratch, ensuring full compatibility with the map changes added to the game by the Last Stand update.
+This project aims to rework the Stripper:Source map changes for competitive L4D2, ensuring full compatibility with the map changes added to the game by the Last Stand update and improving balance in the current competitive configs.
 
-The aim is to re-implement improved versions of historical changes, unify map modifications across servers and configs, and providing a basic template that already includes all necessary fixes and improvements, which can easily be added to or modified by any server owners and config developers.
+The goal is to rework or rebalance all maps, re-implement improved versions of historical changes, unify map modifications across servers and configs, and provide a basic template that already includes all necessary fixes and improvements, which can easily be added to or modified by any server owners and config developers.
 
-There are significant changes on some maps to address balance issues observed in the competitive community, however it should be easy to locate these and exclude them for a more vanilla experience if desired.
+Some maps have significant changes to address balance issues observed in the competitive community, however it should be easy to locate these and exclude them for a more vanilla experience if desired.
 
-While many of the changes will appear similar to those included in from competitive Stripper:Source modifications, as they are designed to address the same issues and meet the expectations of the competitive community, the goal is to re-create everything from the ground up to ensure the best possible implementation of these changes.
+While many of the changes are similar to previous Stripper:Source modifications found in competitive configs, since they are designed to address the same issues and meet the expectations of the competitive community, everything is re-made from the ground up to ensure the best possible implementation of these changes.
 
 
 ## Usage
@@ -38,7 +38,7 @@ All changes are tested and implemented with the latest version of Stripper:Sourc
 ## Compatibility
 The Stripper Rework is designed for full compatibility with the Last Stand map changes, as a result there is no need to modifiy `mapspawn.nut` or related files. The removal of any entities added through this method will be handled by Stripper:Source.
 
-Servers should ensure the following scripts are **NOT** located in `left4dead2/scripts/vscripts` or `update/scripts/vscripts`:
+Servers should ensure the following scripts are **NOT** located / modified in `left4dead2/scripts/vscripts` or `update/scripts/vscripts`:
 * **mapspawn.nut**
 * **anv_mapfixes.nut**
 * **anv_versus.nut**
