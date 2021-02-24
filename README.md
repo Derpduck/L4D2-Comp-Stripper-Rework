@@ -130,7 +130,7 @@ Raise any issues or questions on the **[issues](https://github.com/Derpduck/L4D2
 
 
 ## Credits
-If you believe that you or any other historical contributors haven't been credited properly please raise an **[issue](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/issues)** so that they can be credited for their Stripper:Source and other related work.
+If you believe that yourself or any other historical contributors haven't been credited properly, please raise an **[issue](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/issues)** so they can be credited for their work.
 
 ### Rework Contributors
 * Derpduck

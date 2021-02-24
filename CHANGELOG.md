@@ -1,8 +1,7 @@
-# L4D2 Competitive Stripper Rework
 # Changelog
 
-## Current Release
-### v3 - Released: WIP
+# Current Release
+## v3 (WIP)
 * Initial release
     * Swamp Fever
 * All Maps
@@ -88,10 +87,10 @@
 			* `exec cfgogl/spit_block`
 			* For configs that want to use different settings, add a copy of these files to your config's folder and load them through the same method in the `shared_settings.cfg` file with the corrected file path
 
+***
 
-
-## Past Releases
-### v2 - Released: 2021-01-18
+# Past Releases
+## v2 (2021-01-18)
 * Initial release
     * The Passing
     * The Sacrifice
@@ -106,7 +105,7 @@
 * Added a failsafe for fading out alarms to ensure they don't start playing again
 * Added `point_nav_attribute_region` to `entity_template.cfg`
 
-### v1 - Released: 2021-01-03
+## v1 (2021-01-03)
 * Initial release
     * Global Fixes
 	* Dead Center
