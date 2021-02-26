@@ -104,9 +104,8 @@
 		"start_dist"        "100.000000"
 		"start_extra_dist"  "0.000000"
 		"end_dist"          "200.000000"
-		"max_distance"      "500"
 		"tank_ban_flow_min" "45"
-		"tank_ban_flow_max" "60"
+		"tank_ban_flow_max" "62"
 	}
 	"c3m2_swamp"
 	{
@@ -124,7 +123,7 @@
 		"start_dist"        "50.000000"
 		"start_extra_dist"  "200.000000"
 		"end_dist"          "200.000000"
-		"max_distance"      "500"
+		"max_distance"      "600"
 	}
 	"c3m4_plantation"
 	{
