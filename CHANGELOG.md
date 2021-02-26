@@ -1,7 +1,7 @@
 # Changelog
 
 # Current Release
-## v3 (WIP)
+## v3 2021-02-26
 * Initial release
     * Swamp Fever
 * All Maps
