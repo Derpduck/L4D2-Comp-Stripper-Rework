@@ -46,12 +46,18 @@
 		* Improved clipping on the sign above saferoom and by the peanut gallery
 		* Adjusted angle of added foodcart and ladder to fix collision issues
 		* Moved the added magnum spawn in the new area closer to the entrance and made it potentially spawn a pistol or magnum
+		* Added clipping to the bottom of the slide to prevent extreme ice-like movement
 		* Replaced the added fences by the slide with a vending machine and boxes
 		* Adjusted color of added hedge near the end of the map
+	* Map 3
+		* Added non-solid poles to indicate where exploit block clips on the first ramp are
+		* Added a damage trigger to discourage using a jesus spot on the right fence at the first ramp, indicated by razor wire.
+			* Damage will only occur when a survivor is standing on the razor wire for a few seconds, building up to deal 1 damage every 0.5 seconds (minimum possible amount).
 	* Map 4
 		* Replaced the 2 bumper cars in the saferoom with a single bumper car
 		* Added teleport triggers for survivors that get stuck inside props added to the saferoom
 		* Improved game hut sign clipping
+		* Moved added ammo pile after bumper cars and changed its model to make it more visible
 		* Replaced the added plywood at the event to fix common infected nav issues
 * The Parish
 	* Map 1
