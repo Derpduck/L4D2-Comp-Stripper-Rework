@@ -1,6 +1,30 @@
 # Changelog
 
 # Current Release
+## v4 WIP
+* All Maps
+	* Replaced exploitable door model that can be found in the Hard Rain gas station with the damaged version which can't be climbed on
+* Dark Carnival
+	* Map 1
+		* Fixed an issue with clipping on added concrete blocks at the end of the map
+* Hard Rain
+	* Map 1
+		* Changed distance points to 400, from 500
+	* Maps 2 & 3
+		* Added additional clipping to a debris pile players could get stuck on
+		* Moved position of added survivor ladder on the back of the gas station to a more useful location
+	* Map 4
+		* Changed distance points to 400, from 500
+* The Parish
+	* Map 2
+		* Distance reverted to 500 (default).
+	* Map 3
+		* Added a truck and trailer to the bridge by the ambulance
+		* Added clipping to wrecked car at the back end of the bridge to stop players getting stuck on the tires
+
+***
+
+# Past Releases
 ## v3 2021-02-26
 * Initial release
     * Swamp Fever
@@ -11,7 +35,6 @@
 	* Removed microphone / speaker effects
 	* Fixed fire extinguishers falling off walls
 	* Prevented hittables from fading out over far distances
-	* Moved prop_physics_override fix to the top of global filters to improve execution order
 	* Converted all T2 static weapon spawns to T1 weapon_spawn entities
 * Dead Center
 	* Map 1
@@ -93,9 +116,6 @@
 			* `exec cfgogl/spit_block`
 			* For configs that want to use different settings, add a copy of these files to your config's folder and load them through the same method in the `shared_settings.cfg` file with the corrected file path
 
-***
-
-# Past Releases
 ## v2 (2021-01-18)
 * Initial release
     * The Passing

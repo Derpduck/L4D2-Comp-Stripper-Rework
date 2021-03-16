@@ -144,7 +144,7 @@
 		"start_dist"        "100.000000"
 		"start_extra_dist"  "500.000000"
 		"end_dist"          "275.000000"
-		"max_distance"      "500"
+		"max_distance"      "400"
 	}
 	"c4m2_sugarmill_a"
 	{
@@ -175,7 +175,7 @@
 		"start_dist"        "50.000000"
 		"start_extra_dist"  "275.000000"
 		"end_dist"          "200.000000"
-		"max_distance"      "500"
+		"max_distance"      "400"
 	}
 	"c4m5_milltown_escape"
 	{
@@ -210,7 +210,6 @@
 		"end_dist"          "250.000000"
 		"tank_ban_flow_min" "49"
 		"tank_ban_flow_max" "54"
-		"max_distance"      "600"
 	}
 	"c5m3_cemetery"
 	{
