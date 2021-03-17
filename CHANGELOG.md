@@ -6,6 +6,8 @@
 	* Replaced exploitable door model that can be found in the Hard Rain gas station with the damaged version which can't be climbed on
 * Dark Carnival
 	* Map 1
+		* Blocked survivors from being able to spawn tanks early and get extra distance by jumping at a fence near the pool
+		* Added props to visualize ladders between motel balconies
 		* Fixed an issue with clipping on added concrete blocks at the end of the map
 * Hard Rain
 	* Map 1
@@ -21,6 +23,10 @@
 	* Map 3
 		* Added a truck and trailer to the bridge by the ambulance
 		* Added clipping to wrecked car at the back end of the bridge to stop players getting stuck on the tires
+	* Map 4
+		* Reverted tank ban range to 80% - 100%, from 82% - 100%, because late tanks were not spawning due to a bug and not the ban range
+* Templates
+	* Added template for func_nav_blocker and trigger brushes
 
 ***
 
