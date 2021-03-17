@@ -9,6 +9,7 @@
 		* Blocked survivors from being able to spawn tanks early and get extra distance by jumping at a fence near the pool
 		* Added props to visualize ladders between motel balconies
 		* Fixed an issue with clipping on added concrete blocks at the end of the map
+		* Added ammo pile in lower motel room before the one way drop
 * Hard Rain
 	* Map 1
 		* Changed distance points to 400, from 500
