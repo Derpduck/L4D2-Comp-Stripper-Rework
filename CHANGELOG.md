@@ -10,6 +10,13 @@
 		* Added props to visualize ladders between motel balconies
 		* Fixed an issue with clipping on added concrete blocks at the end of the map
 		* Added ammo pile in lower motel room before the one way drop
+	* Map 2
+		* Added an infected ladder to climb on the tents above the button to start the event
+	* Map 3
+		* Reverted tank ban range to 56% - 100%, from 58% - 100%, as late tanks were not spawning due to a bug, and not the ban range
+		* Blocked climbing on an outside section of the coaster before the tunnel
+	* Map 4
+		* Blocked survivors from standing on the shrub walls next to the barn
 * Hard Rain
 	* Map 1
 		* Changed distance points to 400, from 500
@@ -25,7 +32,7 @@
 		* Added a truck and trailer to the bridge by the ambulance
 		* Added clipping to wrecked car at the back end of the bridge to stop players getting stuck on the tires
 	* Map 4
-		* Reverted tank ban range to 80% - 100%, from 82% - 100%, because late tanks were not spawning due to a bug and not the ban range
+		* Reverted tank ban range to 80% - 100%, from 82% - 100%, as late tanks were not spawning due to a bug, and not the ban range
 * Templates
 	* Added template for func_nav_blocker and trigger brushes
 

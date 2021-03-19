@@ -72,7 +72,7 @@
 		"start_dist"        "50.000000"
 		"start_extra_dist"  "200.000000"
 		"end_dist"          "150.000000"
-		"tank_ban_flow_min" "58"
+		"tank_ban_flow_min" "56"
 		"tank_ban_flow_max" "100"
 	}
 	"c2m4_barns"
