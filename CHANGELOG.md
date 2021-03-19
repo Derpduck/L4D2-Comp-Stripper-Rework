@@ -26,8 +26,11 @@
 	* Map 4
 		* Changed distance points to 400, from 500
 * The Parish
+	* Map 1
+		* Added an infected ladder to get from the lower section of roof to the upper section on the left of the saferoom
 	* Map 2
 		* Distance reverted to 500 (default).
+		* Added additional infected ladder to hedge by blocked off route on the left side of the park entrance
 	* Map 3
 		* Added a truck and trailer to the bridge by the ambulance
 		* Added clipping to wrecked car at the back end of the bridge to stop players getting stuck on the tires
