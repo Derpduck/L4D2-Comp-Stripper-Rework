@@ -220,7 +220,6 @@
 		"end_dist"          "250.000000"
 		"tank_ban_flow_min" "54"
 		"tank_ban_flow_max" "70"
-		"max_distance"      "700"
 	}
 	"c5m4_quarter"
 	{
