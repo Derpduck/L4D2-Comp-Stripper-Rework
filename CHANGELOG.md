@@ -4,6 +4,7 @@
 ## v4 WIP
 * All Maps
 	* Replaced exploitable door model that can be found in the Hard Rain gas station with the damaged version which can't be climbed on
+	* Removed additional infected clip type
 * Dark Carnival
 	* Map 1
 		* Blocked survivors from being able to spawn tanks early and get extra distance by jumping at a fence near the pool
@@ -21,7 +22,7 @@
 	* Map 1
 		* Changed distance points to 400, from 500
 	* Maps 2 & 3
-		* Added additional clipping to a debris pile players could get stuck on
+		* Added additional clipping to a debris pile players could still get stuck on
 		* Moved position of added survivor ladder on the back of the gas station to a more useful location
 	* Map 4
 		* Changed distance points to 400, from 500
