@@ -1,6 +1,14 @@
 # Changelog
 
 # Current Release
+## v4 (WIP)
+* The Parish
+	* Map 2
+		* Fixed mob timer not being reset when tank is killed
+
+***
+
+# Past Releases
 ## v4 (2021-03-21)
 * All Maps
 	* Replaced exploitable door model that can be found in the Hard Rain gas station with the damaged version which can't be climbed on
@@ -55,9 +63,6 @@
 * Templates
 	* Added template for func_nav_blocker and trigger brushes
 
-***
-
-# Past Releases
 ## v3 (2021-02-26)
 * Initial release
     * Swamp Fever

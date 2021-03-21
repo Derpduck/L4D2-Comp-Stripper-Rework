@@ -35,6 +35,7 @@ function OnGameEvent_tank_killed(hParams)
 	Msg("Tank Killed\n");
 	DirectorOptions.MobSpawnMinTime = 8
 	DirectorOptions.MobSpawnMaxTime = 8
+	Director.ResetMobTimer()
 }
 
 __CollectEventCallbacks(this, "OnGameEvent_", "GameEventCallbacks", RegisterScriptGameEventListener)
