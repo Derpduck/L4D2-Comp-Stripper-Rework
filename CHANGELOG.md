@@ -1,7 +1,7 @@
 # Changelog
 
 # Current Release
-## v4 WIP
+## v4 (2021-03-21)
 * All Maps
 	* Replaced exploitable door model that can be found in the Hard Rain gas station with the damaged version which can't be climbed on
 	* Removed additional infected clip type
@@ -58,7 +58,7 @@
 ***
 
 # Past Releases
-## v3 2021-02-26
+## v3 (2021-02-26)
 * Initial release
     * Swamp Fever
 * All Maps
