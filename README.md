@@ -139,6 +139,8 @@ If you believe that yourself or any other historical contributors haven't been c
 #### Additional Help / Testing
 * J.
 * Target_7
+* NF
+* Daroot Leafstorm
 
 ### Historical Contributors
 * ProdigySim

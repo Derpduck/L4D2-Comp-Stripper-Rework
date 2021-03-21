@@ -11,6 +11,9 @@
 		* Added props to visualize ladders between motel balconies
 		* Fixed an issue with clipping on added concrete blocks at the end of the map
 		* Added ammo pile in lower motel room before the one way drop
+		* Extended ladder before one way drop to reach the motel roof and assisted with reaching balcony and other side of roof
+		* Added an additional ladder to get on the motel roof by the one way drop
+		* Added rocks at the top of the one way drop
 	* Map 2
 		* Added an infected ladder to climb on the tents above the button to start the event
 	* Map 3
@@ -24,29 +27,31 @@
 	* Maps 2 & 3
 		* Added additional clipping to a debris pile players could still get stuck on
 		* Moved position of added survivor ladder on the back of the gas station to a more useful location
-	* Map 4
+	* Map 4.
 		* Changed distance points to 400, from 500
 * The Parish
 	* Map 1
 		* Added an infected ladder to get from the lower section of roof to the upper section on the left of the saferoom
 	* Map 2
-		* Distance reverted to 500 (default).
+		* Distance reverted to 500 (default)
+		* Event horde will now always stop during tank (thanks to NF and Daroot Leafstorm for their help)
+		* Limited maximum queued horde during event to stop excessive amounts of horde spawning after the event is stopped
 		* Added additional infected ladder to hedge by blocked off route on the left side of the park entrance
 	* Map 3
-		* Distance reverted to 600 (default).
-		* Removed added foliage in open area near the start.
+		* Distance reverted to 600 (default)
+		* Removed added foliage in open area near the start
 		* Added a truck and trailer to the bridge by the ambulance
 		* Added clipping to wrecked car at the back end of the bridge to stop players getting stuck on the tires
 	* Map 4
 		* Reverted tank ban range to 80% - 100%, from 82% - 100%, as late tanks were not spawning due to a bug, and not the ban range
 * No Mercy
 	* Map 1
-		* Reset scoring to Zonemod values until work on these campaigns is ready for public release.
+		* Reset scoring to Zonemod values until work on these campaigns is ready for public release
 * Blood Harvest
 	* Map 3
-		* Reset scoring and tank ban range to Zonemod values until work on these campaigns is ready for public release.
+		* Reset scoring and tank ban range to Zonemod values until work on these campaigns is ready for public release
 	* Map 4
-		* Reset scoring and tank ban range to Zonemod values until work on these campaigns is ready for public release.
+		* Reset scoring and tank ban range to Zonemod values until work on these campaigns is ready for public release
 * Templates
 	* Added template for func_nav_blocker and trigger brushes
 
@@ -102,8 +107,8 @@
 		* Adjusted color of added hedge near the end of the map
 	* Map 3
 		* Added non-solid poles to indicate where exploit block clips on the first ramp are
-		* Added a damage trigger to discourage using a jesus spot on the right fence at the first ramp, indicated by razor wire.
-			* Damage will only occur when a survivor is standing on the razor wire for a few seconds, building up to deal 1 damage every 0.5 seconds (minimum possible amount).
+		* Added a damage trigger to discourage using a jesus spot on the right fence at the first ramp, indicated by razor wire
+			* Damage will only occur when a survivor is standing on the razor wire for a few seconds, building up to deal 1 damage every 0.5 seconds (minimum possible amount)
 	* Map 4
 		* Replaced the 2 bumper cars in the saferoom with a single bumper car
 		* Added teleport triggers for survivors that get stuck inside props added to the saferoom
