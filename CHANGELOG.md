@@ -27,14 +27,14 @@
 	* Maps 2 & 3
 		* Added additional clipping to a debris pile players could still get stuck on
 		* Moved position of added survivor ladder on the back of the gas station to a more useful location
-	* Map 4.
+	* Map 4
 		* Changed distance points to 400, from 500
 * The Parish
 	* Map 1
 		* Added an infected ladder to get from the lower section of roof to the upper section on the left of the saferoom
 	* Map 2
 		* Distance reverted to 500 (default)
-		* Event horde will now always stop during tank (thanks to NF and Daroot Leafstorm for their help)
+		* Event horde will now always stop during tank, resuming once the tank is killed (thanks to NF and Daroot Leafstorm for their help)
 		* Limited maximum queued horde during event to stop excessive amounts of horde spawning after the event is stopped
 		* Added additional infected ladder to hedge by blocked off route on the left side of the park entrance
 	* Map 3
