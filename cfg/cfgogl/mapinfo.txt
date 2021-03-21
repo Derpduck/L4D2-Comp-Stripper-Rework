@@ -503,7 +503,7 @@
 		"end_dist"          "264.020966"
 		"tank_ban_flow_min" "70"
 		"tank_ban_flow_max" "100"
-		"max_distance"      "500"
+		"max_distance"      "400"
 		"horde_limit"       "90"
 	}
 	"c12m4_barn"
