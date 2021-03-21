@@ -311,7 +311,7 @@
 		"start_extra_dist"  "605.247620"
 		"end_point"         "2883.220703 2962.613037 -204.742737"
 		"end_dist"          "336.442200"
-		"max_distance"      "400"
+		"max_distance"      "300"
 	}
 	"c8m2_subway"
 	{
@@ -501,7 +501,7 @@
 		"start_extra_dist"  "264.843231"
 		"end_point"         "7754.335938 -11443.834961 440.031250"
 		"end_dist"          "264.020966"
-		"tank_ban_flow_min" "82"
+		"tank_ban_flow_min" "70"
 		"tank_ban_flow_max" "100"
 		"max_distance"      "500"
 		"horde_limit"       "90"
@@ -513,9 +513,7 @@
 		"start_extra_dist"  "264.932068"
 		"end_point"         "10398.775391 -310.353424 2.031253"
 		"end_dist"          "316.505157"
-		"tank_ban_flow_min" "47"
-		"tank_ban_flow_max" "57"
-		"max_distance"      "600"
+		"max_distance"      "400"
 		"horde_limit"       "60"
 	}
 	"c12m5_cornfield"

@@ -32,10 +32,20 @@
 		* Distance reverted to 500 (default).
 		* Added additional infected ladder to hedge by blocked off route on the left side of the park entrance
 	* Map 3
+		* Distance reverted to 600 (default).
+		* Removed added foliage in open area near the start.
 		* Added a truck and trailer to the bridge by the ambulance
 		* Added clipping to wrecked car at the back end of the bridge to stop players getting stuck on the tires
 	* Map 4
 		* Reverted tank ban range to 80% - 100%, from 82% - 100%, as late tanks were not spawning due to a bug, and not the ban range
+* No Mercy
+	* Map 1
+		* Reset scoring to Zonemod values until work on these campaigns is ready for public release.
+* Blood Harvest
+	* Map 3
+		* Reset scoring and tank ban range to Zonemod values until work on these campaigns is ready for public release.
+	* Map 4
+		* Reset scoring and tank ban range to Zonemod values until work on these campaigns is ready for public release.
 * Templates
 	* Added template for func_nav_blocker and trigger brushes
 
