@@ -5,6 +5,10 @@
 * The Parish
 	* Map 2
 		* Fixed mob timer not being reset when tank is killed
+		* Event mob timer is reset when tank spawns to make sure horde stops equally fast for both teams
+* The Sacrifice
+	* Map 2
+		* Removed slow movement trigger in water after barge that Valve forgot to remove from the L4D2 port
 
 ***
 
