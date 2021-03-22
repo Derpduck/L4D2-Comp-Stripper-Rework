@@ -28,6 +28,7 @@ function OnGameEvent_tank_spawn(hParams)
 	Msg("Tank Spawned\n");
 	DirectorOptions.MobSpawnMinTime = 9999
 	DirectorOptions.MobSpawnMaxTime = 9999
+	Director.ResetMobTimer()
 }
 
 function OnGameEvent_tank_killed(hParams)
