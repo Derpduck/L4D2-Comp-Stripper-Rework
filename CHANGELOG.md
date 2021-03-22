@@ -2,6 +2,9 @@
 
 # Current Release
 ## v5 (WIP)
+* Dark Carnival
+	* Map 3
+		* Fixed being unable to revive players standing on the jesus spot on the coaster due to the damage type from the barbed wire interupting the pickup
 * The Parish
 	* Map 2
 		* Fixed mob timer not being reset when tank is killed
