@@ -9,9 +9,16 @@
 	* Map 2
 		* Fixed mob timer not being reset when tank is killed
 		* Event mob timer is reset when tank spawns to make sure horde stops equally fast for both teams
+* The Passing
+	* Map 2
+		* Removed barricades on the plank crossing section fire escape, and removed boxes inside Jones & Sons building
+		* Repositioned barricades on the alternative route to the plank crossing, added plywood to parts of the barricades, adjusted relevant clipping and ladders
+		> **Developer Note:** The barricades on the fire escape were causing confusion and discouraged players from using the original route entirely, as well as extending an already long map. To compensate, the alternative route has also been made shorter, no longer forcing survivors to the top floor.
 * The Sacrifice
 	* Map 2
 		* Removed slow movement trigger in water after barge that Valve forgot to remove from the L4D2 port
+		* Re-enabled slowdown on the gravel pile event
+		> **Developer Note:** Slowdown was removed as an experiment because existing tools did not provide any way to control the amount survivors were slowed, instead the game forces survivors to move at walking speed. This resulted in too big of a nerf to this chokepoint.<br>Plugin development is now in progress to control the amount of slowdown on the hill, which will allow the original idea of reducing the amount of slowdown to be achieved
 
 ***
 
