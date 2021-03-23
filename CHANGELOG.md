@@ -11,6 +11,7 @@
 		* Event mob timer is reset when tank spawns to make sure horde stops equally fast for both teams
 * The Passing
 	* Map 2
+		* Reverted event back to an infinite event
 		* Removed barricades on the plank crossing section fire escape, and removed boxes inside Jones & Sons building
 		* Repositioned barricades on the alternative route to the plank crossing, added plywood to parts of the barricades, adjusted relevant clipping and ladders
 		> **Developer Note:** The barricades on the fire escape were causing confusion and discouraged players from using the original route entirely, as well as extending an already long map. To compensate, the alternative route has also been made shorter, no longer forcing survivors to the top floor.
