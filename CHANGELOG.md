@@ -5,6 +5,7 @@
 * Dead Center
 	* Map 1
 		* Added a fireaxe to the saferoom stairwell
+		* Added a set of T1 weapons to the room by the elevator
 	* Map 2
 		* Added an infected ladder to get over the bus after the event
 		* Added an infected ladder to get over the fence by porta potties after the event
@@ -18,7 +19,7 @@
 * The Parish
 	* Map 2
 		* Fixed mob timer not being reset when tank is killed
-		* Event mob timer is reset when tank spawns to make sure horde stops equally fast for both teams
+		* Event mob timer is reset when tank spawns to make sure horde stops equally quickly for both teams
 * The Passing
 	* Map 2
 		* Reverted event back to an infinite event
