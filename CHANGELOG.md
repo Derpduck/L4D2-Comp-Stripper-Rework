@@ -14,7 +14,7 @@
 * Swamp Fever
 	* Map 1
 		* Reworked the added one way drop at the town entrance
-		> **Developer Note:** The one way drop's original design proved to be far more deadly than it was ever intended to be. The drop has been redesigned to make the drop safer and less of a major chokepoint.
+		> **Developer Note:** The one way drop's original design proved to be far more deadly than it was ever intended to be. The drop has been redesigned to make it safer and less of a major chokepoint.
 * The Parish
 	* Map 2
 		* Fixed mob timer not being reset when tank is killed
