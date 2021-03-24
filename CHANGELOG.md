@@ -2,9 +2,19 @@
 
 # Current Release
 ## v5 (WIP)
+* Dead Center
+	* Map 1
+		* Added a fireaxe to the saferoom stairwell
+	* Map 2
+		* Added an infected ladder to get over the bus after the event
+		* Added an infected ladder to get over the fence by porta potties after the event
 * Dark Carnival
 	* Map 3
 		* Fixed being unable to revive players standing on the jesus spot on the coaster due to the damage type from the barbed wire interupting the pickup
+* Swamp Fever
+	* Map 1
+		* Reworked the added one way drop at the town entrance
+		> **Developer Note:** The one way drop's original design proved to be far more deadly than it was ever intended to be. The drop has been redesigned to make the drop safer and less of a major chokepoint.
 * The Parish
 	* Map 2
 		* Fixed mob timer not being reset when tank is killed
