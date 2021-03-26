@@ -1,7 +1,7 @@
 # Changelog
 
 # Current Release
-## v5 (WIP)
+## v5 (2021-03-26)
 * Dead Center
 	* Map 1
 		* Added a fireaxe to the saferoom stairwell
