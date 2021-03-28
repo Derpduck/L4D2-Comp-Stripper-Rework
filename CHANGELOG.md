@@ -7,6 +7,7 @@
 		* Reverted distance to 400
 	* Map 2
 		* Reverted distance to 600
+		* Added fences to the small platform up the stairs before the walkway, removed added foliage
 
 ***
 
