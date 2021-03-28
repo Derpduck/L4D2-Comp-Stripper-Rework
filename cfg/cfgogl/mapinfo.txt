@@ -12,7 +12,7 @@
 		"tank_warpto"       "2168.357666 5803.427734 2464.031250"
 		"tank_ban_flow_min" "38"
 		"tank_ban_flow_max" "79"
-		"max_distance"      "500"
+		"max_distance"      "400"
 	}
 	"c1m2_streets"
 	{
@@ -22,7 +22,7 @@
 		"start_extra_dist"  "250.000000"
 		"end_dist"          "200.000000"
 		"horde_limit"       "150"
-		"max_distance"      "700"
+		"max_distance"      "600"
 	}
 	"c1m3_mall"
 	{

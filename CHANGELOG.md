@@ -1,6 +1,16 @@
 # Changelog
 
 # Current Release
+## v6 (WIP)
+* Dead Center
+	* Map 1
+		* Reverted distance to 400
+	* Map 2
+		* Reverted distance to 600
+
+***
+
+# Past Releases
 ## v5 (2021-03-26)
 * Dead Center
 	* Map 1
@@ -32,9 +42,6 @@
 		* Re-enabled slowdown on the gravel pile event
 		> **Developer Note:** Slowdown was removed as an experiment because existing tools did not provide any way to control the amount survivors were slowed, instead the game forces survivors to move at walking speed. This resulted in too big of a nerf to this chokepoint.<br>Plugin development is now in progress to control the amount of slowdown on the hill, which will allow the original idea of reducing the amount of slowdown to be achieved
 
-***
-
-# Past Releases
 ## v4 (2021-03-21)
 * All Maps
 	* Replaced exploitable door model that can be found in the Hard Rain gas station with the damaged version which can't be climbed on
