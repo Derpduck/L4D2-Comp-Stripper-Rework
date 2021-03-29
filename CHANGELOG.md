@@ -8,6 +8,14 @@
 	* Map 2
 		* Reverted distance to 600
 		* Added fences to the small platform up the stairs before the walkway, removed added foliage
+* Dark Carnival
+	* Map 1
+		* Replaced added rocks on island before final hill with a shrub wall
+* Hard Rain
+	* Map 1
+		* Fixed issues with hittable physics near the generator by the burger tank
+	* Map 5
+		* Fixed issues with hittable physics near the generator by the burger tank
 
 ***
 
