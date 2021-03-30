@@ -135,6 +135,8 @@ If you believe that yourself or any other historical contributors haven't been c
 ### Rework Contributors
 * Derpduck
 * SirPlease
+* ProdigySim
+* Icy Inferno
 
 #### Additional Help / Testing
 * J.

@@ -23,7 +23,7 @@ DirectorOptions <-
 Director.ResetMobTimer()
 
 
-function OnGameEvent_tank_spawn(hParams)
+function OnGameEvent_tank_spawn(params)
 {
 	Msg("Tank Spawned\n");
 	DirectorOptions.MobSpawnMinTime = 9999
@@ -31,12 +31,23 @@ function OnGameEvent_tank_spawn(hParams)
 	Director.ResetMobTimer()
 }
 
-function OnGameEvent_tank_killed(hParams)
+function OnGameEvent_tank_killed(params)
 {
 	Msg("Tank Killed\n");
 	DirectorOptions.MobSpawnMinTime = 8
 	DirectorOptions.MobSpawnMaxTime = 8
 	Director.ResetMobTimer()
+}
+
+function OnGameEvent_player_team(params)
+{
+	if (params.disconnect && params.isbot && GetPlayerFromUserID(params.userid).GetZombieType() == 8) // Player is a disconnecting bot tank
+	{
+		Msg("Tank Disconnected\n");
+		DirectorOptions.MobSpawnMinTime = 8
+		DirectorOptions.MobSpawnMaxTime = 8
+		Director.ResetMobTimer()
+	}
 }
 
 __CollectEventCallbacks(this, "OnGameEvent_", "GameEventCallbacks", RegisterScriptGameEventListener)

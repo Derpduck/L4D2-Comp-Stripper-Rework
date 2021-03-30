@@ -16,6 +16,9 @@
 		* Fixed issues with hittable physics near the generator by the burger tank
 	* Map 5
 		* Fixed issues with hittable physics near the generator by the burger tank
+* The Parish 2
+	* Map 2
+		* Fixed event horde not resuming if tank is kicked (Thanks ProdigySim and Icy Inferno)
 
 ***
 
