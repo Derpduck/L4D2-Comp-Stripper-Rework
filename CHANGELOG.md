@@ -4,10 +4,14 @@
 ## v6 (WIP)
 * Dead Center
 	* Map 1
-		* Reverted distance to 400
+		* Reverted distance to 400, from 500
 	* Map 2
-		* Reverted distance to 600
-		* Added fences to the small platform up the stairs before the walkway, removed added foliage
+		* Reverted distance to 600, from 700
+		* Blocked tank from spawning between 49% - 55%
+			* Ban range starts just before the one way drop, and ends by the stairs to get above the street
+		* Added fences to the small platform with a tree up the stairs before the walkway
+			* Removed blocker on this platform and removed the added foliage
+		* Moved the police car by the one way drop further down the street
 * Dark Carnival
 	* Map 1
 		* Replaced added rocks on island before final hill with a shrub wall
