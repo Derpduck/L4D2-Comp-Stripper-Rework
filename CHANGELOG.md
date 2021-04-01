@@ -8,7 +8,7 @@
 	* Map 2
 		* Reverted distance to 600, from 700
 		* Blocked tank from spawning between 49% - 55%
-			* Ban range starts just before the one way drop, and ends by the stairs to get above the street
+			* Ban range starts just before the one way drop, and ends by the first set of stairs to get above the street
 		* Added fences to the small platform with a tree up the stairs before the walkway
 			* Removed blocker on this platform and removed the added foliage
 		* Moved the police car by the one way drop further down the street
