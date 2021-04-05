@@ -1,7 +1,7 @@
 # Changelog
 
 # Current Release
-## v6 (WIP)
+## v6 (2021-04-05)
 * Dead Center
 	* Map 1
 		* Reverted distance to 400, from 500
@@ -15,14 +15,30 @@
 * Dark Carnival
 	* Map 1
 		* Replaced added rocks on island before final hill with a shrub wall
+	* Map 4
+		* Added a porta potty by hedges after bumper cars
+		* Adjusted position of added forklift to be easier to use
+		* Adjusted position of ammo pile after the bumper cars
+		* Added an ammo pile on the picnic tables outside the barn
+		* Blocked survivors from standing on top of the scaffolding at the event
+		* Added an infected ladder on back of the scaffolding at the event
 * Hard Rain
 	* Map 1
 		* Fixed issues with hittable physics near the generator by the burger tank
+	* Map 2
+		* Improved clipping on fences throughout the map
+	* Map 3
+		* Improved clipping on fences throughout the map
 	* Map 5
 		* Fixed issues with hittable physics near the generator by the burger tank
 * The Parish 2
 	* Map 2
 		* Fixed event horde not resuming if tank is kicked (Thanks ProdigySim and Icy Inferno)
+		* Remove 3 (out of 4) pill spawns by the humvee outside saferoom
+		* Removed pill spawn behind porta potties outside saferoom
+	* Map 3
+		* Removed 2 pill spawns outside the saferoom
+		* Remove 1 pill spawn from the dark room under the bus drop where 2 sets could spawn together
 
 ***
 
