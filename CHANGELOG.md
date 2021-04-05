@@ -34,11 +34,11 @@
 * The Parish 2
 	* Map 2
 		* Fixed event horde not resuming if tank is kicked (Thanks ProdigySim and Icy Inferno)
-		* Remove 3 (out of 4) pill spawns by the humvee outside saferoom
-		* Removed pill spawn behind porta potties outside saferoom
+		* Removed 3 (out of 4) pill spawns by the humvee outside saferoom
+		* Removed pill spawn behind porta potties outside the saferoom
 	* Map 3
 		* Removed 2 pill spawns outside the saferoom
-		* Remove 1 pill spawn from the dark room under the bus drop where 2 sets could spawn together
+		* Removed 1 pill spawn from the dark room under the bus drop, where 2 sets could spawn together
 
 ***
 
