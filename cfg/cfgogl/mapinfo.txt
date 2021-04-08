@@ -484,7 +484,7 @@
 		"end_point"         "-6468.546387 -6767.946777 377.974670"
 		"end_dist"          "275.937225"
 		"tank_ban_flow_min" "0"
-		"tank_ban_flow_max" "57"
+		"tank_ban_flow_max" "50"
 		"max_distance"      "300"
 	}
 	"c12m2_traintunnel"
