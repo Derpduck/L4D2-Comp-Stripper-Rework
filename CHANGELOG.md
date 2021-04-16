@@ -1,6 +1,19 @@
 # Changelog
 
 # Current Release
+## v7 (WIP)
+* The Sacrifice
+	* Map 1
+		* Fixed intro spawn locations not being used by the L4D2 due to a missing function
+		* Fixed scavenge spawn positions being incorrect due to the addon that combines The Passing and The Sacrifice causing L4D2 survivors to be used.
+		> **Developer Note:** Scavenge configs need to add this fix to their scavenge Stripper:Source configs
+	* Map 2
+		* Fixed scavenge spawn positions being incorrect due to the addon that combines The Passing and The Sacrifice causing L4D2 survivors to be used.
+		> **Developer Note:** Scavenge configs need to add this fix to their scavenge Stripper:Source configs
+
+***
+
+# Past Releases
 ## v6 (2021-04-05)
 * Dead Center
 	* Map 1
@@ -40,9 +53,6 @@
 		* Removed 2 pill spawns outside the saferoom
 		* Removed 1 pill spawn from the dark room under the bus drop, where 2 sets could spawn together
 
-***
-
-# Past Releases
 ## v5 (2021-03-26)
 * Dead Center
 	* Map 1
