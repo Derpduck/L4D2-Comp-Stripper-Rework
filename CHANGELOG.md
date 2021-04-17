@@ -2,6 +2,13 @@
 
 # Current Release
 ## v7 (WIP)
+* Initial Release
+	* Blood Harvest
+* All Maps
+	* Made all forklifts start in their broken state to prevent physics issues when first hit by tanks
+* The Passing
+	* Map 2
+		* Fixed players getting stuck on ladders in the sewer when walking against railings (Thanks Wicket)
 * The Sacrifice
 	* Map 1
 		* Fixed intro spawn locations not being used by the L4D2 due to a missing function
