@@ -6,6 +6,9 @@
 	* Blood Harvest
 * All Maps
 	* Made all forklifts start in their broken state to prevent physics issues when first hit by tanks
+* Dead Center
+	* Map 1
+		* Blocked gas cans from being launched into all remaining unreachable locations, and improved method used to block cans
 * The Passing
 	* Map 2
 		* Fixed players getting stuck on ladders in the sewer when walking against railings (Thanks Wicket)
@@ -17,6 +20,8 @@
 	* Map 2
 		* Fixed scavenge spawn positions being incorrect due to the addon that combines The Passing and The Sacrifice causing L4D2 survivors to be used.
 		> **Developer Note:** Scavenge configs need to add this fix to their scavenge Stripper:Source configs
+* Templates
+	* Added template for script_clip_vphysics
 
 ***
 

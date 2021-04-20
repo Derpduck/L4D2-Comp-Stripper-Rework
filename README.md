@@ -137,6 +137,7 @@ If you believe that yourself or any other historical contributors haven't been c
 * SirPlease
 * ProdigySim
 * Icy Inferno
+* Wicket
 
 #### Additional Help / Testing
 * J.
