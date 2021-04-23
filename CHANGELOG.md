@@ -11,6 +11,7 @@
 		* Blocked gas cans from being launched into all remaining unreachable locations, and improved method used to block cans
 * The Passing
 	* Map 2
+		* Removed a set elevator doors after the jazz club to open up a room for spawns
 		* Fixed players getting stuck on ladders in the sewer when walking against railings (Thanks Wicket)
 * The Sacrifice
 	* Map 1
