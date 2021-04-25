@@ -515,7 +515,9 @@
 		"start_extra_dist"  "264.932068"
 		"end_point"         "10398.775391 -310.353424 2.031253"
 		"end_dist"          "316.505157"
-		"max_distance"      "400"
+		"tank_ban_flow_min" "43"
+		"tank_ban_flow_max" "51"
+		"max_distance"      "600"
 		"horde_limit"       "60"
 	}
 	"c12m5_cornfield"
