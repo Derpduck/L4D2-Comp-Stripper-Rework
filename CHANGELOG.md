@@ -8,7 +8,7 @@
 	* Made all forklifts start in their broken state to prevent physics issues when first hit by tanks
 	* Made hanging lights found in Blood Harvest non-solid
 * Dead Center
-	* Map 1
+	* Map 4
 		* Blocked gas cans from being launched into all remaining unreachable locations, and improved method used to block cans
 * Hard Rain
 	* Map 1
