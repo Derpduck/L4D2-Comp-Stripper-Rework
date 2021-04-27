@@ -1,6 +1,18 @@
 # Changelog
 
 # Current Release
+## v8 (WIP)
+* The Passing
+	* Map 1
+		* Removed the opened up path in the bar
+		> **Developer Note:** This experimental change made the cut off too strong and the limitations of the map made the design of the change unsatisfactory
+* Blood Harvest
+	* Map 2
+		* Moved filter for fallen filing cabinet out of global filters (no change)
+
+***
+
+# Past Releases
 ## v7 (2021-04-27)
 * Initial Release
 	* Blood Harvest
@@ -30,9 +42,6 @@
 * Templates
 	* Added template for script_clip_vphysics
 
-***
-
-# Past Releases
 ## v6 (2021-04-05)
 * Dead Center
 	* Map 1
