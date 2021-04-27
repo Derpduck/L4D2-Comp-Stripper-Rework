@@ -506,7 +506,7 @@
 		"tank_ban_flow_min" "81"
 		"tank_ban_flow_max" "100"
 		"max_distance"      "400"
-		"horde_limit"       "90"
+		"horde_limit"       "60"
 	}
 	"c12m4_barn"
 	{

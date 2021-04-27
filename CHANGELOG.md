@@ -6,9 +6,15 @@
 	* Blood Harvest
 * All Maps
 	* Made all forklifts start in their broken state to prevent physics issues when first hit by tanks
+	* Made hanging lights found in Blood Harvest non-solid
 * Dead Center
 	* Map 1
 		* Blocked gas cans from being launched into all remaining unreachable locations, and improved method used to block cans
+* Hard Rain
+	* Map 1
+		* Adjusted green fence by the garage sale
+	* Map 4
+		* Adjusted green fence by the garage sale
 * The Passing
 	* Map 2
 		* Removed a set elevator doors after the jazz club to open up a room for spawns
