@@ -1,7 +1,7 @@
 # Changelog
 
 # Current Release
-## v7 (WIP)
+## v7 (2021-04-27)
 * Initial Release
 	* Blood Harvest
 * All Maps
