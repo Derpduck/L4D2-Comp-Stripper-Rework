@@ -2,13 +2,24 @@
 
 # Current Release
 ## v8 (WIP)
+* Dead Center
+	* Map 1
+		* Blocked additional tank spawns between 0% - 24% (existing range of 38% - 79% remains)
+		* Adjusted extra guns in hallway to be more visible
 * The Passing
 	* Map 1
 		* Removed the opened up path in the bar
 		> **Developer Note:** This experimental change made the cut off too strong and the limitations of the map made the design of the change unsatisfactory
+* The Sacrifice
+	* Map 3
+		* Minor update to finale script for improved gamemode checking functionality
 * Blood Harvest
 	* Map 2
 		* Moved filter for fallen filing cabinet out of global filters (no change)
+	* Map 3
+		* Map distance changed to 500
+	* Map 4
+		* Map distance changed to 500
 
 ***
 
@@ -29,7 +40,7 @@
 		* Adjusted green fence by the garage sale
 * The Passing
 	* Map 2
-		* Removed a set elevator doors after the jazz club to open up a room for spawns
+		* Removed a set of elevator doors after the jazz club to open up a room for spawns
 		* Fixed players getting stuck on ladders in the sewer when walking against railings (Thanks Wicket)
 * The Sacrifice
 	* Map 1

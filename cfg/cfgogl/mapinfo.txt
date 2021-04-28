@@ -12,6 +12,8 @@
 		"tank_warpto"       "2168.357666 5803.427734 2464.031250"
 		"tank_ban_flow_min" "38"
 		"tank_ban_flow_max" "79"
+		"tank_ban_flow_min_b" "0"
+		"tank_ban_flow_max_b" "24"
 		"max_distance"      "400"
 	}
 	"c1m2_streets"
@@ -505,7 +507,7 @@
 		"end_dist"          "264.020966"
 		"tank_ban_flow_min" "81"
 		"tank_ban_flow_max" "100"
-		"max_distance"      "400"
+		"max_distance"      "500"
 		"horde_limit"       "60"
 	}
 	"c12m4_barn"
@@ -517,7 +519,7 @@
 		"end_dist"          "316.505157"
 		"tank_ban_flow_min" "43"
 		"tank_ban_flow_max" "51"
-		"max_distance"      "600"
+		"max_distance"      "500"
 		"horde_limit"       "60"
 	}
 	"c12m5_cornfield"

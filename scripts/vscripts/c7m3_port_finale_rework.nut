@@ -57,11 +57,11 @@ RandomFinaleStage5 = TANK
 // the sacrifice.
 
 PreEscapeDelay <- 0
-if ( Director.GetGameMode() == "coop" )
+if ( Director.GetGameModeBase() == "coop" || Director.GetGameModeBase() == "realism" )
 {
 	PreEscapeDelay <- 5
 }
-else if ( Director.GetGameMode() == "versus" )
+else if ( Director.GetGameModeBase() == "versus" )
 {
 	PreEscapeDelay <- 15
 }
