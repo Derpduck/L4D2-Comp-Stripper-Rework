@@ -2,20 +2,28 @@
 
 # Current Release
 ## v8 (WIP)
+* Initial Release
+	* Crash Course
+	* The Last Stand
+* The Crash Stand
+	* Crash Course and The Last Stand are now combined by TheCrashStand.vpk
+		* Map Order: Crash Course 1 & 2 -> The Last Stand 1 & 2
+	> **Developer Note:** The difficulty and length of the events on both campaigns have been reduced to bring them more in line with other campaigns
 * Dead Center
 	* Map 1
-		* Blocked additional tank spawns between 0% - 24% (existing range of 38% - 79% remains)
+		* Blocked additional tank spawns between 0% - 24% (existing ban range of 38% - 79% remains)
 		* Adjusted extra guns in hallway to be more visible
 * The Passing
 	* Map 1
 		* Removed the opened up path in the bar
-		> **Developer Note:** This experimental change made the cut off too strong and the limitations of the map made the design of the change unsatisfactory
+		> **Developer Note:** This experimental change made the cut off too strong and the limitations of the map made its design unsatisfactory
 * The Sacrifice
 	* Map 3
-		* Minor update to finale script for improved gamemode checking functionality
+		* Minor update to finale script for improved gamemode checking functionality (no change)
 * Blood Harvest
 	* Map 2
 		* Moved filter for fallen filing cabinet out of global filters (no change)
+		* Fixed collision issue on added train by the end saferoom
 	* Map 3
 		* Map distance changed to 500
 	* Map 4
