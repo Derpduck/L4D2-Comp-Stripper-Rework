@@ -6,9 +6,9 @@
 	* Crash Course
 	* The Last Stand
 * The Crash Stand
-	* Crash Course and The Last Stand are now combined by TheCrashStand.vpk
+	* Crash Course and The Last Stand are now combined with TheCrashStand.vpk
 		* Map Order: Crash Course 1 & 2 -> The Last Stand 1 & 2
-	> **Developer Note:** The difficulty and length of the events on both campaigns have been reduced to bring them more in line with other campaigns
+	> **Developer Note:** The difficulty and length of the events on both campaigns have been reduced to bring them more in line with other campaigns<br>Be sure to update the boss spawning parameters with those found in `boss_spawns.cfg`
 * Dead Center
 	* Map 1
 		* Blocked additional tank spawns between 0% - 24% (existing ban range of 38% - 79% remains)
@@ -28,6 +28,8 @@
 		* Map distance changed to 500
 	* Map 4
 		* Map distance changed to 500
+		* Added additional hints for the new path around the outside of the warehouse
+		* Removed an unreachable pill spawn on the warehouse rafters
 
 ***
 
