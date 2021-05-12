@@ -1,7 +1,7 @@
 # Changelog
 
 # Current Release
-## v8 (WIP)
+## v8 (2021-05-12)
 * Initial Release
 	* Crash Course
 	* The Last Stand
