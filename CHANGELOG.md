@@ -6,6 +6,18 @@
 	* Map 1
 		* Added a plank to the Whispering Oaks sign by the saferoom
 		* Added a van after the Whispering Oaks sign by the saferoom
+	* Map 2
+		* Removed the added game hut sign on the newly opened up area after the warehouse
+		* Added an ammo pile before the Kiddyland ramp
+		* Added infected ladders to climb up the sides of the Kiddyland ramp
+		* Added an infected ladder to climb into the monorail platform area from the tents at the bottom of the Kiddyland ramp
+* Swamp Fever
+	* Map 1
+		* Added an infected ladder to get up the dock by the house on the left after the ferry
+		* Added an infected ladder to get on the house on the left after the ferry
+		* Added an infected ladder to get on the raised up house after the ferry
+	* Map 3
+		* Moved the hittable car to the area by second fire barrel
 * The Parish
 	* Map 2
 		* Reworked the behaviour of the event during tanks:
