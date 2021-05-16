@@ -7,7 +7,7 @@
 		* Added a plank to the Whispering Oaks sign by the saferoom
 		* Added a van after the Whispering Oaks sign by the saferoom
 	* Map 2
-		* Removed the added game hut sign on the newly opened up area after the warehouse
+		* Removed the added game hut sign in the newly opened up area after the warehouse
 		* Added an ammo pile before the Kiddyland ramp
 		* Added infected ladders to climb up the sides of the Kiddyland ramp
 		* Added an infected ladder to climb into the monorail platform area from the tents at the bottom of the Kiddyland ramp
@@ -17,12 +17,12 @@
 		* Added an infected ladder to get on the house on the left after the ferry
 		* Added an infected ladder to get on the raised up house after the ferry
 	* Map 3
-		* Moved the hittable car to the area by second fire barrel
+		* Moved the hittable car to the area by the second fire barrel
 * The Parish
 	* Map 2
 		* Reworked the behaviour of the event during tanks:
 			* The horde will stop if survivors do not progress, and will resume permanently if the survivors progress far enough (vanilla behaviour)
-			* When the horde resumes due to progression, it will spawn 8 common every 20 seconds, instead of the full amount the event normally spawns
+			* If the horde resumes during tank due to progression, it will spawn 8 common every 20 seconds, instead of the full amount the event normally spawns
 			* Chat prints have been added to inform players of these states
 		* Added an infected ladder to prevent a perma-stuck spot behind fence near the saferoom
 		* Added an infected ladder to get over the concrete barricade outside the saferoom
