@@ -16,38 +16,60 @@ DirectorOptions <-
 	RelaxMaxInterval = 5
 	RelaxMaxFlowTravel = 600
 	
-	//Limit max horde in queue
+	// Limit max horde in queue
 	MobMaxPending = 30
 }
 
 Director.ResetMobTimer()
 
-
+// Control the horde when tank is alive
 function OnGameEvent_tank_spawn(params)
 {
 	Msg("Tank Spawned\n");
-	DirectorOptions.MobSpawnMinTime = 9999
-	DirectorOptions.MobSpawnMaxTime = 9999
-	Director.ResetMobTimer()
+	TankHordeParams()
 }
 
 function OnGameEvent_tank_killed(params)
 {
 	Msg("Tank Killed\n");
-	DirectorOptions.MobSpawnMinTime = 8
-	DirectorOptions.MobSpawnMaxTime = 8
-	Director.ResetMobTimer()
+	ResetHordeParams()
 }
 
 function OnGameEvent_player_team(params)
 {
-	if (params.disconnect && params.isbot && GetPlayerFromUserID(params.userid).GetZombieType() == 8) // Player is a disconnecting bot tank
+	// Player is a disconnecting bot tank
+	if (params.disconnect && params.isbot && GetPlayerFromUserID(params.userid).GetZombieType() == 8)
 	{
 		Msg("Tank Disconnected\n");
-		DirectorOptions.MobSpawnMinTime = 8
-		DirectorOptions.MobSpawnMaxTime = 8
-		Director.ResetMobTimer()
+		ResetHordeParams()
 	}
+}
+
+function TankHordeParams()
+{
+	DirectorOptions.MobSpawnMinTime = 20
+	DirectorOptions.MobSpawnMaxTime = 20
+	DirectorOptions.MobMinSize = 8
+	DirectorOptions.MobMaxSize = 8
+	Director.ResetMobTimer()
+	ClientPrint(null, 3, "\x05 Relaxing horde...")
+	
+	// Measure survivor flow travel to determine when hordes are triggered
+	EntFire("OnslaughtFlowChecker", "Enable")
+	EntFire("OnslaughtFlowChecker", "FireUser1")
+}
+
+function ResetHordeParams()
+{
+	DirectorOptions.MobSpawnMinTime = 8
+	DirectorOptions.MobSpawnMaxTime = 8
+	DirectorOptions.MobMinSize = 20
+	DirectorOptions.MobMaxSize = 30
+	Director.ResetMobTimer()
+	ClientPrint(null, 3, "\x05 Ramping up the horde!")
+	
+	// Stop measuring flow
+	EntFire("OnslaughtFlowChecker", "Kill")
 }
 
 __CollectEventCallbacks(this, "OnGameEvent_", "GameEventCallbacks", RegisterScriptGameEventListener)
