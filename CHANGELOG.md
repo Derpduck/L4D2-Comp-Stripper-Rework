@@ -4,7 +4,7 @@
 ## v9 (WIP)
 * Dead Center
 	* Map 2
-		* Fixed wall-mounted weapons in the gun store falling off the shelves and failing to spawn due to director
+		* Fixed wall-mounted weapons in the gun store falling off the shelves and failing to spawn due to the director
 * Dark Carnival
 	* Map 1
 		* Added a plank to the Whispering Oaks sign by the saferoom
@@ -25,6 +25,10 @@
 		* Added an infected ladder to get on the raised up house after the ferry
 	* Map 3
 		* Moved the hittable car to the area by the second fire barrel
+* Hard Rain
+	* Map 1 & 4
+		* Adjusted the blue pickup truck outside the sugarmill saferoom
+		* Adjusted the boxes in the boat garage outside the sugarmill saferoom
 * The Parish
 	* Map 2
 		* Reworked the behaviour of the event during tanks:
