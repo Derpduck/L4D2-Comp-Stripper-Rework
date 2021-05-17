@@ -2,6 +2,9 @@
 
 # Current Release
 ## v9 (WIP)
+* Dead Center
+	* Map 2
+		* Fixed wall-mounted weapons in the gun store falling off the shelves and failing to spawn due to director
 * Dark Carnival
 	* Map 1
 		* Added a plank to the Whispering Oaks sign by the saferoom
