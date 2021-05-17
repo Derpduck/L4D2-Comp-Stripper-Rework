@@ -6,11 +6,15 @@
 	* Map 1
 		* Added a plank to the Whispering Oaks sign by the saferoom
 		* Added a van after the Whispering Oaks sign by the saferoom
+		* Added a bus at the top of the hill before the end saferoom
+		* Added concrete blocks and ramps to the end saferoom roof
+		* Blocked LOS under bus outside the end saferoom
 	* Map 2
 		* Removed the added game hut sign in the newly opened up area after the warehouse
 		* Added an ammo pile before the Kiddyland ramp
 		* Added infected ladders to climb up the sides of the Kiddyland ramp
 		* Added an infected ladder to climb into the monorail platform area from the tents at the bottom of the Kiddyland ramp
+		* Adjusted amp and crate stacks by the open tent outside saferoom to help with spawning
 * Swamp Fever
 	* Map 1
 		* Added an infected ladder to get up the dock by the house on the left after the ferry
@@ -26,6 +30,8 @@
 			* Chat prints have been added to inform players of these states
 		* Added an infected ladder to prevent a perma-stuck spot behind fence near the saferoom
 		* Added an infected ladder to get over the concrete barricade outside the saferoom
+* Templates
+	* Added function to clean up entities used to set mins and maxs
 
 
 ***
