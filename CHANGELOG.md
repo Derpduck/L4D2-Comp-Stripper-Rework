@@ -5,6 +5,8 @@
 * Dead Center
 	* Map 2
 		* Fixed wall-mounted weapons in the gun store falling off the shelves and failing to spawn due to the director
+	* Map 4
+		* Removed randomness from panic wave horde sizes, it will now always spawn 20 common instead of a random number which would differ between teams
 * Dark Carnival
 	* Map 1
 		* Added a plank to the Whispering Oaks sign by the saferoom
@@ -33,10 +35,19 @@
 	* Map 2
 		* Reworked the behaviour of the event during tanks:
 			* The horde will stop if survivors do not progress, and will resume permanently if the survivors progress far enough (vanilla behaviour)
-			* If the horde resumes during tank due to progression, it will spawn 8 common every 20 seconds, instead of the full amount the event normally spawns
+			* If the horde resumes during tank due to progression, it will spawn 10 common every 20 seconds, instead of the full amount the event normally spawns
 			* Chat prints have been added to inform players of these states
 		* Added an infected ladder to prevent a perma-stuck spot behind fence near the saferoom
 		* Added an infected ladder to get over the concrete barricade outside the saferoom
+* The Passing
+	* Map 1
+		* Allowed weapon spawns in the apartments to spawn in versus
+		* Added clipping to store entrances to stop players from getting stuck on the steps
+	* Map 2
+		* Blocked the alleyway entrance next to the Red Flight bar to prevent survivors from skipping the interior entirely, added an infected ladder to get over the fence
+* The Sacrifice
+	* Map 1
+		* Added clipping to the fence leaning on cooling tank in saferoom to stop players from getting stuck
 * Templates
 	* Added function to clean up entities used to set mins and maxs
 

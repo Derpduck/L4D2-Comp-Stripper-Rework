@@ -24,7 +24,7 @@ function OnslaughtCheckFlow()
 		// Survivors have travelled past the relax threshold, horde will now spawn regardless of tank state, inform players
 		if (CurrentMaxFlow > g_StartingFlow + g_MaxTravelDistance)
 		{
-			ClientPrint(null, 3, "\x05 Horde has resumed due to progression")
+			ClientPrint(null, 3, "\x05Horde has resumed due to progression")
 			EntFire("OnslaughtFlowChecker", "Kill")
 		}
 		

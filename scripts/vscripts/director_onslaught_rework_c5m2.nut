@@ -49,10 +49,10 @@ function TankHordeParams()
 {
 	DirectorOptions.MobSpawnMinTime = 20
 	DirectorOptions.MobSpawnMaxTime = 20
-	DirectorOptions.MobMinSize = 8
-	DirectorOptions.MobMaxSize = 8
+	DirectorOptions.MobMinSize = 10
+	DirectorOptions.MobMaxSize = 10
 	Director.ResetMobTimer()
-	ClientPrint(null, 3, "\x05 Relaxing horde...")
+	ClientPrint(null, 3, "\x05Relaxing horde...")
 	
 	// Measure survivor flow travel to determine when hordes are triggered
 	EntFire("OnslaughtFlowChecker", "Enable")
@@ -66,7 +66,7 @@ function ResetHordeParams()
 	DirectorOptions.MobMinSize = 20
 	DirectorOptions.MobMaxSize = 30
 	Director.ResetMobTimer()
-	ClientPrint(null, 3, "\x05 Ramping up the horde!")
+	ClientPrint(null, 3, "\x05Ramping up the horde!")
 	
 	// Stop measuring flow
 	EntFire("OnslaughtFlowChecker", "Kill")

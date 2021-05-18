@@ -26,7 +26,6 @@
 		"horde_limit"       "150"
 		"tank_ban_flow_min" "49"
 		"tank_ban_flow_max" "55"
-		"max_distance"      "600"
 	}
 	"c1m3_mall"
 	{
