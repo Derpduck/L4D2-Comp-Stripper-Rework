@@ -1,12 +1,13 @@
 # Changelog
 
 # Current Release
-## v9 (WIP)
+## v9 (2021-05-19)
 * Dead Center
 	* Map 2
 		* Fixed wall-mounted weapons in the gun store falling off the shelves and failing to spawn due to the director
 	* Map 4
 		* Removed randomness from panic wave horde sizes, it will now always spawn 20 common instead of a random number which would differ between teams
+		> **Developer Note:** Due to limitations with modifying finale scripts, this applies to all configs
 * Dark Carnival
 	* Map 1
 		* Added a plank to the Whispering Oaks sign by the saferoom
@@ -47,7 +48,7 @@
 		* Blocked the alleyway entrance next to the Red Flight bar to prevent survivors from skipping the interior entirely, added an infected ladder to get over the fence
 * The Sacrifice
 	* Map 1
-		* Added clipping to the fence leaning on cooling tank in saferoom to stop players from getting stuck
+		* Added clipping to the fence leaning on the cooling tank in saferoom to stop players from getting stuck
 * Templates
 	* Added function to clean up entities used to set mins and maxs
 
