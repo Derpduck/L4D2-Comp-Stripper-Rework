@@ -5,6 +5,8 @@
 * Dark Carnival
 	* Map 4
 		* Fixed forklift spawning too close to the ground
+* Templates
+	* Removed function to clean up entities used to set mins and maxs
 
 ***
 
