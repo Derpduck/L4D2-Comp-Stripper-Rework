@@ -2,6 +2,8 @@
 
 # Current Release
 ## v10 (WIP)
+* All Maps
+	* Increased delay for removing vscript spawned entities to fix them not being removed in some cases
 * Dark Carnival
 	* Map 4
 		* Fixed forklift spawning too close to the ground
