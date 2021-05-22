@@ -1,6 +1,14 @@
 # Changelog
 
 # Current Release
+## v10 (WIP)
+* Dark Carnival
+	* Map 4
+		* Fixed forklift spawning too close to the ground
+
+***
+
+# Past Releases
 ## v9 (2021-05-19)
 * Dead Center
 	* Map 2
@@ -52,10 +60,6 @@
 * Templates
 	* Added function to clean up entities used to set mins and maxs
 
-
-***
-
-# Past Releases
 ## v8 (2021-05-12)
 * Initial Release
 	* Crash Course
