@@ -4,9 +4,23 @@
 ## v10 (WIP)
 * All Maps
 	* Increased delay for removing vscript spawned entities to fix them not being removed in some cases
+* Dead Center
+	* Map 3
+		* Added an ammo pile by the gun spawn after the 2nd set of escalators
+		* Removed some glass panels around the event to help the infected
+		* Removed some glass panels around the end saferoom to help the infected
+		* Added a platform to allow infected to reach the top floor using a ladder by the main event escalator
 * Dark Carnival
 	* Map 4
 		* Fixed forklift spawning too close to the ground
+* The Parish
+	* Map 3
+		* Changed a tree model near the start of the map to one with less leaves
+		* Added a tree near the hittable car by the bus drop
+		* Added an infected ladder to get on the house behind the trailer
+		* Added a van at the back of the sewer drop street
+	* Map 4
+		* Added an infected ladder to climb up to the one way drop balcony from the van
 * Templates
 	* Removed function to clean up entities used to set mins and maxs
 
