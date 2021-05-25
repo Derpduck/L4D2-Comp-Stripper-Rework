@@ -9,10 +9,16 @@
 		* Added an ammo pile by the gun spawn after the 2nd set of escalators
 		* Removed some glass panels around the event to help the infected
 		* Removed some glass panels around the end saferoom to help the infected
-		* Added a platform to allow infected to reach the top floor using a ladder by the main event escalator
+		* Added a platform to allow infected to reach the top floor from a ladder by the main event escalator
 * Dark Carnival
+	* Map 2
+		* Prevented players from activating the shooting gallery to troll
+		* Allowed players to take the gnome without completing the shooting gallery
 	* Map 4
 		* Fixed forklift spawning too close to the ground
+* Swamp Fever
+	* Map 1
+		* Added a bridge to the ferry while survivors are crossing the river for ghost infected that spawn on the survivors
 * The Parish
 	* Map 3
 		* Changed a tree model near the start of the map to one with less leaves
@@ -20,6 +26,7 @@
 		* Added an infected ladder to get on the house behind the trailer
 		* Added a van at the back of the sewer drop street
 	* Map 4
+		* Improved clipping around tree outside saferoom
 		* Added an infected ladder to climb up to the one way drop balcony from the van
 * Templates
 	* Removed function to clean up entities used to set mins and maxs
