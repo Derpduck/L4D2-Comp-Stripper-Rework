@@ -19,6 +19,9 @@
 * Swamp Fever
 	* Map 1
 		* Added a bridge to the ferry while survivors are crossing the river for ghost infected that spawn on the survivors
+* Hard Rain
+	* Map 2 & 3
+		* Added some preventative measures to fix rare cases of tanks spawning under the map before the elevator
 * The Parish
 	* Map 3
 		* Changed a tree model near the start of the map to one with less leaves
