@@ -653,6 +653,8 @@
 		"end_point"         "-4824.578125 -7661.144043 566.031250"
 		"end_dist"          "393.489532"
 		"horde_limit"       "120"
+		"tank_ban_flow_min" "61"
+		"tank_ban_flow_max" "100"
 	}
 	"cdta_03warehouse"
 	{
