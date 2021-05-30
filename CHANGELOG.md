@@ -19,6 +19,8 @@
 * Swamp Fever
 	* Map 1
 		* Added a bridge to the ferry while survivors are crossing the river for ghost infected that spawn on the survivors
+	* Map 2
+		* Fixed a stuck spot on an added rock cluster
 	* Map 4
 		* Moved the added haybale from the first barn to the second barn
 * Hard Rain
