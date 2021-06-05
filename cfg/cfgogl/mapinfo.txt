@@ -663,7 +663,7 @@
 		"start_extra_dist"  "386.233795"
 		"end_point"         "9837.693359 -12491.964844 776.031250"
 		"end_dist"          "245.495361"
-		"tank_ban_flow_min" "55"
+		"tank_ban_flow_min" "60"
 		"tank_ban_flow_max" "78"
 	}
 	"cdta_04onarail"

@@ -5,6 +5,8 @@
 * All Maps
 	* Increased delay for removing vscript spawned entities to fix them not being removed in some cases
 * Dead Center
+	* Map 1
+		* Fixed nav mesh issue on elevators before the doors are opened
 	* Map 3
 		* Added an ammo pile by the gun spawn after the 2nd set of escalators
 		* Removed some glass panels around the event to help the infected
@@ -21,6 +23,8 @@
 		* Added a bridge to the ferry while survivors are crossing the river for ghost infected that spawn on the survivors
 	* Map 2
 		* Fixed a stuck spot on an added rock cluster
+	* Map 3
+		* Made the gun by the lantern before the event always spawn and adjusted positioning
 	* Map 4
 		* Moved the added haybale from the first barn to the second barn
 * Hard Rain
@@ -32,11 +36,13 @@
 		* Added a tree near the hittable car by the bus drop
 		* Added an infected ladder to get on the house behind the trailer
 		* Added a van at the back of the sewer drop street
+		* Blocked being able to climb on the frames of one of the burned down buildings
 	* Map 4
 		* Improved clipping around tree outside saferoom
 		* Added an infected ladder to climb up to the one way drop balcony from the van
 * Templates
 	* Removed function to clean up entities used to set mins and maxs
+	* Updated func_nav_blocker template
 
 ***
 
