@@ -6,7 +6,7 @@
 	* Increased delay for removing vscript spawned entities to fix them not being removed in some cases
 * Dead Center
 	* Map 1
-		* Fixed nav mesh issue on elevators before the doors are opened
+		* Fixed nav issue on added elevator event before the doors are opened that would cause infected to spawn inside it
 	* Map 3
 		* Added an ammo pile by the gun spawn after the 2nd set of escalators
 		* Removed some glass panels around the event to help the infected
@@ -40,6 +40,9 @@
 	* Map 4
 		* Improved clipping around tree outside saferoom
 		* Added an infected ladder to climb up to the one way drop balcony from the van
+* The Sacrifice
+	* Map 2
+		* Made the guns in the small building by the lake after the brick factory always spawn
 * Templates
 	* Removed function to clean up entities used to set mins and maxs
 	* Updated func_nav_blocker template
