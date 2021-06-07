@@ -40,6 +40,11 @@
 	* Map 4
 		* Improved clipping around tree outside saferoom
 		* Added an infected ladder to climb up to the one way drop balcony from the van
+* The Passing
+	* Map 2
+		* Remove some barrels that cause a perma-stuck spot in the jazz club underground
+		* Added the crates in the Jones & Sons building back in, making the tunnel route definitively longer than the fire escape
+		* Replaced the debris pile in the sewer by the ladder with some pipes
 * The Sacrifice
 	* Map 2
 		* Made the guns in the small building by the lake after the brick factory always spawn
