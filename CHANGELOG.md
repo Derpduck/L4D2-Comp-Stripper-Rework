@@ -4,6 +4,7 @@
 ## v10 (WIP)
 * All Maps
 	* Increased delay for removing vscript spawned entities to fix them not being removed in some cases
+	* Replaced forklift model string to (hopefully) fix spawning issues
 * Dead Center
 	* Map 1
 		* Fixed nav issue on added elevator event before the doors are opened that would cause infected to spawn inside it
@@ -42,7 +43,7 @@
 		* Added an infected ladder to climb up to the one way drop balcony from the van
 * The Passing
 	* Map 2
-		* Remove some barrels that cause a perma-stuck spot in the jazz club underground
+		* Removed some barrels that caused a perma-stuck spot in the jazz club underground
 		* Added the crates in the Jones & Sons building back in, making the tunnel route definitively longer than the fire escape
 		* Replaced the debris pile in the sewer by the ladder with some pipes
 * The Sacrifice
