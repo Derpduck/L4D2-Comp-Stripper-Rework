@@ -1,7 +1,7 @@
 # Changelog
 
 # Current Release
-## v10 (WIP)
+## v10 (2021-06-11)
 * All Maps
 	* Increased delay for removing vscript spawned entities to fix them not being removed in some cases
 	* Replaced forklift model string to (hopefully) fix spawning issues
