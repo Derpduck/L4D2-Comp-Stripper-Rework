@@ -32,6 +32,8 @@
 	* Map 2 & 3
 		* Added some preventative measures to fix rare cases of tanks spawning under the map before the elevator
 * The Parish
+	* Map 2
+		* Fixed a perma-stuck spot on a ladder before the event that was moved in TLS update
 	* Map 3
 		* Changed a tree model near the start of the map to one with less leaves
 		* Added a tree near the hittable car by the bus drop
