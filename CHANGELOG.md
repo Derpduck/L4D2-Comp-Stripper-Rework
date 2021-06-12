@@ -1,6 +1,19 @@
 # Changelog
 
 # Current Release
+## v11 (WIP)
+* All Maps
+	* Limited forklift fix application to `prop_physics` and `prop_physics_override` entities only
+* Dark Carnival
+	* Map 4
+		* Changed some properties to address spawning issues
+* The Passing
+	* Map 2
+		* Fixed the signs outside the jazz club falling to the ground
+
+***
+
+# Past Releases
 ## v10 (2021-06-11)
 * All Maps
 	* Increased delay for removing vscript spawned entities to fix them not being removed in some cases
@@ -55,9 +68,6 @@
 	* Removed function to clean up entities used to set mins and maxs
 	* Updated func_nav_blocker template
 
-***
-
-# Past Releases
 ## v9 (2021-05-19)
 * Dead Center
 	* Map 2
