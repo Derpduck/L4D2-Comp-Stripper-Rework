@@ -1,6 +1,6 @@
 printl("\n[NavFixes] c2m3_coaster_navfixes initialized\n")
 
-//Fix 1. Fix jesus spot on coaster fence by the first ramp//
+//Fix 1: Fix jesus spot on coaster fence by the first ramp//
 //Issue: Nav area has one way connections, making it impossible for common to path
 
 //Get nav areas:

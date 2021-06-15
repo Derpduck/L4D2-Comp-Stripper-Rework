@@ -8,9 +8,14 @@
 	* Map 2
 		* Raised the height of the roof above the ladder choke to prevent stuck spots
 	* Map 3
-		* Fixed a jesus spot on the right fence on the first coaster ramp, using the new vscript functions
+		* Fixed a jesus spot on the right fence on the first coaster ramp, using the new vscript functions (Replaces barbed wire fix)
 	* Map 4
 		* Changed some properties on the forklift to address spawning issues
+* Hard Rain
+	* Map 1 & 5
+		* Fixed a jesus spot on a table in the burger tank (Replaces Valve's washer box)
+	* Map 2 & 3
+		* Fixed a jesus spot on the spool by the 2 silos
 * The Passing
 	* Map 2
 		* Reworked the blocked path in the Jones & Sons building
