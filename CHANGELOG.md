@@ -5,11 +5,30 @@
 * All Maps
 	* Limited forklift fix application to `prop_physics` and `prop_physics_override` entities only
 * Dark Carnival
+	* Map 2
+		* Raised the height of the roof above the ladder choke to prevent stuck spots
 	* Map 4
-		* Changed some properties to address spawning issues
+		* Changed some properties on the forklift to address spawning issues
 * The Passing
 	* Map 2
+		* Reworked the blocked path in the Jones & Sons building
 		* Fixed the signs outside the jazz club falling to the ground
+* Crash Course
+	* Map 1
+		* Made the garage wall by the warehouse near the event breakable in 1 hit
+		* Reduced the number of hittables:
+			* Cars: From **44** to **26**
+			* Dumpsters: From **24** to **16**
+			* Forklifts: Unchanged (**3**)
+	* Map 2
+		* Added an infected ladder to climb onto platform before the warehouses
+		* Reduced the number of hittables:
+			* Cars: From **19** to **11**
+			* Dumpsters: From **9** to **6**
+	> **Developer Note:** While this may still seem like a lot of hittables, many of the remaining ones are in less accessible locations or are at the very end of the map where they won't see much use
+* The Last Stand
+	* Map 2
+		* Lowered tank ban range to 30% (was 34%)
 
 ***
 
