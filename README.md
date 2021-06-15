@@ -162,3 +162,5 @@ If you believe that yourself or any other historical contributors haven't been c
 * Wicket
 * Devilesk
 * Tsuey
+* raziEiL
+* harterc1

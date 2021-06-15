@@ -7,6 +7,8 @@
 * Dark Carnival
 	* Map 2
 		* Raised the height of the roof above the ladder choke to prevent stuck spots
+	* Map 3
+		* Fixed a jesus spot on the right fence on the first coaster ramp, using the new vscript functions
 	* Map 4
 		* Changed some properties on the forklift to address spawning issues
 * The Passing
