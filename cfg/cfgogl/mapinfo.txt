@@ -671,8 +671,6 @@
 		"start_point"       "-11160.266602 2500.985107 656.031250"
 		"start_dist"        "248.178223"
 		"start_extra_dist"  "251.028473"
-		"tank_ban_flow_min" "0"
-		"tank_ban_flow_max" "28"
 		"max_distance"      "700"
 	}
 	"cdta_05finalroad"
@@ -682,8 +680,9 @@
 		"start_extra_dist"  "269.938385"
 		"end_point"         "-12561.050781 -11283.779297 985.953308"
 		"end_dist"          "245.495361"
-		"tank_ban_flow_min" "1"
+		"tank_ban_flow_min" "0"
 		"tank_ban_flow_max" "70"
+		"max_distance"      "600"
 	}
 	"l4d_deathaboard01_prison"
 	{

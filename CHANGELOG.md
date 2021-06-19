@@ -4,6 +4,7 @@
 ## v11 (WIP)
 * All Maps
 	* Limited forklift fix application to `prop_physics` and `prop_physics_override` entities only
+	* Prevented maps from setting ammo pile and pain pill density to 0, which would prevent the director from spawning those items
 * Dark Carnival
 	* Map 2
 		* Raised the height of the roof above the ladder choke to prevent stuck spots
