@@ -2,6 +2,14 @@
 
 # Current Release
 ## v11 (WIP)
+* Initial Release
+	* Detour Ahead
+		* See the changes here:
+			1. [Detour](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/wiki/Detour-Ahead-1-Detour)
+			2. [Road](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/wiki/Detour-Ahead-2-Road)
+			3. [Warehouse](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/wiki/Detour-Ahead-3-Warehouse)
+			4. [On A Rail](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/wiki/Detour-Ahead-4-On-A-Rail)
+			5. [Final Road](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/wiki/Detour-Ahead-5-Final-Road)
 * All Maps
 	* Limited forklift fix application to `prop_physics` and `prop_physics_override` entities only
 	* Prevented maps from setting ammo pile and pain pill density to 0, which would prevent the director from spawning those items
@@ -23,6 +31,7 @@
 		* Fixed the signs outside the jazz club falling to the ground
 * Crash Course
 	* Map 1
+		* Increased map distance to 600 (was 500)
 		* Made the garage wall by the warehouse near the event breakable in 1 hit
 		* Reduced the number of hittables:
 			* Cars: From **44** to **26**
