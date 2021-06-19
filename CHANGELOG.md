@@ -1,7 +1,7 @@
 # Changelog
 
 # Current Release
-## v11 (WIP)
+## v11 (2021-06-19)
 * Initial Release
 	* Detour Ahead
 		* See the changes here:

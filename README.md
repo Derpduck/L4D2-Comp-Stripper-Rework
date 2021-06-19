@@ -1,6 +1,6 @@
 # L4D2 Competitive Stripper Rework
-#### Version: v10
-#### Released: 2021-06-11
+#### Version: v11
+#### Released: 2021-06-19
 
 ## Important Links
 ### [Map Changes Documentation](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/wiki/Map-Changes)
