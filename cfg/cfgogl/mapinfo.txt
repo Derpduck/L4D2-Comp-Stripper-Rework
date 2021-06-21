@@ -314,7 +314,7 @@
 		"start_extra_dist"  "605.247620"
 		"end_point"         "2883.220703 2962.613037 -204.742737"
 		"end_dist"          "336.442200"
-		"max_distance"      "300"
+		"max_distance"      "400"
 	}
 	"c8m2_subway"
 	{
@@ -331,7 +331,6 @@
 		"start_dist"        "50.000000"
 		"start_extra_dist"  "0.000000"
 		"end_dist"          "75.000000"
-		"max_distance"      "600"
 		"tank_ban_flow_min" "55"
 		"tank_ban_flow_max" "80"
 	}

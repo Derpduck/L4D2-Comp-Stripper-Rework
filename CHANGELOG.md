@@ -1,6 +1,18 @@
 # Changelog
 
 # Current Release
+## v12 (WIP)
+* Swamp Fever
+	* Map 1
+		* Moved the ammo pile before the one way drop from inside the house onto the porch
+* Blood Harvest
+	* Map 3
+		* Reduced the intensity of the horde during the event
+		* Fixed ladder in the room leading to the train yard spawning out of bounds
+
+***
+
+# Past Releases
 ## v11 (2021-06-19)
 * Initial Release
 	* Detour Ahead
@@ -47,9 +59,6 @@
 	* Map 2
 		* Lowered tank ban range to 30% (was 34%)
 
-***
-
-# Past Releases
 ## v10 (2021-06-11)
 * All Maps
 	* Increased delay for removing vscript spawned entities to fix them not being removed in some cases
