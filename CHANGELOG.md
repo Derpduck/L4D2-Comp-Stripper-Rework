@@ -10,6 +10,9 @@
 		* Fixed issues with horde warnings during event tanks, which was preventing the horde from entering the relaxed state after pushing tank as intended
 		* Added a sound cue for when the horde is resumed due to progression
 		* Added a warning for when survivors are near the distance where horde will resume
+		* Added a missing texture to roof in the event area
+	* Map 3
+		* Blocked LOS under van by the sewer drop
 * Blood Harvest
 	* Map 3
 		* Reduced the intensity of the horde during the event
