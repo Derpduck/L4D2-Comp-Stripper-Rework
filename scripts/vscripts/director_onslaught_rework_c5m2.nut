@@ -97,6 +97,7 @@ function ResetHordeParams()
 	
 	// Stop measuring flow
 	EntFire("OnslaughtFlowChecker", "Disable")
+	g_TankFirstSpawned = false
 }
 
 __CollectEventCallbacks(this, "OnGameEvent_", "GameEventCallbacks", RegisterScriptGameEventListener)
