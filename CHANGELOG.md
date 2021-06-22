@@ -5,6 +5,11 @@
 * Swamp Fever
 	* Map 1
 		* Moved the ammo pile before the one way drop from inside the house onto the porch
+* The Parish
+	* Map 2
+		* Fixed issues with horde warnings during event tanks, which was preventing the horde from entering the relaxed state after pushing tank as intended
+		* Added a sound cue for when the horde is resumed due to progression
+		* Added a warning for when survivors are near the distance where horde will resume
 * Blood Harvest
 	* Map 3
 		* Reduced the intensity of the horde during the event
