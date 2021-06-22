@@ -1,6 +1,6 @@
 Msg("Initiating Onslaught Flow Checker\n");
 
-g_TankSpanwed <- false
+g_TankSpawned <- false
 g_StartingFlow <- 0
 g_MaxTravelDistance <- Convars.GetFloat("director_tank_bypass_max_flow_travel")
 g_WarnedOnce <- false
@@ -10,7 +10,7 @@ PrecacheSound("Hint.Critical")
 
 function OnslaughtGetStartingFlow()
 {
-	g_TankSpanwed = true
+	g_TankSpawned = true
 	g_StartingFlow = Director.GetFurthestSurvivorFlow()
 	
 	if (developer() > 0)
@@ -21,7 +21,7 @@ function OnslaughtGetStartingFlow()
 
 function OnslaughtCheckFlow()
 {
-	if (g_TankSpanwed == true)
+	if (g_TankSpawned == true)
 	{
 		local CurrentMaxFlow = Director.GetFurthestSurvivorFlow()
 		
