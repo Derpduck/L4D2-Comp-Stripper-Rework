@@ -1,7 +1,7 @@
 # Changelog
 
 # Current Release
-## v12 (WIP)
+## v12 (2021-06-24)
 * Swamp Fever
 	* Map 1
 		* Moved the ammo pile before the one way drop from inside the house onto the porch
