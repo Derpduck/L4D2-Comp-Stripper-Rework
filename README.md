@@ -55,8 +55,9 @@ The following plugins should not be loaded when using the rework:
 * **clip_removal** - Redundant, poor functionality, compatibility issues with reworked clips
 * **l4d2_fireworks_noise_block** - Silences firework sounds on the Dark Carnival finale
 * **l4d_no_cans** - Removes gas cans, propane tanks, oxygen tanks and firework crates
+* **nm3_ladder_damage** - Prevents fall damage from hunters and jockeys over 30 HP on No Mercy 3, unintentionally applies across the entire map
 
-The following plugins are not made redundant by the rework, but are not recommended to use with the rework due to design conflicts:
+The following plugins are not made redundant by the rework, but are not recommended for use with the rework due to design conflicts:
 * **l4d2_saferoom_gun_control** - Legacy ProMod plugin that controls saferoom weapon spawns
     * **saferoom_gun_control.txt** - Dependent file that defines rules for saferoom weapons
 * **holdout_bonus** - ProMod plugin that awards bonus points for holdout events

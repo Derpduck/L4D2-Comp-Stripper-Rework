@@ -4,6 +4,11 @@
 ## v13 (WIP)
 * Initial Release
 	* No Mercy
+		1. [Apartments](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/wiki/No-Mercy-1-Apartments)
+		2. [Subway](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/wiki/No-Mercy-2-Subway)
+		3. [Sewer](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/wiki/No-Mercy-3-Sewer)
+		4. [Interior](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/wiki/No-Mercy-4-Hospital)
+		5. [Rooftop](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/wiki/No-Mercy-5-Rooftop)
 * All Maps
 	* Made the green and blue trash can props unmovable
 	* Fixed a potential issue that could cause static weapon spawns to affect weapon distribution
