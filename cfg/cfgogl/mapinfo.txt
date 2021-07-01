@@ -314,7 +314,6 @@
 		"start_extra_dist"  "605.247620"
 		"end_point"         "2883.220703 2962.613037 -204.742737"
 		"end_dist"          "336.442200"
-		"max_distance"      "400"
 	}
 	"c8m2_subway"
 	{
@@ -331,8 +330,10 @@
 		"start_dist"        "50.000000"
 		"start_extra_dist"  "0.000000"
 		"end_dist"          "75.000000"
-		"tank_ban_flow_min" "55"
-		"tank_ban_flow_max" "80"
+		"tank_ban_flow_min" "50"
+		"tank_ban_flow_max" "70"
+		"tank_ban_flow_min_b" "29"
+		"tank_ban_flow_max_b" "35"
 	}
 	"c8m4_interior"
 	{
@@ -345,6 +346,8 @@
 		"max_tank_z"        "4000.000000"
 		"tank_warpto"       "13428.627930 15072.313477 486.031250"
 		"max_distance"      "500"
+		"tank_ban_flow_min" "45"
+		"tank_ban_flow_max" "80"
 	}
 	"c8m5_rooftop"
 	{
@@ -353,8 +356,6 @@
 		"start_extra_dist"  "421.803650"
 		"end_point"         "5675.121582 8443.446289 6142.031250"
 		"end_dist"          "100.000000"
-		"tank_ban_flow_min" "0"
-		"tank_ban_flow_max" "55"
 		"ItemLimits"
 		{
 			"pain_pills"    "0"
@@ -516,8 +517,8 @@
 		"start_extra_dist"  "264.932068"
 		"end_point"         "10398.775391 -310.353424 2.031253"
 		"end_dist"          "316.505157"
-		"tank_ban_flow_min" "43"
-		"tank_ban_flow_max" "51"
+		"tank_ban_flow_min" "39"
+		"tank_ban_flow_max" "54"
 		"max_distance"      "500"
 		"horde_limit"       "60"
 	}

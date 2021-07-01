@@ -1,6 +1,33 @@
 # Changelog
 
 # Current Release
+## v13 (WIP)
+* Initial Release
+	* No Mercy
+* All Maps
+	* Made the green and blue trash can props unmovable
+	* Fixed a potential issue that could cause static weapon spawns to affect weapon distribution
+	* Increased ammo density for maps with 0 ammo density
+* Dark Carnival
+	* Map 1
+		* Added a bus and additional tree by the saferoom
+		* Removed the humvee and van by the saferoom
+* Hard Rain
+	* Maps 2 & 3
+		* Fixed guns in the gas station saferoom falling to the ground
+* The Parish
+	* Map 3
+		* Fixed some minor nav flow issues due to the cemetery pathing changes
+* Crash Course
+	* Map 2
+		* Made the added clipping for the escape vehicle only active after escape sequence is started
+* Blood Harvest
+	* Map 4
+		* Changed tank ban range to 39% - 54% (was 43% - 51%)
+
+***
+
+# Past Releases
 ## v12 (2021-06-24)
 * Swamp Fever
 	* Map 1
@@ -18,9 +45,6 @@
 		* Reduced the intensity of the horde during the event
 		* Fixed ladder in the room leading to the train yard spawning out of bounds
 
-***
-
-# Past Releases
 ## v11 (2021-06-19)
 * Initial Release
 	* Detour Ahead
