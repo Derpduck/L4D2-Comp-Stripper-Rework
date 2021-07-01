@@ -356,6 +356,8 @@
 		"start_extra_dist"  "421.803650"
 		"end_point"         "5675.121582 8443.446289 6142.031250"
 		"end_dist"          "100.000000"
+		"tank_ban_flow_min" "0"
+		"tank_ban_flow_max" "45"
 		"ItemLimits"
 		{
 			"pain_pills"    "0"
