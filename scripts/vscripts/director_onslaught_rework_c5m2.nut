@@ -122,7 +122,7 @@ function ResetHordeParams()
 	ClientPrint(null, 3, "\x05Ramping up the horde!")
 	
 	// Stop measuring flow
-	EntFire("OnslaughtFlowChecker", "FireUser2")
+	//EntFire("OnslaughtFlowChecker", "FireUser2")
 	EntFire("OnslaughtFlowChecker", "Disable")
 	g_TankFirstSpawned = false
 }
