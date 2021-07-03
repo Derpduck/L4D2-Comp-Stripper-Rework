@@ -100,8 +100,8 @@ function OnGameEvent_player_team(params)
 
 function TankHordeParams()
 {
-	DirectorOptions.MobSpawnMinTime = 20
-	DirectorOptions.MobSpawnMaxTime = 20
+	DirectorOptions.MobSpawnMinTime = 10
+	DirectorOptions.MobSpawnMaxTime = 10
 	DirectorOptions.MobMinSize = 10
 	DirectorOptions.MobMaxSize = 10
 	Director.ResetMobTimer()
@@ -122,6 +122,7 @@ function ResetHordeParams()
 	ClientPrint(null, 3, "\x05Ramping up the horde!")
 	
 	// Stop measuring flow
+	EntFire("OnslaughtFlowChecker", "FireUser2")
 	EntFire("OnslaughtFlowChecker", "Disable")
 	g_TankFirstSpawned = false
 }

@@ -21,6 +21,8 @@
 	* Maps 2 & 3
 		* Fixed guns in the gas station saferoom falling to the ground
 * The Parish
+	* Map 2
+		* Increased horde spawn rate when tank is pushed to 10 common every 10 seconds (was 10 common ever 20 seconds)
 	* Map 3
 		* Fixed some minor nav flow issues due to the cemetery pathing changes
 * Crash Course
