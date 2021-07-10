@@ -392,7 +392,6 @@
 		"start_extra_dist"  "587.266541"
 		"end_point"         "-10784.895508 -4906.771973 318.224670"
 		"end_dist"          "403.989594"
-		"max_distance"      "300"
 	}
 	"c10m2_drainage"
 	{
@@ -401,7 +400,6 @@
 		"start_extra_dist"  "399.942505"
 		"end_point"         "-8339.282227 -5592.915039 0.031253"
 		"end_dist"          "322.081451"
-		"max_distance"      "400"
 	}
 	"c10m3_ranchhouse"
 	{
@@ -410,7 +408,6 @@
 		"start_extra_dist"  "327.413300"
 		"end_point"         "-2673.776611 107.736259 316.727081"
 		"end_dist"          "327.768036"
-		"max_distance"      "500"
 	}
 	"c10m4_mainstreet"
 	{
@@ -419,7 +416,7 @@
 		"start_extra_dist"  "307.155029"
 		"end_point"         "1309.379883 -5479.276367 -26.821182"
 		"end_dist"          "324.451355"
-		"horde_limit"       "180"
+		"horde_limit"       "90"
 	}
 	"c10m5_houseboat"
 	{

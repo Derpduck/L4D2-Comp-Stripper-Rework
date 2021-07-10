@@ -12,11 +12,20 @@
 * All Maps
 	* Made the green and blue trash can props unmovable
 	* Fixed a potential issue that could cause static weapon spawns to affect weapon distribution
-	* Increased ammo density for maps with 0 ammo density
+	* Increased ammo density value used for maps with 0 ammo density
+* Dead Center
+	* Map 1
+		* Adjusted LOS blocker under snack machine after elevator
+		* Blocked LOS under baggage cart by the end saferoom
+		* Added an additional dresser for spawns by the end saferoom
+	* Map 2
+		* Blocked LOS under van by the stores
 * Dark Carnival
 	* Map 1
 		* Added a bus and additional tree by the saferoom
 		* Removed the humvee and van by the saferoom
+	* Map 5
+		* Allowed the 3rd weapon in the saferoom to spawn
 * Hard Rain
 	* Maps 2 & 3
 		* Fixed guns in the gas station saferoom falling to the ground
@@ -29,8 +38,17 @@
 	* Map 2
 		* Made the added clipping for the escape vehicle only active after escape sequence is started
 * Blood Harvest
+	* Map 3
+		* Made the top section of the collapsed bridge block LOS
+		* Reworked some clipping to stop infected going out of bounds
 	* Map 4
 		* Changed tank ban range to 39% - 54% (was 43% - 51%)
+* The Last Stand
+	* Map 1
+		* Adjusted added ammo pile after the car shop
+		* Added some failsafes to prevent issues caused by the tank punching the shipping container, causing it to disappear
+* Templates
+	* Added a template for parenting ladders
 
 ***
 
