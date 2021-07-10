@@ -9,6 +9,7 @@
 		3. [Sewer](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/wiki/No-Mercy-3-Sewer)
 		4. [Interior](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/wiki/No-Mercy-4-Hospital)
 		5. [Rooftop](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/wiki/No-Mercy-5-Rooftop)
+	* Death Toll (WIP)
 * All Maps
 	* Made the green and blue trash can props unmovable
 	* Fixed a potential issue that could cause static weapon spawns to affect weapon distribution
@@ -34,6 +35,13 @@
 		* Increased horde spawn rate when tank is pushed to 10 common every 10 seconds (was 10 common ever 20 seconds)
 	* Map 3
 		* Fixed some minor nav flow issues due to the cemetery pathing changes
+* The Passing
+	* Map 1
+		* Solidified props on roof above saferoom
+	* Map 2
+		* Adjusted infected ladder to get to the top floor of the Jones & Sons building exit
+		* Added infected ladder to climb on food cart outside the jazz club
+		* Added infected ladders to climb on AC units outside the jazz club
 * Crash Course
 	* Map 2
 		* Made the added clipping for the escape vehicle only active after escape sequence is started
