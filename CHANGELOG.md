@@ -25,6 +25,8 @@
 	* Map 1
 		* Added a bus and additional tree by the saferoom
 		* Removed the humvee and van by the saferoom
+	* Map 4
+		* The event will now stop once survivors reach the saferoom
 	* Map 5
 		* Allowed the 3rd weapon in the saferoom to spawn
 * Hard Rain
@@ -42,6 +44,7 @@
 		* Adjusted infected ladder to get to the top floor of the Jones & Sons building exit
 		* Added infected ladder to climb on food cart outside the jazz club
 		* Added infected ladders to climb on AC units outside the jazz club
+		* The event will now stop once survivors reach the stairs by the saferoom
 * Crash Course
 	* Map 2
 		* Made the added clipping for the escape vehicle only active after escape sequence is started
@@ -49,6 +52,7 @@
 	* Map 3
 		* Made the top section of the collapsed bridge block LOS
 		* Reworked some clipping to stop infected going out of bounds
+		* The event will now stop once survivors reach the saferoom
 	* Map 4
 		* Changed tank ban range to 39% - 54% (was 43% - 51%)
 * The Last Stand
@@ -57,6 +61,7 @@
 		* Added some failsafes to prevent issues caused by the tank punching the shipping container, causing it to disappear
 * Templates
 	* Added a template for parenting ladders
+	* Updated template for removing TLS entities
 
 ***
 
