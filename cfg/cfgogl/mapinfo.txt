@@ -416,6 +416,8 @@
 		"start_extra_dist"  "307.155029"
 		"end_point"         "1309.379883 -5479.276367 -26.821182"
 		"end_dist"          "324.451355"
+		"tank_ban_flow_min" "68"
+		"tank_ban_flow_max" "75"
 		"horde_limit"       "90"
 	}
 	"c10m5_houseboat"

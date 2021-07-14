@@ -14,7 +14,7 @@
 	* Alternative weapon skins now have a chance of randomly spawning!
 	    * Each supported weapon has a **5%** chance of an alternative skin spawning **1** time in the map
 		* Weapons currently supported:
-		    * Crowbar
+			* Crowbar
 			* Cricket Bat
 			* Magnum
 	* Made the green and blue trash can props unmovable
@@ -32,6 +32,8 @@
 	* Map 1
 		* Added a bus and additional tree by the saferoom
 		* Removed the humvee and van by the saferoom
+	* Map 2
+		* Fixed a potential issue causing the forklift by the ladder choke to not spawn
 	* Map 4
 		* The event will now stop once survivors reach the saferoom
 	* Map 5
@@ -69,6 +71,7 @@
 		* Added some failsafes to prevent issues caused by the tank punching the shipping container, causing it to disappear
 * Templates
 	* Added a template for parenting ladders
+	* Added a template for prop lighting origin fixes
 	* Updated template for removing TLS entities
 
 ***
