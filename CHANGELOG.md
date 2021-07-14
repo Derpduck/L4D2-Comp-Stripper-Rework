@@ -11,9 +11,16 @@
 		5. [Rooftop](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/wiki/No-Mercy-5-Rooftop)
 	* Death Toll (WIP)
 * All Maps
+	* Alternative weapon skins now have a chance of randomly spawning!
+	    * Each supported weapon has a **5%** chance of an alternative skin spawning **1** time in the map
+		* Weapons currently supported:
+		    * Crowbar
+			* Cricket Bat
+			* Magnum
 	* Made the green and blue trash can props unmovable
 	* Fixed a potential issue that could cause static weapon spawns to affect weapon distribution
 	* Increased ammo density value used for maps with 0 ammo density
+	* Updated optional filtering for witch spawns (Zonemod)
 * Dead Center
 	* Map 1
 		* Adjusted LOS blocker under snack machine after elevator
@@ -48,6 +55,7 @@
 * Crash Course
 	* Map 2
 		* Made the added clipping for the escape vehicle only active after escape sequence is started
+		* Blocked LOS under buses in the truck depot
 * Blood Harvest
 	* Map 3
 		* Made the top section of the collapsed bridge block LOS
