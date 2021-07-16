@@ -1,7 +1,7 @@
 # Changelog
 
 # Current Release
-## v13 (WIP)
+## v13 (2021-07-16)
 * Initial Release
 	* No Mercy
 		1. [Apartments](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/wiki/No-Mercy-1-Apartments)
@@ -10,6 +10,11 @@
 		4. [Interior](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/wiki/No-Mercy-4-Hospital)
 		5. [Rooftop](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/wiki/No-Mercy-5-Rooftop)
 	* Death Toll
+		1. [Turnpike](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/wiki/Death-Toll-1-Turnpike)
+		2. [Drains](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/wiki/Death-Toll-2-Drains)
+		3. [Church](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/wiki/Death-Toll-3-Church)
+		4. [Town](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/wiki/Death-Toll-4-Town)
+		5. [Boathouse](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/wiki/Death-Toll-5-Boathouse)
 * All Maps
 	* Alternative weapon skins now have a chance of randomly spawning!
 	    * Each supported weapon has a **5%** chance of an alternative skin spawning **1** time in the map
@@ -28,6 +33,8 @@
 		* Added an additional dresser for spawns by the end saferoom
 	* Map 2
 		* Blocked LOS under van by the stores
+	* Map 3
+		* Removed a script that caused natural hordes to spawn after stopping the event
 * Dark Carnival
 	* Map 1
 		* Added a bus and additional tree by the saferoom
