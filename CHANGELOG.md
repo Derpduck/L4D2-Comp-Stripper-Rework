@@ -9,7 +9,7 @@
 		3. [Sewer](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/wiki/No-Mercy-3-Sewer)
 		4. [Interior](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/wiki/No-Mercy-4-Hospital)
 		5. [Rooftop](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/wiki/No-Mercy-5-Rooftop)
-	* Death Toll (WIP)
+	* Death Toll
 * All Maps
 	* Alternative weapon skins now have a chance of randomly spawning!
 	    * Each supported weapon has a **5%** chance of an alternative skin spawning **1** time in the map
