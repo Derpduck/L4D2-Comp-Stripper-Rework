@@ -334,6 +334,8 @@
 		"tank_ban_flow_max" "70"
 		"tank_ban_flow_min_b" "29"
 		"tank_ban_flow_max_b" "35"
+		"tank_ban_flow_min_c" "0"
+		"tank_ban_flow_max_c" "22"
 	}
 	"c8m4_interior"
 	{
@@ -448,7 +450,6 @@
 		"start_extra_dist"  "333.408081"
 		"end_point"         "7934.695801 6070.557617 48.318222"
 		"end_dist"          "310.929138"
-		"max_distance"      "600"
 	}
 	"c11m3_garage"
 	{

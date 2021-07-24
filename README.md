@@ -52,22 +52,24 @@ This plugin is flawed and does apply changes to both versus rounds. All function
 
 #### Redundant Plugins
 The following plugins should not be loaded when using the rework:
-* **clip_removal** - Redundant, poor functionality, compatibility issues with reworked clips
-* **l4d2_fireworks_noise_block** - Silences firework sounds on the Dark Carnival finale
-* **l4d_no_cans** - Removes gas cans, propane tanks, oxygen tanks and firework crates
-* **nm3_ladder_damage** - Prevents fall damage from hunters and jockeys over 30 HP on No Mercy 3, unintentionally applies across the entire map
+* `clip_removal` - Redundant, poor functionality, compatibility issues with reworked clips
+* `l4d2_fireworks_noise_block` - Silences firework sounds on the Dark Carnival finale
+* `l4d_no_cans` - Removes gas cans, propane tanks, oxygen tanks and firework crates
+* `nm3_ladder_damage` - Prevents fall damage from hunters and jockeys over 30 HP on No Mercy 3, unintentionally applies across the entire map
+* `EntityRemover` - A `confoglcompmod` module that removes entities from maps, completely redundant since Stripper exists
+* `ghost_hurt` - Controls state of trigger_hurt_ghost entities, redundant because we convert all of them to trigger_hurt
 
 The following plugins are not made redundant by the rework, but are not recommended for use with the rework due to design conflicts:
-* **l4d2_saferoom_gun_control** - Legacy ProMod plugin that controls saferoom weapon spawns
-    * **saferoom_gun_control.txt** - Dependent file that defines rules for saferoom weapons
-* **holdout_bonus** - ProMod plugin that awards bonus points for holdout events
-    * **holdoutmapinfo.txt** - Dependent file that defines hooks and values for holdout bonus
+* `l4d2_saferoom_gun_control` - Legacy ProMod plugin that controls saferoom weapon spawns
+    * `saferoom_gun_control.txt` - Dependent file that defines rules for saferoom weapons
+* `holdout_bonus` - ProMod plugin that awards bonus points for holdout events
+    * `holdoutmapinfo.txt` - Dependent file that defines hooks and values for holdout bonus
 
 #### Other Redundant Files
-* **addons/sourcemod/configs/confogl/mapinfo.txt** - This mapinfo file serves no purpose for competitive configs, instead mapinfo should be loaded from the config folder
-* **addons/sourcemod/configs/l4d2lib/mapinfo.txt** - Same as above
-* **addons/sourcemod/configs/confogl/entityremove.txt** - Redundant file that defines list of entities to be removed
-* **addons/sourcemod/configs/holdoutmapinfo.txt** - Redundant version of holdout bonus file, use the file in the config's folder set by `sm_hbonus_configpath`
+* `addons/sourcemod/configs/confogl/mapinfo.txt` - This mapinfo file serves no purpose for competitive configs, instead mapinfo should be loaded from the config folder
+* `addons/sourcemod/configs/l4d2lib/mapinfo.txt` - Same as above
+* `addons/sourcemod/configs/confogl/entityremove.txt` - Redundant file that defines list of entities to be removed by `confoglcompmod` module `EntityRemover`
+* `addons/sourcemod/configs/holdoutmapinfo.txt` - Redundant version of holdout bonus file, use the file in the config's folder set by `sm_hbonus_configpath`
 
 
 ## Documentation
