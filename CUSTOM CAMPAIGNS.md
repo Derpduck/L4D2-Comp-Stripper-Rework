@@ -29,8 +29,8 @@ Some maps hosted on competitive servers are outdated versions of maps.
 
 
 
-
-#Template
+<br><br><br><br>
+# Template
 
 ## [Map Name]
 ### Download Mirrors

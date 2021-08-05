@@ -1,6 +1,36 @@
 # Changelog
 
 # Current Release
+## v14 (WIP)
+* Initial Release
+	* Dead Air (WIP)
+* All Maps
+	* Added static witch spawn cvars and witch flow blocks
+	* Fully removed static upgrade pack spawns
+	* Fixed issue with static ashtray stands being removed
+* Dead Center
+	* Map 3
+		* Fixed event not stopping after pressing the button
+		* Made the office chair used for the one way drop return solid
+* Hard Rain
+	* Map 1
+		* Blocked tank between 0% - 20% (no change for Zonemod)
+* Crash Course
+	* Map 1
+		* Removed 2 additional cars by the saferoom
+	* Map 2
+		* Solidified police barricade by the crashed bus
+		* Adjusted placement of an unhittable car by warehouse
+* Death Toll
+	* Map 4
+		* Removed trash can in the middle of the street before the florist
+* Detour Ahead
+	* Map 4
+		* Fixed event not stopping when the train reaches the end of the bridge
+
+***
+
+# Past Releases
 ## v13 (2021-07-16)
 * Initial Release
 	* No Mercy
@@ -81,9 +111,6 @@
 	* Added a template for prop lighting origin fixes
 	* Updated template for removing TLS entities
 
-***
-
-# Past Releases
 ## v12 (2021-06-24)
 * Swamp Fever
 	* Map 1
