@@ -388,7 +388,7 @@
 		"max_distance"      "800"
 		"ItemLimits"
 		{
-			"pain_pills"    "2"
+			"pain_pills"    "0"
 		}
 	}
 	"c10m1_caves"
@@ -594,7 +594,7 @@
 		"tank_ban_flow_max" "30"
 		"ItemLimits"
 		{
-			"pain_pills"    "2"
+			"pain_pills"    "0"
 		}
 	}
 	"c5m1_darkwaterfront"

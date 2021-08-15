@@ -2,6 +2,10 @@
 
 # Current Release
 ## v14 (WIP)
+* Map Transitions
+	* Created a plugin to define custom map transitions, see: https://github.com/SirPlease/L4D2-Competitive-Rework/pull/346
+	* Removed `TheCrashStand.vpk` - Delete this file from your server/config and use the plugin
+	* Removed `thesaccing_v2.vpk` - Delete this file from your server/config and use the plugin
 * Initial Release
 	* Dead Air (WIP)
 * All Maps
@@ -15,15 +19,31 @@
 * Hard Rain
 	* Map 1
 		* Blocked tank between 0% - 20% (no change for Zonemod)
+* The Passing
+	* Map 3
+		* Fixed issues with finale pills not spawning
+		* Removed now redundant changes to fix items not spawning
+* The Sacrifice
+	* Map 3
+		* Fixed issues with finale pills not spawning
+* No Mercy
+	* Map 3
+		* Added an additional tank ban range between **0%** - **22%**
 * Crash Course
 	* Map 1
 		* Removed 2 additional cars by the saferoom
 	* Map 2
 		* Solidified police barricade by the crashed bus
 		* Adjusted placement of an unhittable car by warehouse
+		* Fixed issues with finale pills not spawning
 * Death Toll
 	* Map 4
 		* Removed trash can in the middle of the street before the florist
+	* Map 5
+		* Fixed issues with finale pills not spawning
+* The Last Stand
+	* Map 2
+		* Fixed issues with finale pills not spawning
 * Detour Ahead
 	* Map 4
 		* Fixed event not stopping when the train reaches the end of the bridge
