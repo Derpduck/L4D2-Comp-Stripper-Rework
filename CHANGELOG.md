@@ -1,13 +1,18 @@
 # Changelog
 
 # Current Release
-## v14 (WIP)
+## v14 (2021-08-15)
 * Map Transitions
 	* Created a plugin to define custom map transitions, see: https://github.com/SirPlease/L4D2-Competitive-Rework/pull/346
 	* Removed `TheCrashStand.vpk` - Delete this file from your server/config and use the plugin
 	* Removed `thesaccing_v2.vpk` - Delete this file from your server/config and use the plugin
 * Initial Release
-	* Dead Air (WIP)
+	* Dead Air
+		1. [Greenhouse](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/wiki/Dead-Air-1-Greenhouse)
+		2. [Crane](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/wiki/Dead-Air-2-Crane)
+		3. [Construction Site](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/wiki/Dead-Air-3-Construction-Site)
+		4. [Terminal](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/wiki/Dead-Air-4-Terminal)
+		5. [Runway](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/wiki/Dead-Air-5-Runway)
 * All Maps
 	* Added static witch spawn cvars and witch flow blocks
 	* Fully removed static upgrade pack spawns
