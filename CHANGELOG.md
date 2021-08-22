@@ -1,6 +1,61 @@
 # Changelog
 
 # Current Release
+## v15 (WIP)
+* Dead Center
+	* Map 1
+		* Added drinks machines behind the check-in desk by the end saferoom
+		* Adjusted clipping on top of photocopier in saferoom to allow standing on it while still preventing getting stuck
+	* Map 2
+		* Adjusted added bus after the event
+		* Adjusted LOS blockers for props after the event
+		* Removed unnecessary added CS weapon replacements in the gun store
+		* Reduced the intensity of the event slightly
+		* Adjusted clipping on top of photocopier in saferoom to allow standing on it while still preventing getting stuck
+		* Prevented a stuck spot on top of photocopier in the Save 4 Less store
+		* Removed an angled clip on the tent near the start of the map that could block hittables
+	* Map 3
+		* Added an ammo pile before the button at the end of the event
+		* Reworked some props blocking the route to the end saferoom, replaced Jimmy Gibbs banner with fences
+		* Re-organized internal ordering of map changes (no change)
+* Dark Carnival
+	* Map 2
+		* Adjusted color of sign on game hut by the peanut gallery
+	* Map 3
+		* Fixed only the regular uzi spawning at the tunnel of love exit
+* Swamp Fever
+	* Map 1
+		* Prevented getting stuck on top of the photocopier in the store by the event
+		* Prevented a stuck spot on the radiator in the store by the event
+* Hard Rain
+	* Maps 1, 4 & 5
+		* Replaced and improved Valve's commentary blockers on trees and shrubs
+		* Added an ammo pile on porch by the raised up house at the end of the street (maps 1 & 4 only)
+		* Replaced some angled clips around the burger tank that could block hittables (maps 1 & 5 only)
+* The Parish
+	* Map 1
+		* Added infected ladders to climb over the wall at the restaurant exit
+	* Map 2
+		* Added an ammo pile inside the CEDA trailer
+	* Map 3
+		* Adjusted clip on the fence by the saferoom
+		* Added a hittable car behind the fence outside the saferoom
+	* Map 4
+		* Solidified some non-solid window props on various roofs
+		* Blocked stuck spots on out of bounds roofs by the final street
+* No Mercy
+	* Map 3
+		* Prevented a stuck spot on a desk in the warehouse offices
+* Dead Air
+	* Map 3
+		* Fixed an incorrectly placed LOS blocker on a pickup truck
+		* Optimized fix for props being invisible on low settings
+	* Map 4
+		* Adjusted max horde that can spawn during the metal detector event
+
+***
+
+# Past Releases
 ## v14 (2021-08-15)
 * Map Transitions
 	* Created a plugin to define custom map transitions, see: https://github.com/SirPlease/L4D2-Competitive-Rework/pull/346
@@ -53,9 +108,6 @@
 	* Map 4
 		* Fixed event not stopping when the train reaches the end of the bridge
 
-***
-
-# Past Releases
 ## v13 (2021-07-16)
 * Initial Release
 	* No Mercy

@@ -1,7 +1,5 @@
 Msg("Initiating DTA Finale Rework Tank Helper\n");
 
-// Credit: ProMod
-
 // Used to fix Detour Ahead's Gauntlet Finale.
 // Refer to the corresponding stripper file.
 
