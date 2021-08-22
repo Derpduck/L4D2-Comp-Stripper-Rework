@@ -21,6 +21,7 @@
 * Dark Carnival
 	* Map 2
 		* Adjusted color of sign on game hut by the peanut gallery
+		* Added an infected ladder to climb up the platform at the top of the slide
 	* Map 3
 		* Fixed only the regular uzi spawning at the tunnel of love exit
 * Swamp Fever
