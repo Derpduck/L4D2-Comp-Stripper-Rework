@@ -62,6 +62,9 @@
 		* Optimized fix for props being invisible on low settings
 	* Map 4
 		* Removed metal detector event
+* Blood Harvest
+	* Map 4
+		* Replaced car transporter on the bridge with a train car
 
 ***
 
