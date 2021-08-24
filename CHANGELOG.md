@@ -33,6 +33,8 @@
 		* Replaced and improved Valve's commentary blockers on trees and shrubs
 		* Added an ammo pile on porch by the raised up house at the end of the street (maps 1 & 4 only)
 		* Replaced some angled clips around the burger tank that could block hittables (maps 1 & 5 only)
+	* Maps 2 & 3
+		* Added an infected ladder to climb up at the ramp drop
 * The Parish
 	* Map 1
 		* Added infected ladders to climb over the wall at the restaurant exit
@@ -47,12 +49,19 @@
 * No Mercy
 	* Map 3
 		* Prevented a stuck spot on a desk in the warehouse offices
+	* Map 4
+		* Removed added ladder in the lobby for now as it does not spawn for both teams due to a bug
+		* Removed added ladder on the scaffolding after the elevator for now as it does not spawn for both teams due to a bug
+		* Added an ammo pile after the elevator
+* Death Toll
+	* Map 1
+		* Removed added ladder to get on cliff for now as it does not spawn for both teams due to a bug
 * Dead Air
 	* Map 3
 		* Fixed an incorrectly placed LOS blocker on a pickup truck
 		* Optimized fix for props being invisible on low settings
 	* Map 4
-		* Adjusted max horde that can spawn during the metal detector event
+		* Removed metal detector event
 
 ***
 
