@@ -6,8 +6,8 @@ DirectorOptions <-
 	ProhibitBosses = true
 
 	PreferredMobDirection = SPAWN_BEHIND_SURVIVORS
-	MobSpawnMinTime = 4
-	MobSpawnMaxTime = 5
+	MobSpawnMinTime = 3
+	MobSpawnMaxTime = 4
 	MobMaxPending = 10
 	MobMinSize = 10
 	MobMaxSize = 20

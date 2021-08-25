@@ -1,7 +1,7 @@
 # Changelog
 
 # Current Release
-## v15 (WIP)
+## v15 (2021-08-25)
 * Dead Center
 	* Map 1
 		* Added drinks machines behind the check-in desk by the end saferoom
@@ -10,7 +10,7 @@
 		* Adjusted added bus after the event
 		* Adjusted LOS blockers for props after the event
 		* Removed unnecessary added CS weapon replacements in the gun store
-		* Reduced the intensity of the event slightly
+		* Reduced the intensity of the event horde slightly
 		* Adjusted clipping on top of photocopier in saferoom to allow standing on it while still preventing getting stuck
 		* Prevented a stuck spot on top of photocopier in the Save 4 Less store
 		* Removed an angled clip on the tent near the start of the map that could block hittables
