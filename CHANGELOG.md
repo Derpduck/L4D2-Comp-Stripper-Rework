@@ -1,6 +1,39 @@
 # Changelog
 
 # Current Release
+## v16 (WIP)
+* Initial Release
+	* Cold Stream
+		1. [Alpine Creek](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/wiki/Cold-Stream-1-Alpine-Creek)
+		2. [South Pine Bridge](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/wiki/Cold-Stream-2-South-Pine-Bridge)
+		3. [Memorial Bridge](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/wiki/Cold-Stream-3-Memorial-Bridge)
+		4. [Cut Throat Creek](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/wiki/Cold-Stream-4-Cut-Throat-Creek)
+* All Maps
+	* Updated mapinfo.txt to use new syntax (https://github.com/SirPlease/L4D2-Competitive-Rework/pull/354)
+	* Updated global witch filter rules
+* Dark Carnival
+	* Map 3
+		* Removed railings and plant pots from the saferoom
+		* Adjusted bins by the saferoom
+* The Passing
+	* Map 3
+		* Solidified awning on the store
+* The Sacrifice
+	* All Maps
+		* Added missing glass to vehicles
+	* Map 1
+		* Added an infected ladder to climb on slanted roof by the burning barricade
+		* Adjusted clipping on cooling tank in saferoom
+		* Blocked being able to stand in a tree by the train car
+	* Map 2
+		* Added an infected ladder to climb on top of the grounded boat in the open water area
+		* Added infected ladders to climb up from inside the barge
+	* Map 3
+		* Solidified awning on the store
+
+***
+
+# Past Releases
 ## v15 (2021-08-25)
 * Dead Center
 	* Map 1
@@ -66,9 +99,6 @@
 	* Map 4
 		* Replaced car transporter on the bridge with a train car
 
-***
-
-# Past Releases
 ## v14 (2021-08-15)
 * Map Transitions
 	* Created a plugin to define custom map transitions, see: https://github.com/SirPlease/L4D2-Competitive-Rework/pull/346

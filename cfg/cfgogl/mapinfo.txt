@@ -720,6 +720,7 @@
 		"start_extra_dist"	"604.901245"
 		"end_point"			"470.932892 8823.397461 -368.968750"
 		"end_dist"			"324.996063"
+		"horde_limit"		"120"
 		"tank_ban_flow"
 		{
 			"1"
