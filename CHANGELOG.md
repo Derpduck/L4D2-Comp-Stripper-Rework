@@ -11,10 +11,17 @@
 * All Maps
 	* Updated mapinfo.txt to use new syntax (https://github.com/SirPlease/L4D2-Competitive-Rework/pull/354)
 	* Updated global witch filter rules
+	* Renamed some entities (no change)
 * Dark Carnival
+	* Map 2
+		* Removed added tent in kiddyland
+		* Removed some angled clips that could block hittables
 	* Map 3
 		* Removed railings and plant pots from the saferoom
 		* Adjusted bins by the saferoom
+* Swamp Fever
+	* Map 2
+		* Fixed issue with parachutist spawn (confogl conflict)
 * The Passing
 	* Map 3
 		* Solidified awning on the store
