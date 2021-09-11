@@ -8,6 +8,7 @@
 		2. [South Pine Bridge](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/wiki/Cold-Stream-2-South-Pine-Bridge)
 		3. [Memorial Bridge](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/wiki/Cold-Stream-3-Memorial-Bridge)
 		4. [Cut Throat Creek](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/wiki/Cold-Stream-4-Cut-Throat-Creek)
+> **Developer Note:** No major changes, mostly just small fixes. The finale is now functional again.
 * All Maps
 	* Updated mapinfo.txt to use new syntax (https://github.com/SirPlease/L4D2-Competitive-Rework/pull/354)
 	* Updated global witch filter rules
@@ -37,6 +38,18 @@
 		* Added infected ladders to climb up from inside the barge
 	* Map 3
 		* Solidified awning on the store
+* Death Toll
+	* Map 4
+		* Blocked LOS under all vehicles around the church
+		* Blocked LOS under the news van by the event
+		* Prevented a stuck spot behind hedge by the yellow house near the church
+* Dead Air
+	* Map 3
+		* Fixed an issue with a prop rendering incorrectly in the power station area
+* Blood Harvest
+	* Map 4
+		* Fixed nav / pathing issues in the warehouse from the reworked route (https://github.com/SirPlease/L4D2-Competitive-Rework/issues/371)
+		* Made other minor adjustments and fixes to the reworked warehouse route
 
 ***
 
