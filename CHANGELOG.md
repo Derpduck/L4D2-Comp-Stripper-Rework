@@ -1,7 +1,7 @@
 # Changelog
 
 # Current Release
-## v16 (WIP)
+## v16 (2021-09-11)
 * Initial Release
 	* Cold Stream
 		1. [Alpine Creek](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/wiki/Cold-Stream-1-Alpine-Creek)
