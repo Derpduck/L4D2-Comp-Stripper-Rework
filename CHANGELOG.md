@@ -2,6 +2,54 @@
 
 # Current Release
 ## v17 (WIP)
+* All Maps
+	* Made forklifts unbreakable
+* Dead Center
+	* Map 1
+		* Solidified railings in the elevator, allowing survivors to stand on them
+		* Removed spit block in the elevator
+		* Improved glowing on the elevator event button when in range to press it
+	* Map 3
+		* Adjusted placement of ammo pile on the first floor
+	* Map 4
+		* Added railings in the elevator, allowing survivors to stand on them
+		* Removed spit block in the elevator
+* Swamp Fever
+	* Map 1
+		* Added a hittable log in the area on the left after the ferry
+* Hard Rain
+	* Maps 1 & 4
+		* Blocked LOS under the fence by the ladder before the playground
+		* Moved one of the washer boxes by the sugarmill saferoom to the corner of the house
+	* Maps 2 & 3
+		* Added an ammo pile in the trailer at the start of the mill
+		* Added an ammo pile in the locker room
+		* Added clipping to the door on the small shack by the ramp
+		* Added railings in the elevator, allowing survivors to stand on them (spit block remains in place)
+* The Parish
+	* Map 2
+		* Reworked the route blocking and props in the park - the left and right paths are now open again
+		* Removed a pill spawn by the humvee
+		* Blocked survivors from jumping on the walls before the park entrance
+		* Added an infected ladder to climb onto the hedge-covered platform on the left
+		* Added an infected ladder to climb over the wall behind the stairs on the right side of the park entrance
+		* Added an infected ladder to climb onto the hedges on the right of the park near the start
+	* Map 3
+		* Added a pipe to stand on at the ladder in the sewer
+* The Passing
+	* Map 2
+		* Prevented players from being able to block the gates in the sewer from opening
+* Dead Air
+	* Map 4
+		* Reduced map distance to 500
+* Blood Harvest
+	* Map 3
+		* Solidified a non-solid tree by the bridge
+* Cold Stream
+	* Map 2
+		* Fixed a typo that was preventing a minor change to the event from working
+* Templates
+	* Removed "Saferoom Items" section, use "Pill / Item / Weapon Spawns"  
 
 ***
 
