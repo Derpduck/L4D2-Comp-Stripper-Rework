@@ -1,6 +1,11 @@
 # Changelog
 
 # Current Release
+## v17 (WIP)
+
+***
+
+# Past Releases
 ## v16 (2021-09-11)
 * Initial Release
 	* Cold Stream
@@ -51,9 +56,6 @@
 		* Fixed nav / pathing issues in the warehouse from the reworked route (https://github.com/SirPlease/L4D2-Competitive-Rework/issues/371)
 		* Made other minor adjustments and fixes to the reworked warehouse route
 
-***
-
-# Past Releases
 ## v15 (2021-08-25)
 * Dead Center
 	* Map 1

@@ -593,6 +593,7 @@
 		"start_extra_dist"	"206.287918"
 		"end_point"			"3276.041992 4504.324707 181.974670"
 		"end_dist"			"343.399078"
+		"max_distance"		"500"
 		"tank_ban_flow"
 		{
 			"1"

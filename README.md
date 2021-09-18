@@ -8,16 +8,17 @@
 #### [Releases](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/releases) - Stable releases, use these for your config / server
 #### [Patch Notes](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/blob/master/CHANGELOG.md) - Patch notes for each release version
 #### [Projects](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/projects) - See what's being worked on
-#### [Issues](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/issues) - Bug reports, feature requests & suggestions
+#### [Issues](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/issues) - Bug reports & feature requests
 #### [Discussions](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/discussions) - General community discussion and feedback outside the scope of issues
 #### [Templates](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/tree/master/_Templates)
 
 ## About The Project
-This project aims to rework the Stripper:Source map changes for competitive L4D2, ensuring full compatibility with the map changes added to the game by the Last Stand update and improving balance in the current competitive configs.
-
-The goal is to rework or rebalance all maps, re-implement improved versions of historical changes, unify map modifications across servers and configs, and provide a basic template that already includes all necessary fixes and improvements, which can easily be added to or modified by any server owners and config developers.
-
-Some maps have significant changes to address balance issues observed in the competitive community, however it should be easy to locate these and exclude them for a more vanilla experience if desired.
+This project aims to rework the Stripper:Source map changes for competitive L4D2 and ensure the following:
+* Full compatibility with changes made by community updates
+* Improved balance
+* Improved quality of changes
+* Fixing long-standing issues
+* Providing a template for configs to use / modify
 
 While many of the changes are similar to previous Stripper:Source modifications found in competitive configs, since they are designed to address the same issues and meet the expectations of the competitive community, everything is re-made from the ground up to ensure the best possible implementation of these changes.
 
@@ -26,7 +27,7 @@ While many of the changes are similar to previous Stripper:Source modifications 
 
 ### [Installation Instructions](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/wiki/Server-Installation-Guide)
 
-Any server owner or config developer can freely use this as a base for their own Stripper modifications if _**credit is given**_ to this repository.
+Any server owner or config developer can freely use this as a base for their own Stripper modifications, however credit to this repository is appreciated.
 
 All changes are tested and implemented with the latest version of Stripper:Source only.
 * **Version:** 1.2.2 (hg82) `(updated 2011-04-15)`
@@ -38,10 +39,8 @@ All changes are tested and implemented with the latest version of Stripper:Sourc
 ## Compatibility
 The Stripper Rework is designed for full compatibility with the Last Stand map changes, as a result there is no need to modifiy `mapspawn.nut` or related files. The removal of any entities added through this method will be handled by Stripper:Source.
 
-Servers should ensure the following scripts are **NOT** located / modified in `left4dead2/scripts/vscripts` or `update/scripts/vscripts`:
-* **mapspawn.nut**
-* **anv_mapfixes.nut**
-* **anv_versus.nut**
+Servers should ensure that the scripts in the link below are **NOT** located / modified in `left4dead2/scripts/vscripts` or `update/scripts/vscripts`:
+**[L4D2-Community-Update/scripts/vscripts](https://github.com/Tsuey/L4D2-Community-Update/tree/master/scripts/vscripts)**
 
 If these scripts are present they will overwrite the default changes from the Last Stand update, the same applies if modified versions of these scripts are present.
 If you wish to load your own version of these scripts see instructions **[here](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework#official-map-updates)**.
@@ -51,7 +50,7 @@ In order to ensure full compatibility with the changes provided by this rework, 
 This plugin is flawed and does apply changes to both versus rounds. All functionality of this plugin can also be achieved with Stripper, making it entirely redundant.
 
 #### Redundant Plugins
-The following plugins should not be loaded when using the rework:
+The following plugins should not be loaded when using the rework or no longer serve a purpose as their function is achieved through Stripper:Source:
 * `clip_removal` - Redundant, poor functionality, compatibility issues with reworked clips
 * `l4d2_fireworks_noise_block` - Silences firework sounds on the Dark Carnival finale
 * `l4d_no_cans` - Removes gas cans, propane tanks, oxygen tanks and firework crates
