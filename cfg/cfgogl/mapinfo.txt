@@ -1296,7 +1296,6 @@
 		"start_extra_dist"	"357.132141"
 		"end_point"			"2948.021729 7602.731445 -604.782043"
 		"end_dist"			"142.267410"
-		"max_distance"		"400"
 	}
 	"l4d_dbd2dc_the_mall"
 	{

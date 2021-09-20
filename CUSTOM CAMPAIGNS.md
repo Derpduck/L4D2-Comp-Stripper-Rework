@@ -29,6 +29,25 @@ All download mirrors provided will for the supported version of the maps.
 * None
 
 
+## Dead Before Dawn DC
+### Download Mirrors
+* **Steam Workshop:** [Collection](https://steamcommunity.com/workshop/filedetails/?id=121786282) / [Part 1](https://steamcommunity.com/sharedfiles/filedetails/?id=123678867) / [Part 2](https://steamcommunity.com/sharedfiles/filedetails/?id=123685403) / [Part 3](https://steamcommunity.com/sharedfiles/filedetails/?id=123737442) / [Part 4](https://steamcommunity.com/sharedfiles/filedetails/?id=123744116) / [Part 5](https://steamcommunity.com/sharedfiles/filedetails/?id=123746596) / [Music Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=123755624)
+* **GameMaps:** https://www.gamemaps.com/details/2268
+* **SirPlease:** http://sirpleaseny.site.nfoservers.com/map/DeadBeforeDawnDC.zip
+* **CEDAPUG:** https://cedapug.com/maps/deadbeforedawn2_dc.zip
+### Supported Version
+* **Version:** 7
+* **Released:** 2013-03-13 (latest)
+### Maps
+1. l4d_dbd2dc_anna_is_gone
+2. l4d_dbd2dc_the_mall
+3. l4d_dbd2dc_clean_up
+4. l4d_dbd2dc_undead_center
+5. l4d_dbd2dc_new_dawn
+### Notes
+* Steam Workshop collection is currently unavailable, use the individual part links or another mirror
+
+
 ## The Dark Parish (WIP)
 ### Download Mirrors
 * **Steam Workshop:** No Mirror
