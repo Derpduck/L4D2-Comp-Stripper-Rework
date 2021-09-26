@@ -17,8 +17,8 @@ All download mirrors provided will for the supported version of the maps.
 * **SirPlease:** http://sirpleaseny.site.nfoservers.com/map/DetourAhead.zip
 * **CEDAPUG:** https://cedapug.com/maps/detourahead.zip
 ### Supported Version
-* **Version:** 8
-* **Released:** 2013-01-18 (latest)
+* **Version:** 8 (latest)
+* **Released:** 2013-01-18
 ### Maps
 1. cdta_01detour
 2. cdta_02road
@@ -36,8 +36,8 @@ All download mirrors provided will for the supported version of the maps.
 * **SirPlease:** http://sirpleaseny.site.nfoservers.com/map/DeadBeforeDawnDC.zip
 * **CEDAPUG:** https://cedapug.com/maps/deadbeforedawn2_dc.zip
 ### Supported Version
-* **Version:** 7
-* **Released:** 2013-03-13 (latest)
+* **Version:** 7 (latest)
+* **Released:** 2013-03-13
 ### Maps
 1. l4d_dbd2dc_anna_is_gone
 2. l4d_dbd2dc_the_mall
@@ -55,8 +55,8 @@ All download mirrors provided will for the supported version of the maps.
 * **SirPlease:** No Mirror
 * **CEDAPUG:** https://cedapug.com/maps/thedarkparish_av3.zip
 ### Supported Version
-* **Version:** av3 / v2.2 Beta
-* **Released:** 2012-01-18 (latest)
+* **Version:** av3 / v2.2 Beta (latest official)
+* **Released:** 2012-01-18
 ### Maps
 1. c5m1_darkwaterfront
 2. c5m2_darkpark
@@ -65,7 +65,7 @@ All download mirrors provided will for the supported version of the maps.
 5. c5m5_darkbridge
 ### Notes
 * Addon version is incorrectly labelled as av2 when viewed in the addons menu
-* Workshop versions of this map are not uploaded by the original author and may be modified / not compatible with the official version
+* Steam workshop versions of this map are not uploaded by the original author and may be modified / not compatible with the official version
 
 
 

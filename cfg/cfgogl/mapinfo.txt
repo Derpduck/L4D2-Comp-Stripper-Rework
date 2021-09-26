@@ -1314,7 +1314,6 @@
 		"start_extra_dist"	"188.167191"
 		"end_point"			"-7367.650391 8434.535156 -671.968750"
 		"end_dist"			"365.062012"
-		"max_distance"		"700"
 	}
 	"l4d_dbd2dc_new_dawn"
 	{
@@ -1323,7 +1322,6 @@
 		"start_extra_dist"	"306.183685"
 		"end_point"			"-463.786469 876.165771 -243.441345"
 		"end_dist"			"1558.433960"
-		"max_distance"		"800"
 		"tank_ban_flow"
 		{
 			"1"

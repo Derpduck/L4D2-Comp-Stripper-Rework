@@ -2,8 +2,20 @@
 
 # Current Release
 ## v17 (WIP)
+* Initial Release
+	* Dead Before Dawn DC
+	> Thanks to **Caution** for suggestions and providing info on issues
+		1. [1]()
+		2. [2]()
+		3. [3]()
+		4. [4]()
+		5. [5]()
+	> **Developer Note:** In addition to the changes noted above, players may notice some changes from ProMod have been removed or changed, as some of these changes created more issues than they fixed. Major changes are noted below:
+	* Map 1
+		* The event now uses its original gauntlet event settings, instead of calling constant panic events.
+		* Infected can now access more of the cliffs on the right side path for spawns, the rocks blocking these for survivors have been removed.
 * All Maps
-	* Made forklifts unbreakable
+	* Made a physics prop couch unmovable instead of non-solid
 * Dead Center
 	* Map 1
 		* Solidified railings in the elevator, allowing survivors to stand on them
@@ -21,6 +33,7 @@
 	* Maps 1 & 4
 		* Blocked LOS under the fence by the ladder before the playground
 		* Moved one of the washer boxes by the sugarmill saferoom to the corner of the house
+		* Allowed the gun in the treehouse to spawn
 	* Maps 2 & 3
 		* Added an ammo pile in the trailer at the start of the mill
 		* Added an ammo pile in the locker room
@@ -42,6 +55,7 @@
 * Dead Air
 	* Map 4
 		* Reduced map distance to 500
+		* Removed tank ban range
 * Blood Harvest
 	* Map 3
 		* Solidified a non-solid tree by the bridge
