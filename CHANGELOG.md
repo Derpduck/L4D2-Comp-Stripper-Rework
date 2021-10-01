@@ -4,18 +4,20 @@
 ## v17 (WIP)
 * Initial Release
 	* Dead Before Dawn DC
-	> Thanks to **Caution** for suggestions and providing info on issues
+	> Thanks to **Caution** for suggestions and providing useful info on issues
 		1. [1]()
 		2. [2]()
 		3. [3]()
 		4. [4]()
 		5. [5]()
-	> **Developer Note:** In addition to the changes noted above, players may notice some changes from ProMod have been removed or changed, as some of these changes created more issues than they fixed. Major changes are noted below:
+	> **Developer Note:** In addition to the changes noted above, some major changes from ProMod have been fixed or removed, as some of these changes created more issues than they fixed. Major changes are noted below:
 	* Map 1
 		* The event now uses its original gauntlet event settings, instead of calling constant panic events.
 		* Infected can now access more of the cliffs on the right side path for spawns, the rocks blocking these for survivors have been removed.
 * All Maps
 	* Made a physics prop couch unmovable instead of non-solid
+	* Removed forklifts starting already broken
+		* Updated l4d2_hittable_control plugin to control breaking of forklifts instead
 * Dead Center
 	* Map 1
 		* Solidified railings in the elevator, allowing survivors to stand on them
@@ -28,7 +30,7 @@
 		* Removed spit block in the elevator
 * Swamp Fever
 	* Map 1
-		* Added a hittable log in the area on the left after the ferry
+		* Added a hittable car in the area on the left after the ferry
 * Hard Rain
 	* Maps 1 & 4
 		* Blocked LOS under the fence by the ladder before the playground
@@ -41,7 +43,8 @@
 		* Added railings in the elevator, allowing survivors to stand on them (spit block remains in place)
 * The Parish
 	* Map 2
-		* Reworked the route blocking and props in the park - the left and right paths are now open again
+		* Reworked the route blocking and props in the park
+			* The left and right paths are now open again
 		* Removed a pill spawn by the humvee
 		* Blocked survivors from jumping on the walls before the park entrance
 		* Added an infected ladder to climb onto the hedge-covered platform on the left
@@ -52,6 +55,9 @@
 * The Passing
 	* Map 2
 		* Prevented players from being able to block the gates in the sewer from opening
+* Death Toll
+	* Map 4
+		* Replaced the cement truck by the offices with an ambulance
 * Dead Air
 	* Map 4
 		* Reduced map distance to 500
