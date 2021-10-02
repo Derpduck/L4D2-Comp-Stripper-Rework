@@ -55,6 +55,9 @@
 * The Passing
 	* Map 2
 		* Prevented players from being able to block the gates in the sewer from opening
+* The Sacrifice
+	* Map 1
+		* Fixed players getting stuck when opening the 2nd train car door when it is opened automatically
 * Death Toll
 	* Map 4
 		* Replaced the cement truck by the offices with an ambulance
