@@ -10,24 +10,42 @@
 		3. [3]()
 		4. [4]()
 		5. [5]()
-	> **Developer Note:** In addition to the changes noted above, some major changes from ProMod have been fixed or removed, as some of these changes created more issues than they fixed. Major changes are noted below:
+	* Summary of major changes:
+	* All Maps
+		* Removed most voice lines and annoying sounds
+		* Optimized maps and reduced entity count, potentially reducing crashes
+		* Removed "scripted" commons that would spawn well beyond the common limit
+		* Removed random events that were different between teams
+		* Improved pill, ammo and weapon spawns
+		* Fixed many exploits and bugs
+		* Fixed non-solid props that couldn't be spawned behind or infected could attack through
+		* Added a few quality of life infected ladders
+		* Fixed some god spots common couldn't path to
 	* Map 1
-		* The event now uses its original gauntlet event settings, instead of calling constant panic events.
-		* Infected can now access more of the cliffs on the right side path for spawns, the rocks blocking these for survivors have been removed.
+		* An issue with the event has been fixed, so it can now use its original gauntlet event settings, instead of calling constant panic events
+		* Infected can now access more of the cliffs on the right side path for spawns, the rocks blocking these areas for survivors have been removed
+		* Removed the deadly helicopter blade
+	* Map 2
+		* The event now starts sooner, as survivors no longer have to wait for the voice line to finish
+		* Fixed god spots around the event
+	* Map 3
+		* Changed the way both events spawn horde, they now behave like a gauntlet event instead of using "scripted" common spawns that would easily exceed the common limit
+			* This will result in differences with difficulty and spawn directon
+		* Players will move 40% faster when being forced to crouch through the vent chokepoint
 * All Maps
 	* Made a physics prop couch unmovable instead of non-solid
-	* Removed forklifts starting already broken
+	* Removed forklifts starting in their already broken state
 		* Updated l4d2_hittable_control plugin to control breaking of forklifts instead
 * Dead Center
 	* Map 1
 		* Solidified railings in the elevator, allowing survivors to stand on them
-		* Removed spit block in the elevator
+			* Removed spit block in the elevator
 		* Improved glowing on the elevator event button when in range to press it
 	* Map 3
 		* Adjusted placement of ammo pile on the first floor
 	* Map 4
 		* Added railings in the elevator, allowing survivors to stand on them
-		* Removed spit block in the elevator
+			* Removed spit block in the elevator
 * Swamp Fever
 	* Map 1
 		* Added a hittable car in the area on the left after the ferry
@@ -57,7 +75,7 @@
 		* Prevented players from being able to block the gates in the sewer from opening
 * The Sacrifice
 	* Map 1
-		* Fixed players getting stuck when opening the 2nd train car door when it is opened automatically
+		* Fixed players getting stuck if they are opening the 2nd train car door when it is opened automatically
 * Death Toll
 	* Map 4
 		* Replaced the cement truck by the offices with an ambulance
