@@ -5,6 +5,7 @@
 * Initial Release
 	* Dead Before Dawn DC
 	> Thanks to **Caution** for suggestions and providing useful info on issues
+	> **Server Owners:** Ensure vscripts folder is up-to-date
 		1. [1]()
 		2. [2]()
 		3. [3]()
@@ -12,26 +13,32 @@
 		5. [5]()
 	* Summary of major changes:
 	* All Maps
-		* Removed most voice lines and annoying sounds
-		* Optimized maps and reduced entity count, potentially reducing crashes
-		* Removed "scripted" commons that would spawn well beyond the common limit
+		* Removed most voice lines and scripted sounds
+		* Entity optimization, potentially improving stability and reducing crashes
+		* Removed "scripted" commons that would spawn at certain points, which would exceed the common limit
 		* Removed random events that were different between teams
 		* Improved pill, ammo and weapon spawns
 		* Fixed many exploits and bugs
 		* Fixed non-solid props that couldn't be spawned behind or infected could attack through
-		* Added a few quality of life infected ladders
-		* Fixed some god spots common couldn't path to
+		* Fixed many spots common couldn't path to
 	* Map 1
-		* An issue with the event has been fixed, so it can now use its original gauntlet event settings, instead of calling constant panic events
+		* Fixed an issue with the event not ending, so it now use its original gauntlet event settings, instead of ProMod's band-aid fix
 		* Infected can now access more of the cliffs on the right side path for spawns, the rocks blocking these areas for survivors have been removed
 		* Removed the deadly helicopter blade
 	* Map 2
 		* The event now starts sooner, as survivors no longer have to wait for the voice line to finish
-		* Fixed god spots around the event
 	* Map 3
-		* Changed the way both events spawn horde, they now behave like a gauntlet event instead of using "scripted" common spawns that would easily exceed the common limit
-			* This will result in differences with difficulty and spawn directon
+		* Changed the way both events spawn horde, they now function like a gauntlet event instead of using "scripted" common spawns that would easily exceed the common limit
+			* This will result in the events behaving slightly differently, but they will now be closer to normal events
 		* Players will move 40% faster when being forced to crouch through the vent chokepoint
+		* Adjusted spit block area, it now only covers the section where players are forced to crouch through the vent
+			* Added visual indication of where the spit block area starts and ends
+		* Removed the sequence to break out of the saferoom
+	* Map 4
+		* Removed the event to blow up the wall in Kiddyland
+		* Players will move 40% faster when being forced to crouch through the vent chokepoint
+		* Fixed the spit block area extending outside of the vents
+			* Added visual indication of where the spit block area starts and ends
 * All Maps
 	* Made a physics prop couch unmovable instead of non-solid
 	* Removed forklifts starting in their already broken state
@@ -91,6 +98,7 @@
 		* Fixed a typo that was preventing a minor change to the event from working
 * Templates
 	* Removed "Saferoom Items" section, use "Pill / Item / Weapon Spawns"  
+	* Updated func_nav_blocker to use script_nav_blocker
 
 ***
 

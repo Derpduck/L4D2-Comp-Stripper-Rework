@@ -45,13 +45,11 @@ Servers should ensure that the scripts in the link below are **NOT** located / m
 If these scripts are present they will overwrite the default changes from the Last Stand update, the same applies if modified versions of these scripts are present.
 If you wish to load your own version of these scripts see instructions **[here](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework#official-map-updates)**.
 
-In order to ensure full compatibility with the changes provided by this rework, it is highly recommended that servers **DO NOT** load `clip_removal.smx` with configs that use this rework.
-
-This plugin is flawed and does apply changes to both versus rounds. All functionality of this plugin can also be achieved with Stripper, making it entirely redundant.
+Compatibility with gamemodes other than versus is not guaranteed, this repository is aimed exclusively at versus so changes may adversely affect other modes.
 
 #### Redundant Plugins
 The following plugins should not be loaded when using the rework or no longer serve a purpose as their function is achieved through Stripper:Source:
-* `clip_removal` - Redundant, poor functionality, compatibility issues with reworked clips
+* `clip_removal` - Redundant, poor functionality, compatibility issues with reworked clips - **DO NOT USE**
 * `l4d2_fireworks_noise_block` - Silences firework sounds on the Dark Carnival finale
 * `l4d_no_cans` - Removes gas cans, propane tanks, oxygen tanks and firework crates
 * `nm3_ladder_damage` - Prevents fall damage from hunters and jockeys over 30 HP on No Mercy 3, unintentionally applies across the entire map
