@@ -326,7 +326,7 @@
 		"start_extra_dist"	"264.157257"
 		"end_point"			"3001.944092 6272.879395 494.284149"
 		"end_dist"			"130.807541"
-		"max_distance"		"600"
+		"max_distance"		"500"
 	}
 	"c6m1_riverbank"
 	{
@@ -1322,6 +1322,10 @@
 		"start_extra_dist"	"306.183685"
 		"end_point"			"-463.786469 876.165771 -243.441345"
 		"end_dist"			"1558.433960"
+		"tank_z_fix"		"1"
+		"max_tank_z"		"-1.000000"
+		"tank_warpto"		"-1079 2161 -416"
+		"max_distance"		"500"
 		"tank_ban_flow"
 		{
 			"1"

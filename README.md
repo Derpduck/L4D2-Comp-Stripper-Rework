@@ -18,9 +18,10 @@ This project aims to rework the Stripper:Source map changes for competitive L4D2
 * Improved balance
 * Improved quality of changes
 * Fixing long-standing issues
-* Providing a template for configs to use / modify
+* Providing a template for configs to use and modify
 
-While many of the changes are similar to previous Stripper:Source modifications found in competitive configs, since they are designed to address the same issues and meet the expectations of the competitive community, everything is re-made from the ground up to ensure the best possible implementation of these changes.
+Many of the changes will be familiar to those that have played previous competitive configs, as the changes have been designed to address many of the same issues and expectations of the competitive community.
+Everything has been re-made from the ground up to achieve the best possible implementation of changes.
 
 
 ## Usage
@@ -135,15 +136,15 @@ If you believe that yourself or any other historical contributors haven't been c
 ### Rework Contributors
 * Derpduck
 * SirPlease
-* ProdigySim
-* Icy Inferno
 * Wicket
 
-#### Additional Help / Testing
+#### Additional Help / Testing / Scripting
 * J.
 * Target_7
 * NF
 * Daroot Leafstorm
+* ProdigySim
+* Icy Inferno
 
 ### Historical Contributors
 * ProdigySim

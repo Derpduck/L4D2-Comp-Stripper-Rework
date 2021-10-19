@@ -40,6 +40,7 @@
 		* Fixed the spit block area extending outside of the vents
 			* Added visual indication of where the spit block area starts and ends
 * All Maps
+	* Improved prop fixes for compatibility with custom campaigns
 	* Made a physics prop couch unmovable instead of non-solid
 	* Removed forklifts starting in their already broken state
 		* Updated l4d2_hittable_control plugin to control breaking of forklifts instead
@@ -53,6 +54,13 @@
 	* Map 4
 		* Added railings in the elevator, allowing survivors to stand on them
 			* Removed spit block in the elevator
+* Dark Carnival
+	* Map 1
+		* Added a hittable dumpster outside the saferoom
+		* Solidified non-solid shrubs by the saferoom
+		* The Mightnight Riders bus is back
+	* Map 4
+		* Solidify non-solid shrub by the one way drop
 * Swamp Fever
 	* Map 1
 		* Added a hittable car in the area on the left after the ferry
