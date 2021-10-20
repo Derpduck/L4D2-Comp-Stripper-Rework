@@ -4,12 +4,12 @@
 ## v17 (2021-10-20)
 * Initial Release
 	* Dead Before Dawn DC
-	> Thanks to **Caution** for providing suggestions and useful info on issues
 		1. [Anna Is Gone](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/wiki/Dead-Before-Dawn-DC-1-Anna-Is-Gone)
 		2. [The Mall](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/wiki/Dead-Before-Dawn-DC-2-The-Mall)
 		3. [Clean Up](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/wiki/Dead-Before-Dawn-DC-3-Clean-Up)
 		4. [Undead Center](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/wiki/Dead-Before-Dawn-DC-4-Undead-Center)
 		5. [New Dawn](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/wiki/Dead-Before-Dawn-DC-5-New-Dawn)
+		> Thanks to **Caution** for providing suggestions and useful info on issues
 	* Summary of major changes:
 	* All Maps
 		* Removed most voice lines and scripted sounds
