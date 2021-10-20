@@ -10,25 +10,6 @@ All download mirrors provided will for the supported version of the maps.
 
 <hr>
 
-## Detour Ahead
-### Download Mirrors
-* **Steam Workshop:** https://steamcommunity.com/sharedfiles/filedetails/?id=121275675
-* **GameMaps:** https://www.gamemaps.com/details/2445
-* **SirPlease:** http://sirpleaseny.site.nfoservers.com/map/DetourAhead.zip
-* **CEDAPUG:** https://cedapug.com/maps/detourahead.zip
-### Supported Version
-* **Version:** 8 (latest)
-* **Released:** 2013-01-18
-### Maps
-1. cdta_01detour
-2. cdta_02road
-3. cdta_03warehouse
-4. cdta_04onarail
-5. cdta_05finalroad
-### Notes
-* None
-
-
 ## Dead Before Dawn DC
 ### Download Mirrors
 * **Steam Workshop:** [Collection](https://steamcommunity.com/workshop/filedetails/?id=121786282) / [Part 1](https://steamcommunity.com/sharedfiles/filedetails/?id=123678867) / [Part 2](https://steamcommunity.com/sharedfiles/filedetails/?id=123685403) / [Part 3](https://steamcommunity.com/sharedfiles/filedetails/?id=123737442) / [Part 4](https://steamcommunity.com/sharedfiles/filedetails/?id=123744116) / [Part 5](https://steamcommunity.com/sharedfiles/filedetails/?id=123746596) / [Music Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=123755624)
@@ -46,6 +27,25 @@ All download mirrors provided will for the supported version of the maps.
 5. l4d_dbd2dc_new_dawn
 ### Notes
 * Steam Workshop collection is currently unavailable, use the individual part links or another mirror (recommended)
+
+
+## Detour Ahead
+### Download Mirrors
+* **Steam Workshop:** https://steamcommunity.com/sharedfiles/filedetails/?id=121275675
+* **GameMaps:** https://www.gamemaps.com/details/2445
+* **SirPlease:** http://sirpleaseny.site.nfoservers.com/map/DetourAhead.zip
+* **CEDAPUG:** https://cedapug.com/maps/detourahead.zip
+### Supported Version
+* **Version:** 8 (latest)
+* **Released:** 2013-01-18
+### Maps
+1. cdta_01detour
+2. cdta_02road
+3. cdta_03warehouse
+4. cdta_04onarail
+5. cdta_05finalroad
+### Notes
+* None
 
 
 ## The Dark Parish (WIP)

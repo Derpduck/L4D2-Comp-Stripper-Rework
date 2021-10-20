@@ -4,7 +4,7 @@
 ## v17 (WIP)
 * Initial Release
 	* Dead Before Dawn DC
-	> Thanks to **Caution** for suggestions and providing useful info on issues
+	> Thanks to **Caution** for providing suggestions and useful info on issues
 	> **Server Owners:** Ensure vscripts folder is up-to-date
 		1. [Anna Is Gone](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/wiki/Dead-Before-Dawn-DC-1-Anna-Is-Gone)
 		2. [The Mall](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/wiki/Dead-Before-Dawn-DC-2-The-Mall)
@@ -22,9 +22,9 @@
 		* Fixed non-solid props that couldn't be spawned behind or infected could attack through
 		* Fixed many spots common couldn't path to
 	* Map 1
-		* Fixed an issue with the event not ending, so it now use its original gauntlet event settings, instead of ProMod's band-aid fix
-		* Infected can now access more of the cliffs on the right side path for spawns, the rocks blocking these areas for survivors have been removed
+		* Made the event behave as a gauntlet event instead of a finale, fixing issues with the event not ending and bugging out scoring
 		* Removed the deadly helicopter blade
+		* Infected can now access more of the cliffs on the right side path for spawns, the rocks blocking these areas for survivors have been removed
 	* Map 2
 		* The event now starts sooner, as survivors no longer have to wait for the voice line to finish
 		* Blocked the back of a room by the event for survivors
