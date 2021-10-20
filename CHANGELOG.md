@@ -6,11 +6,11 @@
 	* Dead Before Dawn DC
 	> Thanks to **Caution** for suggestions and providing useful info on issues
 	> **Server Owners:** Ensure vscripts folder is up-to-date
-		1. [1]()
-		2. [2]()
-		3. [3]()
-		4. [4]()
-		5. [5]()
+		1. [Anna Is Gone](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/wiki/Dead-Before-Dawn-DC-1-Anna-Is-Gone)
+		2. [The Mall](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/wiki/Dead-Before-Dawn-DC-2-The-Mall)
+		3. [Clean Up](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/wiki/Dead-Before-Dawn-DC-3-Clean-Up)
+		4. [Undead Center](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/wiki/Dead-Before-Dawn-DC-4-Undead-Center)
+		5. [New Dawn](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/wiki/Dead-Before-Dawn-DC-5-New-Dawn)
 	* Summary of major changes:
 	* All Maps
 		* Removed most voice lines and scripted sounds
@@ -27,18 +27,19 @@
 		* Removed the deadly helicopter blade
 	* Map 2
 		* The event now starts sooner, as survivors no longer have to wait for the voice line to finish
+		* Blocked the back of a room by the event for survivors
 	* Map 3
 		* Changed the way both events spawn horde, they now function like a gauntlet event instead of using "scripted" common spawns that would easily exceed the common limit
 			* This will result in the events behaving slightly differently, but they will now be closer to normal events
 		* Players will move 40% faster when being forced to crouch through the vent chokepoint
 		* Adjusted spit block area, it now only covers the section where players are forced to crouch through the vent
-			* Added visual indication of where the spit block area starts and ends
+			* Added a visual indication of where the spit block area starts and ends
 		* Removed the sequence to break out of the saferoom
 	* Map 4
 		* Removed the event to blow up the wall in Kiddyland
 		* Players will move 40% faster when being forced to crouch through the vent chokepoint
 		* Fixed the spit block area extending outside of the vents
-			* Added visual indication of where the spit block area starts and ends
+			* Added a visual indication of where the spit block area starts and ends
 	* Map 5
 		* No major changes
 * All Maps
