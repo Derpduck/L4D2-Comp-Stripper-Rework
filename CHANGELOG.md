@@ -39,6 +39,8 @@
 		* Players will move 40% faster when being forced to crouch through the vent chokepoint
 		* Fixed the spit block area extending outside of the vents
 			* Added visual indication of where the spit block area starts and ends
+	* Map 5
+		* No major changes
 * All Maps
 	* Improved prop fixes for compatibility with custom campaigns
 	* Made a physics prop couch unmovable instead of non-solid
@@ -85,6 +87,9 @@
 		* Added an infected ladder to climb onto the hedges on the right of the park near the start
 	* Map 3
 		* Added a pipe to stand on at the ladder in the sewer
+	* Map 5
+		* Reduced map distance to 500 (from 600)
+		* Removed additional tank spawn at the end of the map
 * The Passing
 	* Map 2
 		* Prevented players from being able to block the gates in the sewer from opening

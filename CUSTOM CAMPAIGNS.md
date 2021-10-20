@@ -45,7 +45,7 @@ All download mirrors provided will for the supported version of the maps.
 4. l4d_dbd2dc_undead_center
 5. l4d_dbd2dc_new_dawn
 ### Notes
-* Steam Workshop collection is currently unavailable, use the individual part links or another mirror
+* Steam Workshop collection is currently unavailable, use the individual part links or another mirror (recommended)
 
 
 ## The Dark Parish (WIP)
