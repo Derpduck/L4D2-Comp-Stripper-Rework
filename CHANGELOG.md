@@ -1,7 +1,7 @@
 # Changelog
 
 # Current Release
-## v17 (WIP)
+## v17 (2021-10-20)
 * Initial Release
 	* Dead Before Dawn DC
 	> Thanks to **Caution** for providing suggestions and useful info on issues
