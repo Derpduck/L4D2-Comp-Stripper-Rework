@@ -2,17 +2,18 @@
 
 All custom campaigns supported by this rework can be found below.
 Versions of the maps that differ from those listed below may not be fully supported.
-Where an older version of a map is supported instead of the latest version it will be noted.
+Where an older version of a map is supported instead of the latest version it will be noted as `legacy`.
 
 All custom campaigns supported by competitive servers can be found here: http://sirpleaseny.site.nfoservers.com/map/
 Some maps hosted on competitive servers are outdated versions of maps.
 All download mirrors provided will for the supported version of the maps.
+Maps that are a single vpk file are preferable to ones split into multiple vpks, as the split ones may not be supported on servers.
 
 <hr>
 
 ## Dead Before Dawn DC
 ### Download Mirrors
-* **Steam Workshop:** [Collection](https://steamcommunity.com/workshop/filedetails/?id=121786282) / [Part 1](https://steamcommunity.com/sharedfiles/filedetails/?id=123678867) / [Part 2](https://steamcommunity.com/sharedfiles/filedetails/?id=123685403) / [Part 3](https://steamcommunity.com/sharedfiles/filedetails/?id=123737442) / [Part 4](https://steamcommunity.com/sharedfiles/filedetails/?id=123744116) / [Part 5](https://steamcommunity.com/sharedfiles/filedetails/?id=123746596) / [Music Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=123755624)
+* **Steam Workshop (NOT RECOMMENDED):** [Collection](https://steamcommunity.com/workshop/filedetails/?id=121786282) / [Part 1](https://steamcommunity.com/sharedfiles/filedetails/?id=123678867) / [Part 2](https://steamcommunity.com/sharedfiles/filedetails/?id=123685403) / [Part 3](https://steamcommunity.com/sharedfiles/filedetails/?id=123737442) / [Part 4](https://steamcommunity.com/sharedfiles/filedetails/?id=123744116) / [Part 5](https://steamcommunity.com/sharedfiles/filedetails/?id=123746596) / [Music Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=123755624)
 * **GameMaps:** https://www.gamemaps.com/details/2268
 * **SirPlease:** http://sirpleaseny.site.nfoservers.com/map/DeadBeforeDawnDC.zip
 * **CEDAPUG:** https://cedapug.com/maps/deadbeforedawn2_dc.zip

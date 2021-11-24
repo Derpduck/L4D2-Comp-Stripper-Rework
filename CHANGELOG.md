@@ -25,10 +25,10 @@
 		* Removed the deadly helicopter blade
 		* Infected can now access more of the cliffs on the right side path for spawns, the rocks blocking these areas for survivors have been removed
 	* Map 2
-		* The event now starts sooner, as survivors no longer have to wait for the voice line to finish
+		* The event now starts sooner, as survivors no longer have to wait for the dialogue to finish
 		* Blocked the back of a room by the event for survivors
 	* Map 3
-		* Changed the way both events spawn horde, they now function like a gauntlet event instead of using "scripted" common spawns that would easily exceed the common limit
+		* Changed the way both events spawn horde, they now function like gauntlet events instead of using "scripted" common spawns that would easily exceed the common limit
 			* This will result in the events behaving slightly differently, but they will now be closer to normal events
 		* Players will move 40% faster when being forced to crouch through the vent chokepoint
 		* Adjusted spit block area, it now only covers the section where players are forced to crouch through the vent
@@ -60,7 +60,7 @@
 	* Map 1
 		* Added a hittable dumpster outside the saferoom
 		* Solidified non-solid shrubs by the saferoom
-		* The Mightnight Riders bus is back
+		* The Midnight Riders bus is back
 	* Map 4
 		* Solidify non-solid shrub by the one way drop
 * Swamp Fever
