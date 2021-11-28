@@ -1,6 +1,23 @@
 # Changelog
 
 # Current Release
+## v18 (WIP)
+### All Maps
+* Reverted change to convert prop_physics_multiplayer type for custom campaigns that caused issues with breakable props
+	* Fixed the ball on the Diescaper finale not breaking
+### Dark Carnival
+#### Map 1
+* Adjusted position of added dumpster
+### No Mercy
+#### Map 1
+* Fixed misplaced clip on AC unit by the saferoom
+* Fixed an exploit blocker out of bounds by the saferoom
+### Undead Zone
+* Added saferoominfo and mapinfo for all Undead Zone maps to fix items (medkits) spawning in saferooms
+
+***
+
+# Past Releases
 ## v17 (2021-10-20)
 * Initial Release
 	* Dead Before Dawn DC
@@ -113,9 +130,6 @@
 	* Removed "Saferoom Items" section, use "Pill / Item / Weapon Spawns"  
 	* Updated func_nav_blocker to use script_nav_blocker
 
-***
-
-# Past Releases
 ## v16 (2021-09-11)
 * Initial Release
 	* Cold Stream
