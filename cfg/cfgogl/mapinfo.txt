@@ -57,6 +57,14 @@
 				"max"		"68"
 			}
 		}
+		"witch_ban_flow"
+		{
+			"1"
+			{
+				"min"		"53"
+				"max"		"75"
+			}
+		}
 	}
 	"c1m4_atrium"
 	{
@@ -79,6 +87,14 @@
 		"start_dist"		"50.000000"
 		"start_extra_dist"	"0.000000"
 		"end_dist"			"150.000000"
+		"witch_ban_flow"
+		{
+			"1"
+			{
+				"min"		"71"
+				"max"		"73"
+			}
+		}
 	}
 	"c2m2_fairgrounds"
 	{
@@ -88,6 +104,22 @@
 		"start_extra_dist"	"0.000000"
 		"end_dist"			"150.000000"
 		"horde_limit"		"120"
+		"witch_ban_flow"
+		{
+			"1"
+			{
+				"min"		"54"
+				"max"		"58"
+			}
+		}
+		"witch_ban_flow"
+		{
+			"2"
+			{
+				"min"		"78"
+				"max"		"87"
+			}
+		}
 	}
 	"c2m3_coaster"
 	{
@@ -104,6 +136,14 @@
 				"max"		"100"
 			}
 		}
+		"witch_ban_flow"
+		{
+			"1"
+			{
+				"min"		"53"
+				"max"		"70"
+			}
+		}
 	}
 	"c2m4_barns"
 	{
@@ -114,6 +154,14 @@
 		"end_dist"			"250.000000"
 		"max_distance"		"500"
 		"horde_limit"		"150"
+		"witch_ban_flow"
+		{
+			"1"
+			{
+				"min"		"83"
+				"max"		"100"
+			}
+		}
 	}
 	"c2m5_concert"
 	{
@@ -206,6 +254,14 @@
 				"max"		"100"
 			}
 		}
+		"witch_ban_flow"
+		{
+			"1"
+			{
+				"min"		"80"
+				"max"		"100"
+			}
+		}
 	}
 	"c4m3_sugarmill_b"
 	{
@@ -223,6 +279,14 @@
 				"max"		"36"
 			}
 		}
+		"witch_ban_flow"
+		{
+			"1"
+			{
+				"min"		"0"
+				"max"		"29"
+			}
+		}
 	}
 	"c4m4_milltown_b"
 	{
@@ -232,6 +296,14 @@
 		"start_extra_dist"	"275.000000"
 		"end_dist"			"200.000000"
 		"max_distance"		"400"
+		"witch_ban_flow"
+		{
+			"1"
+			{
+				"min"		"33"
+				"max"		"54"
+			}
+		}
 	}
 	"c4m5_milltown_escape"
 	{
@@ -300,6 +372,14 @@
 			{
 				"min"		"0"
 				"max"		"29"
+			}
+		}
+		"witch_ban_flow"
+		{
+			"2"
+			{
+				"min"		"52"
+				"max"		"63"
 			}
 		}
 	}
@@ -445,6 +525,14 @@
 				"max"		"22"
 			}
 		}
+		"witch_ban_flow"
+		{
+			"1"
+			{
+				"min"		"84"
+				"max"		"100"
+			}
+		}
 	}
 	"c8m4_interior"
 	{
@@ -455,14 +543,14 @@
 		"end_dist"			"332.486664"
 		"tank_z_fix"		"1"
 		"max_tank_z"		"4000.000000"
-		"tank_warpto"		"13428.627930 15072.313477 486.031250"
+		"tank_warpto"		"13439 15017 450"
 		"max_distance"		"500"
 		"tank_ban_flow"
 		{
 			"1"
 			{
-				"min"		"45"
-				"max"		"80"
+				"min"		"43"
+				"max"		"81"
 			}
 		}
 	}
@@ -515,6 +603,14 @@
 		"start_extra_dist"	"587.266541"
 		"end_point"			"-10784.895508 -4906.771973 318.224670"
 		"end_dist"			"403.989594"
+		"witch_ban_flow"
+		{
+			"1"
+			{
+				"min"		"29"
+				"max"		"35"
+			}
+		}
 	}
 	"c10m2_drainage"
 	{
@@ -594,6 +690,14 @@
 		"end_point"			"3276.041992 4504.324707 181.974670"
 		"end_dist"			"343.399078"
 		"max_distance"		"500"
+		"witch_ban_flow"
+		{
+			"1"
+			{
+				"min"		"31"
+				"max"		"43"
+			}
+		}
 	}
 	"c11m5_runway"
 	{
