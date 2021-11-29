@@ -12,8 +12,35 @@
 #### Map 1
 * Fixed misplaced clip on AC unit by the saferoom
 * Fixed an exploit blocker out of bounds by the saferoom
+#### Map 4
+* Fixed a bad tank warp spot that caused the tank to get stuck in the ceiling
+* Adjusted tank ban range to prevent spawning on the wrong floor
 ### Undead Zone
 * Added saferoominfo and mapinfo for all Undead Zone maps to fix items (medkits) spawning in saferooms
+
+### Witch Spawns
+* Added witch spawn ban ranges to prevent witches from spawning in some unfair or buggy spots
+#### Dead Center
+* Map 3: Blocked witches from spawning in the event area
+#### Dark Carnival
+* Map 1: Blocked spawns on the small platforms at the one way drop
+* Map 2: Blocked spawns at the top of the ladder
+* Map 2: Blocked spawns behind the fence at the start of the event
+* Map 3: Blocked spawns on the first section of the coaster
+* Map 4: Blocked spawns after the event gates
+#### Hard Rain
+* Map 2: Blocked spawns in the field
+* Map 3: Blocked spawns in the field and immediately after the elevator
+* Map 4: Blocked spawns on top of the ladder by the ambulance
+#### The Parish
+* Map 3: Blocked spawns by the bus at the start of the map
+* Map 3: Blocked spawns in the sewer and at the top of the first ladder
+#### No Mercy
+* Map 3: Blocked spawns after the ladder
+#### Death Toll
+* Map 1: Blocked spawns immediately at the top of the ladder
+#### Dead Air
+* Map 4: Blocked spawns behind the fence
 
 ***
 
