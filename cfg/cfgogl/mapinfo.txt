@@ -111,9 +111,6 @@
 				"min"		"54"
 				"max"		"58"
 			}
-		}
-		"witch_ban_flow"
-		{
 			"2"
 			{
 				"min"		"78"
@@ -373,9 +370,6 @@
 				"min"		"0"
 				"max"		"29"
 			}
-		}
-		"witch_ban_flow"
-		{
 			"2"
 			{
 				"min"		"52"
