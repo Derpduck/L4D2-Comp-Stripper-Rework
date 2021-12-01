@@ -13,12 +13,12 @@
 		"max_distance"		"400"
 		"tank_ban_flow"
 		{
-			"1"
+			"Before elevator exit"
 			{
 				"min"		"38"
 				"max"		"79"
 			}
-			"2"
+			"Early spawns"
 			{
 				"min"		"0"
 				"max"		"24"
@@ -35,7 +35,7 @@
 		"horde_limit"		"150"
 		"tank_ban_flow"
 		{
-			"1"
+			"One way drop"
 			{
 				"min"		"49"
 				"max"		"55"
@@ -51,7 +51,7 @@
 		"end_dist"			"200.000000"
 		"tank_ban_flow"
 		{
-			"1"
+			"Event escalators"
 			{
 				"min"		"64"
 				"max"		"68"
@@ -59,7 +59,7 @@
 		}
 		"witch_ban_flow"
 		{
-			"1"
+			"Event"
 			{
 				"min"		"53"
 				"max"		"75"
@@ -89,7 +89,7 @@
 		"end_dist"			"150.000000"
 		"witch_ban_flow"
 		{
-			"1"
+			"One way drop platforms"
 			{
 				"min"		"71"
 				"max"		"73"
@@ -106,12 +106,12 @@
 		"horde_limit"		"120"
 		"witch_ban_flow"
 		{
-			"1"
+			"Ladder"
 			{
 				"min"		"54"
 				"max"		"58"
 			}
-			"2"
+			"Start of event"
 			{
 				"min"		"78"
 				"max"		"87"
@@ -127,7 +127,7 @@
 		"end_dist"			"150.000000"
 		"tank_ban_flow"
 		{
-			"1"
+			"Coaster"
 			{
 				"min"		"56"
 				"max"		"100"
@@ -135,7 +135,7 @@
 		}
 		"witch_ban_flow"
 		{
-			"1"
+			"Start of coaster"
 			{
 				"min"		"53"
 				"max"		"70"
@@ -153,7 +153,7 @@
 		"horde_limit"		"150"
 		"witch_ban_flow"
 		{
-			"1"
+			"Event 2nd stage"
 			{
 				"min"		"83"
 				"max"		"100"
@@ -181,7 +181,7 @@
 		"end_dist"			"200.000000"
 		"tank_ban_flow"
 		{
-			"1"
+			"Before ferry (bugged spawn)"
 			{
 				"min"		"45"
 				"max"		"62"
@@ -228,7 +228,7 @@
 		"max_distance"		"400"
 		"tank_ban_flow"
 		{
-			"1"
+			"Early spawns"
 			{
 				"min"		"0"
 				"max"		"20"
@@ -245,7 +245,7 @@
 		"max_distance"		"600"
 		"tank_ban_flow"
 		{
-			"1"
+			"Field"
 			{
 				"min"		"80"
 				"max"		"100"
@@ -253,7 +253,7 @@
 		}
 		"witch_ban_flow"
 		{
-			"1"
+			"Field"
 			{
 				"min"		"80"
 				"max"		"100"
@@ -270,7 +270,7 @@
 		"max_distance"		"500"
 		"tank_ban_flow"
 		{
-			"1"
+			"Elevator"
 			{
 				"min"		"30"
 				"max"		"36"
@@ -278,7 +278,7 @@
 		}
 		"witch_ban_flow"
 		{
-			"1"
+			"Field and elevator"
 			{
 				"min"		"0"
 				"max"		"29"
@@ -295,7 +295,7 @@
 		"max_distance"		"400"
 		"witch_ban_flow"
 		{
-			"1"
+			"Ladder"
 			{
 				"min"		"33"
 				"max"		"54"
@@ -325,7 +325,7 @@
 		"max_distance"		"300"
 		"tank_ban_flow"
 		{
-			"1"
+			"Early spawns"
 			{
 				"min"		"0"
 				"max"		"38"
@@ -341,7 +341,7 @@
 		"end_dist"			"250.000000"
 		"tank_ban_flow"
 		{
-			"1"
+			"CEDA trailer"
 			{
 				"min"		"49"
 				"max"		"54"
@@ -357,7 +357,7 @@
 		"end_dist"			"250.000000"
 		"tank_ban_flow"
 		{
-			"1"
+			"Sewer and parking lot"
 			{
 				"min"		"54"
 				"max"		"70"
@@ -365,12 +365,12 @@
 		}
 		"witch_ban_flow"
 		{
-			"1"
+			"Bus"
 			{
 				"min"		"0"
 				"max"		"29"
 			}
-			"2"
+			"Sewer and parking lot"
 			{
 				"min"		"52"
 				"max"		"63"
@@ -386,7 +386,7 @@
 		"end_dist"			"350.000000"
 		"tank_ban_flow"
 		{
-			"1"
+			"Last one way drop"
 			{
 				"min"		"80"
 				"max"		"100"
@@ -420,7 +420,7 @@
 		"max_distance"		"800"
 		"tank_ban_flow"
 		{
-			"1"
+			"Event (bugged spawn)"
 			{
 				"min"		"74"
 				"max"		"100"
@@ -458,7 +458,7 @@
 		"max_distance"		"700"
 		"tank_ban_flow"
 		{
-			"1"
+			"Event (bugged spawn)"
 			{
 				"min"		"72"
 				"max"		"78"
@@ -503,17 +503,17 @@
 		"end_dist"			"75.000000"
 		"tank_ban_flow"
 		{
-			"1"
+			"Late warehouse and before one way drop"
 			{
 				"min"		"50"
 				"max"		"70"
 			}
-			"2"
+			"During event"
 			{
 				"min"		"29"
 				"max"		"35"
 			}
-			"3"
+			"Early spawns"
 			{
 				"min"		"0"
 				"max"		"22"
@@ -521,7 +521,7 @@
 		}
 		"witch_ban_flow"
 		{
-			"1"
+			"Ladder"
 			{
 				"min"		"84"
 				"max"		"100"
@@ -541,7 +541,7 @@
 		"max_distance"		"500"
 		"tank_ban_flow"
 		{
-			"1"
+			"Before elevator (bugged spawn)"
 			{
 				"min"		"42"
 				"max"		"81"
@@ -561,7 +561,7 @@
 		}
 		"tank_ban_flow"
 		{
-			"1"
+			"Early spawn"
 			{
 				"min"		"0"
 				"max"		"45"
@@ -599,7 +599,7 @@
 		"end_dist"			"403.989594"
 		"witch_ban_flow"
 		{
-			"1"
+			"Ladders"
 			{
 				"min"		"29"
 				"max"		"35"
@@ -632,7 +632,7 @@
 		"horde_limit"		"90"
 		"tank_ban_flow"
 		{
-			"1"
+			"Start of event"
 			{
 				"min"		"68"
 				"max"		"75"
@@ -686,7 +686,7 @@
 		"max_distance"		"500"
 		"witch_ban_flow"
 		{
-			"1"
+			"Behind fence"
 			{
 				"min"		"31"
 				"max"		"43"
@@ -715,7 +715,7 @@
 		"max_distance"		"300"
 		"tank_ban_flow"
 		{
-			"1"
+			"Early spawns"
 			{
 				"min"		"0"
 				"max"		"50"
@@ -742,7 +742,7 @@
 		"horde_limit"		"60"
 		"tank_ban_flow"
 		{
-			"1"
+			"Late spawns (bugged spawn)"
 			{
 				"min"		"81"
 				"max"		"100"
@@ -760,7 +760,7 @@
 		"horde_limit"		"60"
 		"tank_ban_flow"
 		{
-			"1"
+			"Warehouse"
 			{
 				"min"		"39"
 				"max"		"54"
@@ -780,7 +780,7 @@
 		}
 		"tank_ban_flow"
 		{
-			"1"
+			"After one way drop"
 			{
 				"min"		"80"
 				"max"		"100"
@@ -797,7 +797,7 @@
 		"max_distance"		"300"
 		"tank_ban_flow"
 		{
-			"1"
+			"After one way drop"
 			{
 				"min"		"87"
 				"max"		"100"
@@ -814,7 +814,7 @@
 		"horde_limit"		"120"
 		"tank_ban_flow"
 		{
-			"1"
+			"Event"
 			{
 				"min"		"82"
 				"max"		"100"
@@ -830,7 +830,7 @@
 		"end_dist"			"356.709808"
 		"tank_ban_flow"
 		{
-			"1"
+			"Event and bridge descent"
 			{
 				"min"		"52"
 				"max"		"64"
@@ -867,7 +867,7 @@
 		}
 		"tank_ban_flow"
 		{
-			"1"
+			"Early spawns"
 			{
 				"min"		"0"
 				"max"		"30"
@@ -884,7 +884,7 @@
 		"max_distance"		"300"
 		"tank_ban_flow"
 		{
-			"1"
+			"Early spawns"
 			{
 				"min"		"0"
 				"max"		"38"
@@ -908,7 +908,7 @@
 		"end_dist"			"402.227936"
 		"tank_ban_flow"
 		{
-			"1"
+			"Sewers and parking lot"
 			{
 				"min"		"50"
 				"max"		"70"
@@ -924,7 +924,7 @@
 		"end_dist"			"591.899353"
 		"tank_ban_flow"
 		{
-			"1"
+			"After one way drop"
 			{
 				"min"		"80"
 				"max"		"100"
@@ -958,7 +958,7 @@
 		"horde_limit"		"120"
 		"tank_ban_flow"
 		{
-			"1"
+			"Event"
 			{
 				"min"		"61"
 				"max"		"100"
@@ -974,7 +974,7 @@
 		"end_dist"			"245.495361"
 		"tank_ban_flow"
 		{
-			"1"
+			"During sewers"
 			{
 				"min"		"60"
 				"max"		"79"
