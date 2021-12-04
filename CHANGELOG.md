@@ -8,6 +8,9 @@
 ### Dark Carnival
 #### Map 1
 * Adjusted position of added dumpster
+#### Map 2
+* Removed vending machine under platform by the carousel
+* Opened up a room on a platform by the carousel for survivors
 ### No Mercy
 #### Map 1
 * Fixed misplaced clip on AC unit by the saferoom
