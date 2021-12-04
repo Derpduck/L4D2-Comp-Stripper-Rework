@@ -11,6 +11,10 @@
 #### Map 2
 * Removed vending machine under platform by the carousel
 * Opened up a room on a platform by the carousel for survivors
+#### Map 4
+* Removed forklift and re-added dumpster
+* Added floodlight generator in place of forklift
+* Adjusted position of ammo pile after bumper cars
 ### No Mercy
 #### Map 1
 * Fixed misplaced clip on AC unit by the saferoom
