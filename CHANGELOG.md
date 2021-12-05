@@ -30,6 +30,9 @@
 * Removed plank crossing between trains at the bridge
 * Added a ladder to climb up the ore car at the bridge
 * Adjusted position of ammo pile by the event
+### Cold Stream
+#### Map 3
+* Removed added planks in the water
 ### Undead Zone
 * Added saferoominfo and mapinfo for all Undead Zone maps to fix items (medkits) spawning in saferooms
 
