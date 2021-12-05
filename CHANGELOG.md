@@ -5,6 +5,9 @@
 ### All Maps
 * Reverted change to convert prop_physics_multiplayer type for custom campaigns that caused issues with breakable props
 	* Fixed the ball on the Diescaper finale not breaking
+### Dead Center
+#### Map 2
+* Replaced van by the end saferoom with a bus
 ### Dark Carnival
 #### Map 1
 * Adjusted position of added dumpster
@@ -22,6 +25,11 @@
 #### Map 4
 * Fixed a bad tank warp spot that caused the tank to get stuck in the ceiling
 * Adjusted tank ban range to prevent spawning on the wrong floor
+### Blood Harvest
+#### Map 4
+* Removed plank crossing between trains at the bridge
+* Added a ladder to climb up the ore car at the bridge
+* Adjusted position of ammo pile by the event
 ### Undead Zone
 * Added saferoominfo and mapinfo for all Undead Zone maps to fix items (medkits) spawning in saferooms
 
