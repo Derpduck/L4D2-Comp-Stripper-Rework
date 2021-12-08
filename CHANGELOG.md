@@ -32,7 +32,7 @@
 * Adjusted position of ammo pile by the event
 ### Cold Stream
 #### Map 3
-* Removed added planks in the water
+* Removed planks in the water after the bridge
 ### The Last Stand
 #### Map 1
 * Removed panic event when starting the event
@@ -41,11 +41,34 @@
 #### Map 2
 * Reduced number of horde waves during the finale
 * Reduced the delay between finale stages
+### Dead Before Dawn DC
+#### Map 1
+* Made helicopter activate when the map starts
+	* Fixes helicopter sometimes not activating to block the path
+#### Map 2
+* Made all non-hittable dumpsters green
+#### Map 3
+* Reverted delay before door opens after the first event is complete
+	* Was 1 second, now back to 11 seconds
+	* Added a sound to indicate that the door has opened
 ### Undead Zone
-* Added saferoominfo and mapinfo for all Undead Zone maps to fix items (medkits) spawning in saferooms
+* Added saferoominfo and mapinfo data for all Undead Zone maps to fix items (medkits) spawning in saferooms
+
+### Finite Horde Limits
+* Re-added finite horde limits on certain maps where it was removed
+	* This does **not** affect Zonemod as this feature is not used
+#### Dead Center
+* Map 3: 150
+#### Dark Carnival
+* Map 3: 210
+#### The Parish
+* Map 2: 180
+#### The Passing
+* Map 2: 150
 
 ### Witch Spawns
 * Added witch spawn ban ranges to prevent witches from spawning in some unfair or buggy spots
+	* This does **not** affect Zonemod as witches do not spawn
 #### Dead Center
 * Map 3: Blocked witches from spawning in the event area
 #### Dark Carnival
