@@ -48,14 +48,14 @@
 #### Map 2
 * Made all non-hittable dumpsters green
 #### Map 3
-* Reverted delay before door opens after the first event is complete
+* Reverted delay before door opens after the first event to it's original value
 	* Was 1 second, now back to 11 seconds
 	* Added a sound to indicate that the door has opened
 ### Undead Zone
 * Added saferoominfo and mapinfo data for all Undead Zone maps to fix items (medkits) spawning in saferooms
 
 ### Finite Horde Limits
-* Re-added finite horde limits on certain maps where it was removed
+* Re-added finite horde limits on certain maps where they had been removed
 	* This does **not** affect Zonemod as this feature is not used
 #### Dead Center
 * Map 3: 150
