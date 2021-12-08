@@ -33,6 +33,14 @@
 ### Cold Stream
 #### Map 3
 * Removed added planks in the water
+### The Last Stand
+#### Map 1
+* Removed panic event when starting the event
+* Removed horde when the crane is lifting the container
+* Reverted amount of horde spawned by each generator to default (now 14, was 10)
+#### Map 2
+* Reduced number of horde waves during the finale
+* Reduced the delay between finale stages
 ### Undead Zone
 * Added saferoominfo and mapinfo for all Undead Zone maps to fix items (medkits) spawning in saferooms
 
