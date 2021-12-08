@@ -49,6 +49,7 @@
 		"start_dist"		"50.000000"
 		"start_extra_dist"	"150.000000"
 		"end_dist"			"200.000000"
+		"horde_limit"		"150"
 		"tank_ban_flow"
 		{
 			"Event escalators"
@@ -125,6 +126,7 @@
 		"start_dist"		"50.000000"
 		"start_extra_dist"	"200.000000"
 		"end_dist"			"150.000000"
+		"horde_limit"		"210"
 		"tank_ban_flow"
 		{
 			"Coaster"
@@ -339,6 +341,7 @@
 		"start_dist"		"50.000000"
 		"start_extra_dist"	"0.000000"
 		"end_dist"			"250.000000"
+		"horde_limit"		"180"
 		"tank_ban_flow"
 		{
 			"CEDA trailer"
@@ -418,6 +421,7 @@
 		"start_extra_dist"	"0.000000"
 		"end_dist"			"50.000000"
 		"max_distance"		"800"
+		"horde_limit"		"150"
 		"tank_ban_flow"
 		{
 			"Event (bugged spawn)"
@@ -898,6 +902,7 @@
 		"start_extra_dist"	"604.716553"
 		"end_point"			"-9823.082031 -8162.369141 -220.767731"
 		"end_dist"			"487.969635"
+		"horde_limit"		"180"
 	}
 	"c5m3_darkcemetery"
 	{
