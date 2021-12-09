@@ -76,6 +76,7 @@
 	* Fixes helicopter sometimes not activating to block the path
 #### Map 2
 * Made all non-hittable dumpsters green
+* Fixed infected ghosts falling through the plank walkway in the warehouse
 #### Map 3
 * Reverted delay before door opens after the first event to it's original value
 	* Was 1 second, now back to 11 seconds
