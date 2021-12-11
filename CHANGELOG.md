@@ -5,11 +5,13 @@
 ### All Maps
 * Reverted change to convert prop_physics_multiplayer type for custom campaigns that caused issues with breakable props
 	* Fixed the ball on the Diescaper finale not breaking
+
 ### Dead Center
 #### Map 2
 * Replaced van by the end saferoom with a bus
 #### Map 3
 * Removed most green fence cover props, replaced 1 set with a shelf prop
+
 ### Dark Carnival
 #### Map 1
 * Adjusted position of added dumpster
@@ -28,15 +30,19 @@
 * Adjusted position of ammo pile after bumper cars
 #### Map 5
 * Adjusted fences by the finale area entrance
+
 ### Swamp Fever
 #### Map 3
 * Fixed a slightly misplaced ladder on the boardwalk
+
 ### The Parish
 #### Map 3
-* Removed highway sign, added another highway barrel
+* Removed highway sign by the bridge, added another highway barrel
+
 ### The Passing
 #### Map 1
 * Removed an angled clip on the bus by the saferoom that could block hittables
+
 ### No Mercy
 #### Map 1
 * Fixed misplaced clip on AC unit by the saferoom
@@ -44,24 +50,29 @@
 #### Map 4
 * Fixed a bad tank warp spot that caused the tank to get stuck in the ceiling
 * Adjusted tank ban range to prevent spawning on the wrong floor
+
 ### Death Toll
 #### Map 3
 * Fixed collision issues on added bus
+
 ### Dead Air
 #### Map 1
 * Blocked survivors from getting punched onto the AC unit by the ladder
 * Blocked survivors from standing on a ledge by the one way drop
 #### Map 3
 * Adjusted position of concrete bags by the end saferoom
+
 ### Blood Harvest
 #### Map 4
-* Removed plank crossing between trains at the bridge
-* Added a ladder to climb up the ore car at the bridge
+* Removed plank crossing between the trains on the bridge
+	* Replaced with a ladder to climb up the ore car
 * Removed flat train car and haybales on the bridge
-* Adjusted position of ammo pile by the event
+* Adjusted position of ammo pile before the bridge
+
 ### Cold Stream
 #### Map 3
 * Removed planks in the water after the bridge
+
 ### The Last Stand
 #### Map 1
 * Removed panic event when starting the event
@@ -70,6 +81,7 @@
 #### Map 2
 * Reduced number of horde waves during the finale
 * Reduced the delay between finale stages
+
 ### Dead Before Dawn DC
 #### Map 1
 * Made helicopter activate when the map starts
@@ -81,6 +93,7 @@
 * Reverted delay before door opens after the first event to it's original value
 	* Was 1 second, now back to 11 seconds
 	* Added a sound to indicate that the door has opened
+
 ### Undead Zone
 * Added saferoominfo and mapinfo data for all Undead Zone maps to fix items (medkits) spawning in saferooms
 
