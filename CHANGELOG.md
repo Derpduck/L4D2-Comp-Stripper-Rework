@@ -3,8 +3,8 @@
 # Current Release
 ## v18 (WIP)
 ### All Maps
-* Reverted change to convert prop_physics_multiplayer type for custom campaigns that caused issues with breakable props
-	* Fixed the ball on the Diescaper finale not breaking
+* Improved physics prop fixes for custom campaigns
+	* Should fix bugs with breakable hittables and random props not spawning
 
 ### Dead Center
 #### Map 2
@@ -17,6 +17,7 @@
 * Adjusted position of added dumpster
 * Replaced motel roof crossing prop
 * Added highway barrels by the end saferoom
+* Fixed lighting issues on concrete blocks on the end saferoom
 #### Map 2
 * Removed vending machine under platform by the carousel
 * Opened up a room on a platform by the carousel for survivors
@@ -42,6 +43,8 @@
 ### The Passing
 #### Map 1
 * Removed an angled clip on the bus by the saferoom that could block hittables
+#### Map 2
+* Added an ammo pile before the one way drop
 
 ### No Mercy
 #### Map 1
