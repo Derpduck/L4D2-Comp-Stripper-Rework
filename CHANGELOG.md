@@ -96,6 +96,8 @@
 * Reverted delay before door opens after the first event to it's original value
 	* Was 1 second, now back to 11 seconds
 	* Added a sound to indicate that the door has opened
+* Updated spit block area to intended area
+	* This change should have happened in the last update
 
 ### Undead Zone
 * Added saferoominfo and mapinfo data for all Undead Zone maps to fix items (medkits) spawning in saferooms
@@ -106,7 +108,7 @@
 #### Dead Center
 * Map 3: 150
 #### Dark Carnival
-* Map 3: 210
+* Map 3: 240
 #### The Parish
 * Map 2: 180
 #### The Passing

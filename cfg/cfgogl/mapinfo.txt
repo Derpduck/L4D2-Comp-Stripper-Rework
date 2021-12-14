@@ -126,7 +126,7 @@
 		"start_dist"		"50.000000"
 		"start_extra_dist"	"200.000000"
 		"end_dist"			"150.000000"
-		"horde_limit"		"210"
+		"horde_limit"		"240"
 		"tank_ban_flow"
 		{
 			"Coaster"
@@ -743,7 +743,7 @@
 		"end_point"			"7754.335938 -11443.834961 440.031250"
 		"end_dist"			"264.020966"
 		"max_distance"		"500"
-		"horde_limit"		"60"
+		"horde_limit"		"90"
 		"tank_ban_flow"
 		{
 			"Late spawns (bugged spawn)"
@@ -761,7 +761,7 @@
 		"end_point"			"10398.775391 -310.353424 2.031253"
 		"end_dist"			"316.505157"
 		"max_distance"		"500"
-		"horde_limit"		"60"
+		"horde_limit"		"90"
 		"tank_ban_flow"
 		{
 			"Warehouse"
