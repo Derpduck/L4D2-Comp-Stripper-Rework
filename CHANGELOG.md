@@ -1,7 +1,7 @@
 # Changelog
 
 # Current Release
-## v18 (WIP)
+## v18 (2021-12-16)
 ### All Maps
 * Improved physics prop fixes for custom campaigns
 	* Should fix bugs with breakable hittables and random props not spawning
@@ -16,6 +16,7 @@
 #### Map 1
 * Adjusted position of added dumpster
 * Replaced motel roof crossing prop
+* Replaced billboard on motel roof with fences to show where the skybox blocks the roof
 * Added highway barrels by the end saferoom
 * Fixed lighting issues on concrete blocks on the end saferoom
 #### Map 2
@@ -34,11 +35,24 @@
 
 ### Swamp Fever
 #### Map 3
-* Fixed a slightly misplaced ladder on the boardwalk
+* Removed the added boardwalk by the houses
+* Added a ladder to climb up to the disconnected house where the new boardwalk was
+
+### Hard Rain
+#### Maps 1 & 4
+* Added clipping to SUV windows by the playground
+#### Map 5
+* Removed pre-finale tank
+* Reverted distance points to 400
 
 ### The Parish
+#### Map 2
+* Added a failsafe on the CEDA trailer exit door to prevent softlocks
+	* If the door gets blocked it will close again, but become unlocked
 #### Map 3
 * Removed highway sign by the bridge, added another highway barrel
+* Made pipe at the ladder in the sewers easier to stand on
+* Removed railings by the ladder
 
 ### The Passing
 #### Map 1
@@ -56,7 +70,7 @@
 
 ### Death Toll
 #### Map 3
-* Fixed collision issues on added bus
+* Fixed collision and lighting issues on added bus
 
 ### Dead Air
 #### Map 1
@@ -100,7 +114,11 @@
 	* This change should have happened in the last update
 
 ### Undead Zone
-* Added saferoominfo and mapinfo data for all Undead Zone maps to fix items (medkits) spawning in saferooms
+* Added saferoominfo and mapinfo data for all maps
+	* Fixes items (medkits) spawning in saferooms
+
+### Dark Carnival Remix
+* Added saferoominfo and mapinfo data for all maps
 
 ### Finite Horde Limits
 * Re-added finite horde limits on certain maps where they had been removed
