@@ -36,7 +36,7 @@
 ### Swamp Fever
 #### Map 3
 * Removed the added boardwalk by the houses
-* Added a ladder to climb up to the disconnected house where the new boardwalk was
+* Added an infected ladder to climb up to the disconnected house where the new boardwalk was
 
 ### Hard Rain
 #### Maps 1 & 4
