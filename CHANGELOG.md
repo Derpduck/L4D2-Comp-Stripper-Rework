@@ -1,6 +1,19 @@
 # Changelog
 
 # Current Release
+## v19 (WIP)
+### Dead Center
+#### Map 4
+* Added 1 melee weapon spawn before the elevator
+* Added 1 melee weapon spawn by the information stand
+
+### Dead Before Dawn DC
+#### Map 4
+* Fixed the spit block in the vent not working
+
+***
+
+# Past Releases
 ## v18 (2021-12-16)
 ### All Maps
 * Improved physics prop fixes for custom campaigns
@@ -157,9 +170,6 @@
 #### Dead Air
 * Map 4: Blocked spawns behind the fence
 
-***
-
-# Past Releases
 ## v17 (2021-10-20)
 * Initial Release
 	* Dead Before Dawn DC
