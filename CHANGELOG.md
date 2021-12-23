@@ -7,6 +7,14 @@
 * Added 1 melee weapon spawn before the elevator
 * Added 1 melee weapon spawn by the information stand
 
+### The Parish
+#### Map 2
+* Removed changes to event hordes during tank, replaced with plugin l4d2_tank_horde_monitor
+
+### Death Toll
+#### Map 4
+* Removed changes to event hordes during tank, replaced with plugin l4d2_tank_horde_monitor
+
 ### Dead Before Dawn DC
 #### Map 4
 * Fixed the spit block in the vent not working
