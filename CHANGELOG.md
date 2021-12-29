@@ -15,6 +15,10 @@
 #### Map 4
 * Removed changes to event hordes during tank, replaced with plugin l4d2_tank_horde_monitor
 
+### Blood Harvest
+#### Map 4
+* Fixed survivors being able to climb an infected ladder on the bridge
+
 ### Dead Before Dawn DC
 #### Map 4
 * Fixed the spit block in the vent not working
