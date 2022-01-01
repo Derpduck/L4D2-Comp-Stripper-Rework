@@ -2,6 +2,10 @@
 
 # Current Release
 ## v19 (WIP)
+
+### All Maps
+* Adjusted timing to remove clips from TLS to fix cases where they don't get removed
+
 ### Dead Center
 #### Map 4
 * Added 1 melee weapon spawn before the elevator

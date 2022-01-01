@@ -129,7 +129,7 @@
 		"horde_limit"		"240"
 		"tank_ban_flow"
 		{
-			"Coaster"
+			"Coaster Start"
 			{
 				"min"		"56"
 				"max"		"100"
