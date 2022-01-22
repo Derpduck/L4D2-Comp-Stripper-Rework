@@ -5,11 +5,17 @@
 
 ### All Maps
 * Adjusted timing to remove clips from TLS to fix cases where they don't get removed
+* Fixed TV lights not turning off when shot
+* Fixed an issue with item / melee spawns allowing multiple pick-ups
 
 ### Dead Center
 #### Map 4
 * Added 1 melee weapon spawn before the elevator
 * Added 1 melee weapon spawn by the information stand
+
+### Dark Carnival
+#### Map 2
+* Added a tent by the end saferoom
 
 ### The Parish
 #### Map 2
