@@ -1,7 +1,7 @@
 # Changelog
 
 # Current Release
-## v19 (WIP)
+## v19 (2022-01-22)
 
 ### All Maps
 * Adjusted timing to remove clips from TLS to fix cases where they don't get removed
