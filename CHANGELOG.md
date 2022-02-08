@@ -1,6 +1,19 @@
 # Changelog
 
 # Current Release
+## v20 (WIP)
+
+### The Passing
+#### Map 2
+* Reduced map distance to 700 (was 800)
+
+### The Sacrifice
+#### Map 1
+* Reduced map distance to 500 (was 600)
+
+***
+
+# Past Releases
 ## v19 (2022-01-22)
 
 ### All Maps
@@ -33,9 +46,6 @@
 #### Map 4
 * Fixed the spit block in the vent not working
 
-***
-
-# Past Releases
 ## v18 (2021-12-16)
 ### All Maps
 * Improved physics prop fixes for custom campaigns
