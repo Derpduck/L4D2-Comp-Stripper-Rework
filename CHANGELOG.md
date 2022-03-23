@@ -3,6 +3,16 @@
 # Current Release
 ## v20 (WIP)
 
+### Dark Carnival
+#### Map 1
+* Fixed collison issues with tree outside saferoom
+* Removed the shrub wall on the small patch of land by the outhouse
+
+### Death Toll
+#### Map 1
+* Added a fallen tree to cross between the cliffs in the valley to get above the saferoom
+* Adjusted clipping in the valley where players could previously cross between the cliffs
+
 ### The Passing
 #### Map 2
 * Reduced map distance to 700 (was 800)
