@@ -3,6 +3,35 @@
 # Current Release
 ## v20 (WIP)
 
+### Hard Rain: Downpour
+Moving to the latest version of this map has been long overdue, the issues that stopped it being updated have now been fixed
+All changes are compatible with the newest and old version of the map
+Download the latest version of the map here:
+#### Map 1, 4 & 5
+##### Latest Version Differences
+* Guns in saferoom are no longer single pickups
+* More ammo pile spawns
+* Layout in some key areas has changed
+##### Stripper Changes
+* Fixed starting saferoom nav mesh issue, which prevented players from moving during ready up
+* Added 2 pistol spawns in the saferoom
+* Fixed various broken ladders
+* Re-added some key ladders that were removed in the latest version
+* Allowed all infected to break the windows in the Save 4 Less store
+#### Map 2 & 3
+##### Latest Version Differences
+* Some infected ladders added, removed or moved
+##### Stripper Changes
+* Re-added some key ladders that were removed in the latest version
+* Added 2 new ladders
+* Added 2 new ammo piles
+* Fixed some non-solid trees
+
+### Dark Carnival: Remix
+#### Map 4
+* Reverted distance points to default
+> Distance points were unintentionally set to 500
+
 ### Dark Carnival
 #### Map 1
 * Fixed collison issues with tree outside saferoom
@@ -20,6 +49,10 @@
 ### The Sacrifice
 #### Map 1
 * Reduced map distance to 500 (was 600)
+
+### The Last Stand
+#### Map 1
+* Added a ladder for survivors to climb back up at the house one-way drop
 
 ***
 
