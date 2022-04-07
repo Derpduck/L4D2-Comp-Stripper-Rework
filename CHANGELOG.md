@@ -4,7 +4,7 @@
 ## v20 (2022-04-07)
 
 ### Hard Rain: Downpour
-* Hard Rain: Downpour has been updated to be moved onto the most up-to-date version of the map
+* Hard Rain: Downpour has been updated use the most up-to-date version of the map
 * Download the latest version here: https://cedapug.com/maps/downpour.zip
 #### Maps 1, 4 & 5
 ##### Latest Version Differences
