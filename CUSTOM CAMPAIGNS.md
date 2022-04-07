@@ -49,6 +49,28 @@ Maps that are a single vpk file are preferable to ones split into multiple vpks,
 * None
 
 
+## Hard Rain: Downpour
+### Download Mirrors
+* **Steam Workshop:** https://steamcommunity.com/sharedfiles/filedetails/?id=306243689
+* **GameMaps:** https://www.gamemaps.com/details/12237
+* **SirPlease:** **OUTDATED VERSION** http://sirpleaseny.site.nfoservers.com/map/HardRainDownpour.zip
+* **CEDAPUG:** https://cedapug.com/maps/downpour.zip
+### Supported Version
+* **Version:** 1.61 (latest)
+* **Released:** 2016-04-24
+### Maps
+1. dprm1_milltown_a
+2. dprm2_sugarmill_a
+3. dprm3_sugarmill_b
+4. dprm4_milltown_b
+5. dprm5_milltown_escape
+### Notes
+* Changes are fully compatible with the latest and previous version of the map
+
+
+
+
+
 ## The Dark Parish (WIP)
 ### Download Mirrors
 * **Steam Workshop:** No Mirror

@@ -4,9 +4,8 @@
 ## v20 (WIP)
 
 ### Hard Rain: Downpour
-Moving to the latest version of this map has been long overdue, the issues that stopped it being updated have now been fixed
-All changes are compatible with the newest and older version of the map
-Download the latest version of the map here:
+* Hard Rain: Downpour has been updated to be moved onto the most up-to-date version of the map
+* Download the latest version here: https://cedapug.com/maps/downpour.zip
 #### Maps 1, 4 & 5
 ##### Latest Version Differences
 * Guns in saferoom are no longer single pickups
