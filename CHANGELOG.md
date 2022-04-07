@@ -1,7 +1,7 @@
 # Changelog
 
 # Current Release
-## v20 (WIP)
+## v20 (2022-04-07)
 
 ### Hard Rain: Downpour
 * Hard Rain: Downpour has been updated to be moved onto the most up-to-date version of the map
