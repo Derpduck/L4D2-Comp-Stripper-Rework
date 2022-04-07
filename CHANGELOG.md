@@ -5,9 +5,9 @@
 
 ### Hard Rain: Downpour
 Moving to the latest version of this map has been long overdue, the issues that stopped it being updated have now been fixed
-All changes are compatible with the newest and old version of the map
+All changes are compatible with the newest and older version of the map
 Download the latest version of the map here:
-#### Map 1, 4 & 5
+#### Maps 1, 4 & 5
 ##### Latest Version Differences
 * Guns in saferoom are no longer single pickups
 * More ammo pile spawns
@@ -18,7 +18,7 @@ Download the latest version of the map here:
 * Fixed various broken ladders
 * Re-added some key ladders that were removed in the latest version
 * Allowed all infected to break the windows in the Save 4 Less store
-#### Map 2 & 3
+#### Maps 2 & 3
 ##### Latest Version Differences
 * Some infected ladders added, removed or moved
 ##### Stripper Changes
@@ -43,6 +43,8 @@ Download the latest version of the map here:
 * Adjusted clipping in the valley where players could previously cross between the cliffs
 
 ### The Passing
+#### Map 1
+* Adjusted clipping on fallen bus by the saferoom that blocked hittables
 #### Map 2
 * Reduced map distance to 700 (was 800)
 
