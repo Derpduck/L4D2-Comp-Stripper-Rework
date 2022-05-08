@@ -1,13 +1,31 @@
 # Changelog
 
 # Current Release
+## v21 (WIP)
+### Dark Carnival
+#### Map 2
+* Removed fence cover by the carousel after the one way drop
+
+### The Parish
+#### Map 2
+* Removed platform on the right side of the park
+* Removed an extra hedge on the right side of the park
+* Removed an extra hedge on the left side of the park
+
+### Dead Air
+#### Map 3
+* Added infected ladders onto pipes in the back of the construction site
+
+***
+
+# Past Releases
 ## v20 (2022-04-07)
 
 ### Hard Rain: Downpour
 * Hard Rain: Downpour has been updated use the most up-to-date version of the map
 * Download the latest version here: https://cedapug.com/maps/downpour.zip
 #### Maps 1, 4 & 5
-##### Latest Version Differences
+##### Latest Map Version Differences
 * Guns in saferoom are no longer single pickups
 * More ammo pile spawns
 * Layout in some key areas has changed
@@ -18,7 +36,7 @@
 * Re-added some key ladders that were removed in the latest version
 * Allowed all infected to break the windows in the Save 4 Less store
 #### Maps 2 & 3
-##### Latest Version Differences
+##### Latest Map Version Differences
 * Some infected ladders added, removed or moved
 ##### Stripper Changes
 * Re-added some key ladders that were removed in the latest version
@@ -26,24 +44,19 @@
 * Added 2 new ammo piles
 * Fixed some non-solid trees
 
-### Dark Carnival: Remix
-#### Map 4
-* Reverted distance points to default
-> Distance points were unintentionally set to 500
-
 ### Dark Carnival
 #### Map 1
-* Fixed collison issues with tree outside saferoom
+* Fixed collision issues with tree outside saferoom
 * Removed the shrub wall on the small patch of land by the outhouse
 
 ### Death Toll
 #### Map 1
-* Added a fallen tree to cross between the cliffs in the valley to get above the saferoom
-* Adjusted clipping in the valley where players could previously cross between the cliffs
+* Added a tree to cross between the cliffs by the bridge to get above the saferoom
+* Adjusted clipping by the bridge where players could previously cross between the cliffs
 
 ### The Passing
 #### Map 1
-* Adjusted clipping on fallen bus by the saferoom that blocked hittables
+* Fixed issue with clipping on a crashed bus by the saferoom that blocked hittables
 #### Map 2
 * Reduced map distance to 700 (was 800)
 
@@ -55,9 +68,6 @@
 #### Map 1
 * Added a ladder for survivors to climb back up at the house one-way drop
 
-***
-
-# Past Releases
 ## v19 (2022-01-22)
 
 ### All Maps
