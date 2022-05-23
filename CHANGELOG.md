@@ -12,9 +12,17 @@
 * Removed an extra hedge on the right side of the park
 * Removed an extra hedge on the left side of the park
 
+### The Passing
+#### Map 1
+* Fixed hittable car that spawns inside a truck which could incap survivors when a boomer explodes near it
+
 ### Dead Air
 #### Map 3
 * Added infected ladders onto pipes in the back of the construction site
+
+### Dead Before Dawn: DC
+#### Map 2
+* Fixed event door being unbreakable after the event is over
 
 ***
 
@@ -22,7 +30,7 @@
 ## v20 (2022-04-07)
 
 ### Hard Rain: Downpour
-* Hard Rain: Downpour has been updated use the most up-to-date version of the map
+* Hard Rain: Downpour has been updated to use the most recent version of the map
 * Download the latest version here: https://cedapug.com/maps/downpour.zip
 #### Maps 1, 4 & 5
 ##### Latest Map Version Differences
@@ -49,16 +57,16 @@
 * Fixed collision issues with tree outside saferoom
 * Removed the shrub wall on the small patch of land by the outhouse
 
-### Death Toll
-#### Map 1
-* Added a tree to cross between the cliffs by the bridge to get above the saferoom
-* Adjusted clipping by the bridge where players could previously cross between the cliffs
-
 ### The Passing
 #### Map 1
 * Fixed issue with clipping on a crashed bus by the saferoom that blocked hittables
 #### Map 2
 * Reduced map distance to 700 (was 800)
+
+### Death Toll
+#### Map 1
+* Added a tree to cross between the cliffs by the bridge to get above the saferoom
+* Adjusted clipping by the bridge where players could previously cross between the cliffs
 
 ### The Sacrifice
 #### Map 1
