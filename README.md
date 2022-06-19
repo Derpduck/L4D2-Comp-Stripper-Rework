@@ -34,7 +34,7 @@ Any server owner or config developer can freely use this as a base for their own
 ## Compatibility
 
 Ensure that the scripts in the link below are **not** modified in any way:
-**[L4D2-Community-Update/scripts/vscripts](https://github.com/Tsuey/L4D2-Community-Update/tree/master/scripts/vscripts)**
+**[L4D2-Community-Update/scripts/vscripts](https://github.com/Tsuey/L4D2-Community-Update/tree/master/root/scripts/vscripts)**
 
 If these scripts are present they will overwrite the default changes from the Last Stand update, the same applies if modified versions of these scripts are present.
 If you wish to load your own version of these scripts see instructions **[here](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework#official-map-updates)**.
@@ -47,7 +47,7 @@ The following plugins should not be loaded when using this project:
 * `l4d2_fireworks_noise_block`
 * `l4d_no_cans`
 * `nm3_ladder_damage`
-* `ghost_hurt` - Controls state of trigger_hurt_ghost entities, redundant because we convert all of them to trigger_hurt
+* `ghost_hurt`
 
 ## Official Map Updates
 **Documentation and source code for the Last Stand update map updates can be found here:**<br>
@@ -61,20 +61,13 @@ The following plugins should not be loaded when using this project:
 **[spumer/left_4_dead_2__decompiled_maps](https://github.com/spumer/left_4_dead_2__decompiled_maps)**
 
 These files can be viewed and modified in the Hammer Editor by installing L4D2 Authoring Tools on Steam.<br>
-It is highly recommended that any work done for this project is done through Hammer then implemented into Stripper to ensure values are accurate as possible.<br>
-**Disclaimer:** These files may not be 100% accurate as the decompiling process is not perfect, and the source files are not provided by Valve in any official capacity.
 
 ### Decompiled VScripts
 **Decompiled versions of L4D2's VScripts can be found here:**<br>
 **[jacob404/Official-Vscripts-Decompiled](https://github.com/jacob404/Official-Vscripts-Decompiled)**
 
-These scripts can be used as reference or as a base for modifying director scripts for maps.<br>
-Compiled versions of VScripts can be found in `left4dead2/pak01_dir.vpk`, or the `pak01_dir.vpk` of the respective DLC folders.<br>
-Compiled versions of new or updated VScripts from the Last Stand update can be found in `update/pak01_dir.vpk`.
-
 ### Stripper Dumps
-To dump all entities on a map to text type `stripper_dump` in console while Stripper:Source is loaded.<br>
-Files are dumped to the `left4dead2/addons/stripper/dumps` directory in `.txt` format.
+To dump all entity data on a map to text, use the `stripper_dump` command, the dumps are located in `left4dead2/addons/stripper/dumps`.
 
 ## Setting Up A Competitive L4D2 Server
 **Resources and information for setting up a competitive L4D2 server can be found here:**<br>
