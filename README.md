@@ -23,12 +23,13 @@ This project aims to rework both official and custom campaigns for competitive L
 
 ### [Installation Instructions](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/wiki/Server-Installation-Guide)
 
-Any server owner or config developer can freely use this as a base for their own modifications, however credit to this repository is appreciated.
+This project requires Stripper:Source to load, get it here:
 
-Get Striper:Source
 * **Version:** 1.2.2
 * **Documentation:** https://www.bailopan.net/stripper/
 * **Source:** https://github.com/alliedmodders/stripper-source
+
+Any server owner or config developer can freely use this as a base for their own modifications, however credit to this repository is appreciated.
 
 ## Compatibility
 
