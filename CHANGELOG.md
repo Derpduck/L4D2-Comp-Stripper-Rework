@@ -1,7 +1,7 @@
 # Changelog
 
 # Current Release
-## v21 (WIP)
+## v21 (2022-05-23)
 ### Dark Carnival
 #### Map 2
 * Removed fence cover by the carousel after the one way drop
