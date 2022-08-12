@@ -1,7 +1,7 @@
 # Changelog
 
 # Current Release
-## v21 (2022-05-23)
+## v21 (2022-08-12)
 
 ### Dead Center
 #### Map 1
