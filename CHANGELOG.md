@@ -1,24 +1,19 @@
 # Changelog
 
 # Current Release
-## v22 (WIP)
+## v21 (2022-05-23)
 
 ### Dead Center
 #### Map 1
 * Blocked guns from being thrown out of bounds in the saferoom
 
-### Hard Rain
-#### Map 1
-* Blocked guns from being thrown out of bounds in the saferoom
-
-***
-
-# Past Releases
-## v21 (2022-05-23)
-
 ### Dark Carnival
 #### Map 2
 * Removed fence cover by the carousel after the one way drop
+
+### Hard Rain
+#### Map 1
+* Blocked guns from being thrown out of bounds in the saferoom
 
 ### The Parish
 #### Map 2
@@ -38,6 +33,9 @@
 #### Map 2
 * Fixed event door being unbreakable after the event is over
 
+***
+
+# Past Releases
 ## v20 (2022-04-07)
 
 ### Hard Rain: Downpour
