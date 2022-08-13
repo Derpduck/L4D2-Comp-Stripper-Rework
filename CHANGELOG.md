@@ -1,6 +1,21 @@
 # Changelog
 
 # Current Release
+## v22 (WIP)
+
+### Swamp Fever
+#### Map 3
+* Added 2 platforms in the trees
+	* By the ramp leading into the swamp
+	* In the shanty town by the event
+
+### Cold Stream
+#### Map 2
+* Removed the push trigger in the tunnel at the end of the map
+
+***
+
+# Past Releases
 ## v21 (2022-08-12)
 
 ### Dead Center
@@ -33,9 +48,6 @@
 #### Map 2
 * Fixed event door being unbreakable after the event is over
 
-***
-
-# Past Releases
 ## v20 (2022-04-07)
 
 ### Hard Rain: Downpour

@@ -87,6 +87,7 @@ Before contributing it is recommended to read these guides:
 * SirPlease
 * Wicket
 * Harry Potter
+* Failzz
 
 #### Additional Help / Testing / Scripting
 * J.
