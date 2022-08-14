@@ -4,10 +4,20 @@
 ## v22 (WIP)
 
 ### Swamp Fever
+#### Map 2
+* Added a tree platform by the first burned down house
 #### Map 3
-* Added 2 platforms in the trees
+* Added 2 tree platforms
 	* By the ramp leading into the swamp
 	* In the shanty town by the event
+
+### The Parish
+#### Map 3
+* Added fences to the top of the sewer ladder choke
+#### Map 4
+* Made the 2 cars after the event unhittable
+* Moved 1 of the dumpsters after the event further down the street
+* Increased fade-out distance for the doorways in the red apartment building by the event
 
 ### Cold Stream
 #### Map 2
