@@ -7,7 +7,7 @@
 #### Map 2
 * Added a tree platform by the first burned down house
 #### Map 3
-* Added 2 tree platforms
+* Added 2 tree platforms, credit to Failzz for the originals
 	* By the ramp leading into the swamp
 	* In the shanty town by the event
 

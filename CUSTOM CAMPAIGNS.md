@@ -69,29 +69,6 @@ Maps that are a single vpk file are preferable to ones split into multiple vpks,
 
 
 
-
-
-## The Dark Parish (WIP)
-### Download Mirrors
-* **Steam Workshop:** No Mirror
-* **GameMaps:** https://www.gamemaps.com/details/3467
-* **SirPlease:** No Mirror
-* **CEDAPUG:** https://cedapug.com/maps/thedarkparish_av3.zip
-### Supported Version
-* **Version:** av3 / v2.2 Beta (latest official)
-* **Released:** 2012-01-18
-### Maps
-1. c5m1_darkwaterfront
-2. c5m2_darkpark
-3. c5m3_darkcemetery
-4. c5m4_darkquarter
-5. c5m5_darkbridge
-### Notes
-* Addon version is incorrectly labelled as av2 when viewed in the addons menu
-* Steam workshop versions of this map are not uploaded by the original author and may be modified / not compatible with the official version
-
-
-
 <br><br><br><br>
 # Template
 
