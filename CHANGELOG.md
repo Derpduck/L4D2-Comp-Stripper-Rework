@@ -3,6 +3,10 @@
 # Current Release
 ## v22 (WIP)
 
+### Dark Carnival
+#### Map 1
+* Blocked an exploit to get on top of the highway sign by the motel
+
 ### Swamp Fever
 #### Map 2
 * Added a tree platform by the first burned down house
