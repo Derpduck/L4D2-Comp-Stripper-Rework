@@ -3,6 +3,9 @@
 # Current Release
 ## v22 (WIP)
 
+### All Maps
+* Removed unbreakable freezer doors
+
 ### Dark Carnival
 #### Map 1
 * Blocked an exploit to get on top of the highway sign by the motel
