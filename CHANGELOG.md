@@ -26,6 +26,11 @@
 * Moved 1 of the dumpsters after the event further down the street
 * Increased fade-out distance for the doorways in the red apartment building by the event
 
+### No Mercy
+#### Map 3
+* Reverted event back to a standard panic event
+> **Developer Note:** This is temporary until an issue with tank spawns is resolved
+
 ### Cold Stream
 #### Map 2
 * Removed the push trigger in the tunnel at the end of the map
@@ -63,7 +68,7 @@
 
 ### Dead Before Dawn: DC
 #### Map 2
-* Fixed event door being unbreakable after the event is over
+* Fixed event door still being unbreakable after the event has ended
 
 ## v20 (2022-04-07)
 

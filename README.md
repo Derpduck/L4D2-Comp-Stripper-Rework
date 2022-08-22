@@ -39,7 +39,7 @@ Ensure that the scripts in the link below are **not** modified in any way:
 If these scripts are present they will overwrite the default changes from the Last Stand update, the same applies if modified versions of these scripts are present.
 If you wish to load your own version of these scripts see instructions **[here](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework#official-map-updates)**.
 
-As this project's only focus is for versus, compatibility with gamemodes other gamemodes is not guaranteed.
+As this project's only focus is versus, full compatibility with other gamemodes is not guaranteed.
 
 #### Redundant Plugins
 The following plugins should not be loaded when using this project:
