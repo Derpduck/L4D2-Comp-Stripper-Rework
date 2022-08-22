@@ -1,7 +1,7 @@
 # Changelog
 
 # Current Release
-## v22 (WIP)
+## v22 (2022-08-22)
 
 ### All Maps
 * Removed unbreakable freezer doors
