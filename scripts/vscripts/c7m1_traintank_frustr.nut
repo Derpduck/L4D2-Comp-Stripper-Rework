@@ -5,35 +5,37 @@ function StartFrustrationSpawnDelay( delay )
 	EntFire( "director", "EnableTankFrustration", null, delay )
 }
 
-// State mark
-local g_ActionTaken = false
+// TODO:
+// Straight "EndScript" instead? Because I have no idea 
+// if the delay input will still be called when this script is displaced.
+function InvalidateScope( delay )
+{
+	EntFire( "director", "AddOutput", "OnUser1 !self:EndScript::0:1" )
+	EntFire( "director", "FireUser1", null, delay )
+}
 
 // Mimic the game logic where the frustration timer resets whenever the Tank hits Survivors
 function ProcessTakingDamage( victim, attacker, weapon )
 {
 	if ( !Director.IsTankInPlay() )
-		return
+		return true
 	
-	if ( victim == null || attacker == null )
-		return
+	if ( victim == null || attacker == null || weapon == null )
+		return false
 	
 	if ( !victim.IsSurvivor() || attacker.GetZombieType() != 8 )
-		return
+		return false
 	
 	if ( weapon != "tank_claw" && weapon != "tank_rock" ) // timer doesn't reset on hittable lands
-		return
+		return false
 	
-	StartFrustrationSpawnDelay(0.0)
-	g_ActionTaken = true
+	StartFrustrationSpawnDelay( 0.0 )
+	return true
 }
 
 // A wrapper to free resources if action is taken
-// TODO: Release the events when spawn delay is set? Is it possible?
 function ProcessEvents( params )
 {
-	if ( g_ActionTaken )
-		return
-	
 	local victim = null
 	if ( "userid" in params )
 		victim = GetPlayerFromUserID(params["userid"])
@@ -46,7 +48,8 @@ function ProcessEvents( params )
 	if ( "weapon" in params )
 		weapon = params["weapon"]
 	
-	ProcessTakingDamage( victim, attacker, weapon )
+	if ( ProcessTakingDamage( victim, attacker, weapon ) )
+		InvalidateScope( 0.1 )
 }
 
 function OnGameEvent_player_death( params )
@@ -64,5 +67,9 @@ function OnGameEvent_player_incapacitated( params )
 	ProcessEvents( params )
 }
 
-StartFrustrationSpawnDelay( Convars.GetFloat( "z_frustration_spawn_delay" ) )
+local fSpawnDelay = Convars.GetFloat( "z_frustration_spawn_delay" )
+StartFrustrationSpawnDelay( fSpawnDelay )
+
+InvalidateScope( fSpawnDelay + 0.1 )
+
 __CollectEventCallbacks(this, "OnGameEvent_", "GameEventCallbacks", RegisterScriptGameEventListener)
