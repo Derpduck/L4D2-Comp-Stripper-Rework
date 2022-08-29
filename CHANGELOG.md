@@ -1,6 +1,16 @@
 # Changelog
 
 # Current Release
+## v23 (WIP)
+
+### No Mercy
+#### Map 3
+* Changed the event to function like the Dead Air 4 van event, the event will now last around 60 seconds
+> **Developer Note:** Allows the event to be shortened without causing tank spawn issues
+
+***
+
+# Past Releases
 ## v22 (2022-08-22)
 
 ### All Maps
@@ -35,9 +45,6 @@
 #### Map 2
 * Removed the push trigger in the tunnel at the end of the map
 
-***
-
-# Past Releases
 ## v21 (2022-08-12)
 
 ### Dead Center
