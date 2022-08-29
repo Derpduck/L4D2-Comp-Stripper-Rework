@@ -5,8 +5,14 @@
 
 ### No Mercy
 #### Map 3
-* Changed the event to function like the Dead Air 4 van event, the event will now last around 60 seconds
-> **Developer Note:** Allows the event to be shortened without causing tank spawn issues
+* Fixed issues with tanks spawning incorrectly during the event, and shortened the event again
+	* The event will now last around 60 seconds in total
+
+### The Last Stand
+#### Map 2
+* Updated finale script to use the most recent settings
+	* Common limit during scavenge event is now 10 (was 15)
+
 
 ***
 
