@@ -3,15 +3,40 @@
 # Current Release
 ## v23 (WIP)
 
+### All Maps
+* Fixed pill cabinets that should only have 1 pill being forced to spawn 2
+
+### Swamp Fever
+#### Map 4
+* Fixed a nav blocker not being removed as intended
+
+### Hard Rain
+#### Map 1 / 4
+* Fixed clipping on some fences by the garage sale not working
+
+### The Parish
+#### Map 3
+* Fixed being able to jump on a wall in one of the burned houses to skip over the barricade
+
+### The Passing
+#### Map 1
+* Blocked being able to jump on the truck outside the souvenirs store
+* Block survivors from climbing up the wall in the alleyway by the alarm car
+
 ### No Mercy
 #### Map 3
-* Fixed issues with tanks spawning incorrectly during the event, and shortened the event again
+* Fixed issues with tanks spawning incorrectly during the event, and shortened the event again (Was pushed to Zonemod with V22)
 	* The event will now last around 60 seconds in total
 
 ### The Last Stand
 #### Map 2
-* Updated finale script to use the most recent settings
+* Updated finale script to use the most recent settings (Was pushed to Zonemod with V22)
 	* Common limit during scavenge event is now 10 (was 15)
+
+### Hard Rain: Downpour
+#### Map 4
+* Fixed saferoom doors using the wrong models and being linked to each other (Was pushed to Zonemod with V22)
+
 
 
 ***
