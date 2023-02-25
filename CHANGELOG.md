@@ -1,7 +1,7 @@
 # Changelog
 
 # Current Release
-## v23 (WIP)
+## v23 (2023-02-25)
 
 ### All Maps
 * Fixed pill cabinets that should only have 1 pill being forced to spawn 2
