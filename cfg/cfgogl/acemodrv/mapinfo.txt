@@ -1,0 +1,30 @@
+	"c2m3_coaster"
+	{
+		"start_point"		"4106.046387 2151.258301 15.232275"
+		"end_point"			"-5442.394043 1928.548462 66.031250"
+		"start_dist"		"50.000000"
+		"start_extra_dist"	"200.000000"
+		"end_dist"			"150.000000"
+		"horde_limit"		"240"
+		"tank_ban_flow"
+		{
+			"[ACEMOD] Coaster Start"
+			{
+				"min"		"56"
+				"max"		"65"
+			}
+			"[ACEMOD] Coaster End"
+			{
+				"min"		"75"
+				"max"		"100"
+			}
+		}
+		"witch_ban_flow"
+		{
+			"Start of coaster"
+			{
+				"min"		"53"
+				"max"		"70"
+			}
+		}
+	}

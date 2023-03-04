@@ -21,7 +21,7 @@
 ### The Passing
 #### Map 1
 * Blocked being able to jump on the truck outside the souvenirs store
-* Block survivors from climbing up the wall in the alleyway by the alarm car
+* Blocked survivors from climbing up the wall in the alleyway by the alarm car
 
 ### No Mercy
 #### Map 3
