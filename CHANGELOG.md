@@ -1,6 +1,35 @@
 # Changelog
 
 # Current Release
+## v24 (WIP)
+
+### Dead Center
+#### Map 2
+* Fixed a spot where the Cola could be thrown out of bounds
+
+### Dark Carnival
+#### Map 2
+* Blocked tank spawns from the alleyway to the ladder (56% - 68%) (From Zonemod)
+* Replaced the open tent prop by the end saferoom with a closed tent
+
+### The Passing & The Sacrifice
+* Many changes across all maps, refer to below links for detailed changelogs:
+[Passifice Rework - SirPlease/L4D2-Competitive-Rework/pull/631](https://github.com/SirPlease/L4D2-Competitive-Rework/pull/631)
+[Passifice Updates - SirPlease/L4D2-Competitive-Rework/pull/661](https://github.com/SirPlease/L4D2-Competitive-Rework/pull/661)
+* Various bug / exploit fixes prior to these 2 updates
+
+### Death Toll
+#### Map 1
+* Fixed a bug that allowed infected to have obscured spawns on the cliffs
+
+### Dead Air
+#### Map 4
+* Blocked survivors from standing on the window frames by the end saferoom
+* Removed an ATM by the end saferoom
+
+***
+
+# Past Releases
 ## v23 (2023-02-25)
 
 ### All Maps
@@ -37,11 +66,6 @@
 #### Map 4
 * Fixed saferoom doors using the wrong models and being linked to each other (Was pushed to Zonemod with V22)
 
-
-
-***
-
-# Past Releases
 ## v22 (2022-08-22)
 
 ### All Maps
