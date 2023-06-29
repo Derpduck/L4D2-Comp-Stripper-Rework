@@ -1,7 +1,7 @@
 # Changelog
 
 # Current Release
-## v24 (WIP)
+## v24 (2023-06-29)
 
 ### Dead Center
 #### Map 2

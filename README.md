@@ -1,6 +1,6 @@
 # L4D2 Competitive Stripper Rework
-#### Version: v23
-#### Released: 2023-02-25
+#### Version: v24
+#### Released: 2023-06-29
 
 ## Useful Links
 * **[Map Changes](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework/wiki/Map-Changes)**
@@ -42,7 +42,7 @@ If you wish to load your own version of these scripts see instructions **[here](
 As this project's only focus is versus, full compatibility with other gamemodes is not guaranteed.
 
 #### Redundant Plugins
-The following plugins should not be loaded when using this project:
+The following plugins are not required / should not be loaded when using this project:
 * `clip_removal`
 * `l4d2_fireworks_noise_block`
 * `l4d_no_cans`
