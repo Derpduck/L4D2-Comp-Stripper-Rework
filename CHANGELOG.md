@@ -27,6 +27,12 @@
 * Blocked survivors from standing on the window frames by the end saferoom
 * Removed an ATM by the end saferoom
 
+### No Mercy: Rehab
+* Updated tank ban ranges and saferoom info
+
+### Other Custom Maps
+* Added tank ban ranges from Zonemod
+
 ***
 
 # Past Releases
