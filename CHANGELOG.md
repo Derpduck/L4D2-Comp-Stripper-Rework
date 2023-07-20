@@ -1,6 +1,232 @@
 # Changelog
 
-# Current Release
+## v25 (WIP)
+### All Maps
+* Restored the cafe tables
+* Allowed the green and blue trash bins to be moved again
+* Fixed issues with a few physics props
+
+### Dead Center
+#### Map 1
+* Adjusted tank spawn ban range before the elevator
+	* Tank can now spawn between **20% - 32%** (was: **24% - 38%**)
+* Removed the AC vent in the saferoom that the guns spawned on
+* Removed the magnum spawn outside the saferoom
+* Removed a vending machine by the top of the elevator
+#### Map 2
+* Removed the TLS wall prop at the end of the street near the start of the map and one of the ladders to climb up that wall
+* Added boxes to jump on the grassy platform before the walkway
+* Removed blocker than prevented survivors from standing on the hedge before the walkway
+* Removed concrete blocks stack after the event
+* Adjusted the 1st added bus after the event, removed the 2nd added bus
+#### Map 3
+* Adjusted the props in the tank fight area before the one way drop
+* Removed a small shelf by the escalator at the end saferoom
+
+### Dark Carnival
+#### Map 1
+* Fixed a bug where the 2nd team could have both alarm cars active if the first team wiped early
+* Removed a shrub in the saferoom
+* Added a hittable police car outside the saferoom
+* Removed the hittable dumpster outside the saferoom
+* Removed a tree cluster outside the saferoom
+* Moved the tree outside the saferoom to it's original location
+* Removed a shrub by the ambulance
+* Removed clipping on a shrub by the ambulance
+* Removed rocks at the top of the one way drop
+* Adjusted the bus at the top of the hill by the end saferoom
+* Removed concrete blocks by the end saferoom
+#### Map 2
+* Removed the foodcart outside the saferoom
+* Removed the sign on the saferoom roof
+* Unblocked the desks in the saferoom
+* Removed boxes under the pill room
+#### Map 3
+* Blocked tank spawns on the one way drop (**38% - 41%**)
+* Removed a swan in the saferoom
+* Removed the TLS clip blocking survivors from standing on the electrical box behind the breakable wall at the one way drop
+#### Map 4
+* Removed table and pistol in the saferoom
+* Removed porta potty by the gazebo
+* Removed stack of tires in the bumper cars area
+* Removed porta potty after the bumper cars area
+* Replaced floodlights with dumpster after the bumper cars
+* Removed a porta potty by the end saferoom
+
+### Swamp Fever
+#### Map 1
+* Made a car in the event area unhittable
+#### Map 2
+* Blocked tank spawns at the end of the map (**75% - 100%**)
+* Removed the tent by the campsite
+* Removed the truck by the end saferoom
+#### Map 4
+* Adjusted a hedge by the saferoom
+
+### Hard Rain
+#### Map 1
+* Removed the hedges in front of the playground
+* Extended a fence by the playground
+* Removed the props blocking the paths after the playground
+* Removed a fence by the garage sale
+* Blocked survivors from standing on a fence by the garage sale
+#### Map 2
+* Added an ammo pile in the ducatel building by the saferoom
+* Removed the generator in the construction site
+#### Map 3
+* Increased tank spawn ban range in the field to start at **23%** (was: **30%**)
+* Added an ammo pile in the ducatel building by the saferoom
+* Removed the generator in the construction site
+#### Map 4
+* Removed the hedges in front of the playground
+* Extended a fence by the playground
+* Removed a fence by the garage sale
+
+### The Parish
+#### Map 1
+* Removed pool table in the restaurant
+#### Map 2
+* Removed a small hedge on the right side of the park
+* Removed a large hedge on the right side of the park
+* Removed some shrubs on the right side of the park
+* Removed street lamps on the right side of the park
+* Removed the extended wall on the left side of the park
+* Added a hedge at the start of the park by the restrooms
+* Removed a hedge on the left side of the park
+* Replaced an army truck with a van after the bus station
+* Replaced bus by the end saferoom with a truck
+#### Map 3
+* Removed a fence by the burned out houses
+
+### The Passing
+#### Map 2
+* Adjusted the van outside the jazz club
+
+### No Mercy
+#### Map 1
+* Director now takes into account the blocked path on the street for map distance and tank spawns, this will result in fewer early tank spawns and will make late tanks spawn directly on the path instead of towards the barricade
+* Blocked tank spawns by the one way drop (**31% - 43%**) and at the end of the alleyway (**59% - 67%**)
+* Removed TLS ladder to climb up the saferoom building
+* Removed dumpsters behind the police barricade
+* Removed the crates in the parking lot
+* Removed fence covers in the parking lot
+* Removed the van by the end saferoom
+#### Map 2
+* Replaced bus by the end saferoom with a van
+#### Map 4
+* Removed the hittable generator outside the elevator
+
+### Crash Course
+#### Map 1
+* Removed **2 hittable cars** and **2 hittable dumpsters** by the saferoom
+* Removed the forklift in the warehouse
+* Removed **1 hittable car** by the office
+* Removed **1 hittable car** and **1 hittable dumpster** by the drop under the bridge
+* Removed **2 hittable cars** on the bridge
+#### Map 2
+* Opened up the warehouse door behind the trucks outside the saferoom for survivors
+* Removed an infected ladder in the large warehouse
+* Removed **2 hittable cars** near the start of the map
+* Removed **1 hittable dumpster** by the warehouse
+* Removed **1 hittable car** before the finale area
+
+### Death Toll
+#### Map 1
+* Blocked tank spawns while survivors are on the ladder (**38% - 42%**)
+* Made some improvements to the bridge skip blocker
+* Lowered the rock in the saferoom and allowed survivors to stand on top of it
+#### Map 2
+* Blocked tank spawns in the tunnel before the event (**40% - 51%**)
+* Removed some previously added infected ladders leading to climb up to the catwalks
+#### Map 3
+* Restored some breakable boards on the walkway
+#### Map 4
+* Increased tank spawn ban range before the event to **65% - 75%** (was: **68% - 75%**)
+* Blocked tank spawns after the alleyway at the end of the map (**83% - 100%**)
+* Removed boxes, vending machine, and tree on the street before the event
+#### Map 5
+* Fixed lighting on dock props
+
+### Dead Air
+#### Map 2
+* Removed the electrical box on the roof after the event
+* Removed the TLS infected ladder to climb on the roof before the offices
+* Blocked stuck spots on printers in the offices
+#### Map 3
+* Removed the boxes outside the starting saferoom
+* Restored the dumpster in the alley outside the starting saferoom
+* Made the police car before the power station unhittable
+* Removed boxes on the parking garage ramp
+* Removed concrete bags in the stairwell
+* Removed phone booths on the walkway
+* Adjusted some of the other props on the walkway
+* Replaced departure board with boxes outside the end saferoom
+* Removed the crates in the room next to the end saferoom
+#### Map 4
+* Removed the luggage pile outside the starting saferoom
+* Removed one of the rock props outside the starting saferoom
+* Moved the rock outside the starting saferoom to it's original location
+
+### Blood Harvest
+#### Map 3
+* Blocked tank spawns from the saferoom until the tunnel exit (**0% - 28%**)
+* Added a melee spawn outside the saferoom
+* Removed the magnum spawn in the saferoom
+* Moved the rocks at the top of the bridge
+* Moved the tree at the top of the bridge
+* Removed a set of rocks by the end saferoom
+#### Map 4
+* Reduced map distance to **400** (was: **500**)
+* Removed the hittable car inside the barn
+* Removed all of the pathing changes to the warehouse, survivors can now enter the warehouse as normal
+* Removed the fences and crate behind the warehouse
+* Removed the train after the raised house
+* Removed a train car and car on the bridge, replaced with a tanker train car
+* Adjusted the train car by the end saferoom
+
+### Detour Ahead
+#### Map 1
+* Blocked tank spawns at the new one way drop until survivors approach the house (**35% - 50%**)
+* Blocked tank spawns on the cliff side at the end of the map (**78% - 100%**)
+* Added a one way drop at the end of the valley
+* Fixed AI tanks getting stuck on the fence outside the saferoom
+* Removed the alarm car
+#### Map 4
+* Added a one way drop at the entrance to the trailer park
+* Added an infected ladder to climb over the fence on the left side of the trailer park
+* Added an ammo pile in the trailer park
+* Removed the 2 hittable cars in the trailer park
+* Blocked an out of bounds spot by the trailer park
+* Fixed a perma-stuck spot behind a fence in the trailer park
+* Added a hittable log after the bridge
+
+### Diescraper Redux
+#### Map 4
+* Fixed chargers being able to break unbreakable external windows
+* Fixed some windows on the inside of the building being unbreakable
+* Made the movable plant pots non solid
+
+### Dead Before Dawn DC
+#### Map 1
+* Blocked tank spawns after the tunnel before the house (**60% - 100%**)
+* Added clipping to car stoppers by the gas station to stop players getting stuck on them
+* Fixed some walls behind the gas station not being solid
+* Fixed a stuck spot behind the red truck outside the saferoom
+* Made the burning car unhittable
+* Removed the 2 hittable dumpsters by the alarm car
+* Restored the hittable dumpster in the parking lot
+* Fixed the fridge in the house being movable
+* Made the planks in the house unbreakable
+* Removed the barrel in the tunnel at the event
+#### Map 2
+* Made the wrecked car by the event unhittable
+* Removed some of the dumpster props around the event area
+#### Map 3
+* Reduced time needed to close the doors on the first event to **5 seconds** (was **7 seconds**)
+* Added an infected ladder to climb up the one way drop vent
+* Added a filing cabinet in the bank to help survivors run back for tanks without getting cut off (**Note:** This was already possible, this change just make the jump more easily accessible)
+* Blocked some props in the end saferoom that infected can spawn on
+
 ## v24 (2023-06-29)
 
 ### Dead Center
@@ -33,9 +259,6 @@
 ### Other Custom Maps
 * Added tank ban ranges from Zonemod
 
-***
-
-# Past Releases
 ## v23 (2023-02-25)
 
 ### All Maps
