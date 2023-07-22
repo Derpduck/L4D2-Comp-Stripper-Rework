@@ -85,7 +85,7 @@
 
 ### The Parish
 #### Map 1
-* Removed pool table in the restaurant
+* Removed pool table, vending machine and jukebox in the restaurant
 #### Map 2
 * Removed a small hedge on the right side of the park
 * Removed a large hedge on the right side of the park
