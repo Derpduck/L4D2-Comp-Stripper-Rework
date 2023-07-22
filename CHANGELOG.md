@@ -1,6 +1,6 @@
 # Changelog
 
-## v25 (WIP)
+## v25 (2023-07-22)
 ### All Maps
 * Removed physics ragdolls to improve performance
 * Restored the cafe tables
