@@ -1499,10 +1499,10 @@
 		"end_dist"			"142.267410"
 		"tank_ban_flow"
 		{
-			"After tunnel"
+			"Alarm car to one way drop"
 			{
-				"min"		"60"
-				"max"		"100"
+				"min"		"50"
+				"max"		"75"
 			}
 		}
 	}

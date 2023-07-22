@@ -2,6 +2,7 @@
 
 ## v25 (WIP)
 ### All Maps
+* Removed physics ragdolls to improve performance
 * Restored the cafe tables
 * Allowed the green and blue trash bins to be moved again
 * Fixed issues with a few physics props
@@ -26,7 +27,7 @@
 ### Dark Carnival
 #### Map 1
 * Fixed a bug where the 2nd team could have both alarm cars active if the first team wiped early
-* Removed a shrub in the saferoom
+* Removed a shrub and extra foliage in the saferoom
 * Added a hittable police car outside the saferoom
 * Removed the hittable dumpster outside the saferoom
 * Removed a tree cluster outside the saferoom
@@ -35,7 +36,7 @@
 * Removed clipping on a shrub by the ambulance
 * Removed rocks at the top of the one way drop
 * Adjusted the bus at the top of the hill by the end saferoom
-* Removed concrete blocks by the end saferoom
+* Removed extra stack of concrete blocks by the end saferoom
 #### Map 2
 * Removed the foodcart outside the saferoom
 * Removed the sign on the saferoom roof
@@ -172,8 +173,8 @@
 * Blocked tank spawns from the saferoom until the tunnel exit (**0% - 28%**)
 * Added a melee spawn outside the saferoom
 * Removed the magnum spawn in the saferoom
-* Moved the rocks at the top of the bridge
-* Moved the tree at the top of the bridge
+* Adjusted the rocks at the top of the bridge
+* Adjusted the tree at the top of the bridge
 * Removed a set of rocks by the end saferoom
 #### Map 4
 * Reduced map distance to **400** (was: **500**)
@@ -188,10 +189,12 @@
 #### Map 1
 * Blocked tank spawns at the new one way drop until survivors approach the house (**35% - 50%**)
 * Blocked tank spawns on the cliff side at the end of the map (**78% - 100%**)
+* Fixed some stuck spots in the trees by the saferoom
 * Added a one way drop at the end of the valley
 * Fixed AI tanks getting stuck on the fence outside the saferoom
 * Removed the alarm car
 #### Map 4
+* Added a barricade to block survivors going to the end of the street by the saferoom
 * Added a one way drop at the entrance to the trailer park
 * Added an infected ladder to climb over the fence on the left side of the trailer park
 * Added an ammo pile in the trailer park
@@ -208,7 +211,7 @@
 
 ### Dead Before Dawn DC
 #### Map 1
-* Blocked tank spawns after the tunnel before the house (**60% - 100%**)
+* Blocked tank spawns between the alarm car and the one way drop (**50% - 75%**)
 * Added clipping to car stoppers by the gas station to stop players getting stuck on them
 * Fixed some walls behind the gas station not being solid
 * Fixed a stuck spot behind the red truck outside the saferoom
@@ -217,6 +220,7 @@
 * Restored the hittable dumpster in the parking lot
 * Fixed the fridge in the house being movable
 * Made the planks in the house unbreakable
+* Blocked survivors being able to jump on the logs to get over the fence after the one way drop
 * Removed the barrel in the tunnel at the event
 #### Map 2
 * Made the wrecked car by the event unhittable
