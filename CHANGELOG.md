@@ -1,5 +1,180 @@
 # Changelog
 
+## v26 (WIP)
+### All Maps
+* Removed weapon skin enabler script
+* Removed or reverted various nuisance physics props back to non-solid
+	* Barrels
+	* Trash cans
+	* Wooden Sawhorse
+	* Utility cart
+	* Small green filing cabinet
+
+### Dead Center
+#### Map 1
+* Adjusted placement of weapon spawns in the first hallway
+* Fixed an issue where infected could remove an exploit blocker by breaking a door, it is now removed when survivors hit a trigger
+* Blocked a stuck-warp spot on a pile of luggage after the elevator
+* Re-worked the props by the end saferoom
+* Blocked survivors reaching some unintended areas in the dining hall
+* Improved the glow on the button for the elevator holdout event
+#### Map 2
+* Replaced a hedge prop to get on a highway sign with a ladder
+* Blocked an out of bounds spot at the back of the highway
+* Blocked an out of bounds spot stuck spot behind the gun store / end saferoom
+* Replaced boxes to jump on a platform before the overpass with a traffic barrel
+* Disabled alarm cars by the end saferoom
+#### Map 3
+* Re-worked logic for event paths, route is now set on map start to prevent issues with boss spawns
+* Removed pill spawns in the Just For Kidz store
+* Fixed an incorrectly opening / closing door int he Just For Kidz store
+* Restored the lower path pill cabinet to it's original position
+* Moved the ammo pile on the lower route from the boxes onto the stairwell
+* Improved clipping on the tall shelves by the saferoom
+* Fixed the doors to start the event opening slowly
+* Removed the fence cover outside the saferoom
+* Adjusted shelf by the second set of escalators behind the collapsed gate
+* Replaced shelves on the far side of the second set of escalators with boxes
+* Removed the additional shelves after the second set of escalators
+* Added a kiosk by the shutters after the second set of escalators
+* Re-worked the props in the side area before the offices (Reverted to ProMod)
+* Added an additional kiosk on the lower floor of the end saferoom area
+* Adjusted a shelf before the final escalator
+* Re-worked the modified escalator route to the end saferoom (Reverted to ProMod)
+#### Map 4
+* Fixed a gascan blocker clip in the back corner
+* Fixed railing prop not moving with the elevator (Already applied in Zonemod)
+
+### Dark Carnival
+#### Map 1
+* Added a ledge for infected to jump / stand on the interstate sign outside the saferoom
+* Restored the door under highway sign by the motel to its original closed state
+* Blocked LOS under floating AC vents on the motel cafeteria roof to prevent spawn blocks
+* Added clipping to all police car lights to prevent getting stuck
+* Added a ledge for infected to climb on top of a tree by the highway before the one way drop
+* Adjusted roof trim on the motel roof before the drop
+* Removed the infected ladder to get on the motel roof closest to the one way drop
+* Adjusted the two added bushes before the one way drop
+* Replaced the bus at the top of the hill by the end saferoom with a van
+#### Map 2
+* Filled in the gap on the added saferoom roof props and improved clipping on the pipes
+* Blocked standing on the yellow tent by the saferoom
+* Removed the leaning concrete block by the warehouse entrance
+* Removed item spawns in the previously fenced-off area before the ramp
+* Blocked standing on the ride signs in Kiddyland
+* Blocked LOS under the fences on the monorail track to prevent spawn blocks
+* Blocked survivors being able to stand on the telephone pole by the ladder
+* Removed the added hedge on the stairs by the end saferoom
+#### Map 3
+* Moved the ammo pile in the tunnel of love to the second set of rooms
+* Blocked surviors from standing on the electrial box and infected ladder in the swan room
+* Fixed a sliding stuck spot by the console in the swan room
+* Removed the extra railing in the end saferoom
+#### Map 4
+* Moved ammo pile into the bumper cars area
+* Removed the extra railing in the saferoom
+* Adjusted infected ladders by the starting saferoom
+* Adjusted clips on the hedges by the barn exit
+* Adjusted clips on the shrub walls by the barn drop
+* Blocked standing on a fence near the barn drop
+* Re-added window to the building before the barn entrance
+* Replaced plywood on balcony with a vending machine
+* Added clipping on the fence at the top of the stairs by the event to prevent getting stuck on it
+
+### Swamp Fever
+#### Map 2
+* Removed additional bushes between some trees with invisible walls
+#### Map 3
+* Solidified 2 barrels outside saferoom (regardless of global_filters removing them)
+* Block a perma-stuck spot behind a shrub wall near the first fire barrel (By altair-sossai, already applied in Zonemod)
+* Removed solid trash bags at the event
+* Replaced tractor by the end saferoom with a shrub wall
+
+### Hard Rain
+#### Maps 1 & 4
+* Improved collisions on the SUV by the sugarmill saferoom
+* Added a box under the treehouse
+* Removed the boxes outside the sugarmill saferoom
+* Replaced the TLS infected ladder on the raised house with a better one
+* Improved clipping to prevent weapons being lost on the docks
+* (Map 4) Blocked nav on the blocked door at the house drop to prevent AI getting stuck trying to path through it
+* Removed non-static traffic barrels by the sugarmill saferoom
+* Replaced chimney on roof with AC unit (Reverted to ProMod)
+### Maps 2 & 3
+* (Map 3) Moved elevator trigger to prevent easily escaping from the elevator (Already applied in Zonemod)
+* Removed the additional porta potty from the construction site
+* Fixed a perma-stuck spot and unintended skip caused by some exploit blockers at the fallen silos
+* Added an infected ladder to prevent a perma-stuck spot behind the fence by the silos
+
+### The Parish
+#### Map 1
+* Improved exploit blocker on a fence by the saferoom
+#### Map 2
+* Changed a hedge by the restrooms in the park to a smaller one
+#### Map 3
+* Removed all oil barrel props on the map
+* Blocked survivors from standing on the large dumpster by the stairs before the bus drop
+* Adjusted infected ladders on the green fences before the sewers
+* Adjusted an infected ladder by the sewer drop
+* Re-worked the props around the sewer drop (reverted to ProMod)
+* Made the pipe survivors can stand on at the sewer ladder choke higher up
+* Removed the fences at the top of the sewer ladder
+* Removed the extra wall by the bridge drop
+* Added visual indication of the infected ladder on the shack after the bridge
+* Removed the extra path blockers in the cemetery (reverted back to default pathing)
+
+### The Passing
+#### Map 1
+* Added clipping on window frames throughout the map to make jumping onto them easiser
+* Adjusted boxes by the bus at the bottom of the ramp
+* Replaced bus by the end saferoom with a van
+#### Map 2
+* Removed the alternate path by the fire escape chokepoint
+* Adjusted blocker on the signs in the pool room
+* Removed non-static traffic barrels
+* Removed trash bags on the fire escape in the corner
+* Adjusted blocker on the AC vent before the Jazz Club
+* Blocked an AC vent above the bus stop
+* Blocked standing on the barricade by the bus stop
+* Removed one of the breakable walls in the side room on the left before the sewer
+
+### The Sacrifice
+#### Map 1
+* Removed an added infected ladder to climb on a boat in the tank fight area that could block survivors
+* Removed some redundant entities for thesaccing.vpk support
+#### Map 2
+* Added clipping to some trees after the saferoom
+* Removed the pipes in the water after the saferoom
+* Added a cargo container by the silo after the saferoom
+* Restored the hittable car on the right-side path after the car shop
+* Removed some redundant entities for thesaccing.vpk support
+
+### Crash Course
+#### Map 1
+* Restored 1 hittable dumpster by the saferoom
+#### Map 2
+* Restored all hittable dumpsters
+* Restored 1 hittable car by the saferoom
+
+### Death Toll
+#### Map 1
+* Improved clipping on the wall at the end of the tunnel
+#### Map 2
+* Blocked standing on the bridge supports by the event
+* Removed file cabinets on the ground by the end saferoom
+#### Map 3
+* Reverted the gravestones to being breakable again
+#### Map 4
+* Blocked standing on a stuck after the florist shop
+
+### Dear Air
+#### Map 5
+* Blocked survivors from standing on a skybridge
+
+### Blood Harvest
+#### Map 5
+* Blocked an out of bounds stuck spot in the cliffs behind the saferoom
+
 ## v25 (2023-07-22)
 ### All Maps
 * Removed physics ragdolls to improve performance
