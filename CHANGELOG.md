@@ -67,7 +67,7 @@
 * Removed the added hedge on the stairs by the end saferoom
 #### Map 3
 * Moved the ammo pile in the tunnel of love to the second set of rooms
-* Blocked surviors from standing on the electrial box and infected ladder in the swan room
+* Blocked surviors from standing on the electrical box and infected ladder in the swan room
 * Fixed a sliding stuck spot by the console in the swan room
 * Removed the extra railing in the end saferoom
 #### Map 4
@@ -125,7 +125,7 @@
 
 ### The Passing
 #### Map 1
-* Added clipping on window frames throughout the map to make jumping onto them easiser
+* Added clipping on window frames throughout the map to make jumping onto them easier
 * Adjusted boxes by the bus at the bottom of the ramp
 * Replaced bus by the end saferoom with a van
 #### Map 2
@@ -169,7 +169,7 @@
 
 ### Dear Air
 #### Map 5
-* Blocked survivors from standing on a skybridge
+* Blocked survivors from standing on a sky bridge
 
 ### Blood Harvest
 #### Map 5
