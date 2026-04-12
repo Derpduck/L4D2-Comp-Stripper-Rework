@@ -175,6 +175,12 @@
 #### Map 5
 * Blocked an out of bounds stuck spot in the cliffs behind the saferoom
 
+### The Last Stand
+#### Map 1
+* Removed the sounds / dialogue from the plane crash at the start of the map
+#### Map 2
+* Added an ammo pile on the beach
+
 ## v25 (2023-07-22)
 ### All Maps
 * Removed physics ragdolls to improve performance
