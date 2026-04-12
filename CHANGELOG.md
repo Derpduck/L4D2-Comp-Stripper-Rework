@@ -175,6 +175,10 @@
 #### Map 5
 * Blocked an out of bounds stuck spot in the cliffs behind the saferoom
 
+### Cold Stream
+#### Map 2
+* Blocked a stuck spot behind the barricade below the static tank spawn
+
 ### The Last Stand
 #### Map 1
 * Removed the sounds / dialogue from the plane crash at the start of the map
