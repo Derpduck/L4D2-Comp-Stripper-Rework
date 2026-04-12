@@ -1,6 +1,6 @@
 # Changelog
 
-## v26 (WIP)
+## v26 (2026-04-12)
 ### All Maps
 * Removed weapon skin enabler script
 * Removed or reverted various nuisance physics props back to non-solid
