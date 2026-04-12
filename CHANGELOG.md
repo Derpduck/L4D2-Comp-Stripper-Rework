@@ -163,9 +163,9 @@
 * Blocked standing on the bridge supports by the event
 * Removed file cabinets on the ground by the end saferoom
 #### Map 3
-* Reverted the gravestones to being breakable again
+* Reverted the gravestones to being breakable
 #### Map 4
-* Blocked standing on a stuck after the florist shop
+* Blocked standing on a truck after the florist shop
 
 ### Dear Air
 #### Map 5
