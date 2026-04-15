@@ -27,7 +27,7 @@
 #### Map 3
 * Re-worked logic for event paths, route is now set on map start to prevent issues with boss spawns
 * Removed pill spawns in the Just For Kidz store
-* Fixed an incorrectly opening / closing door int he Just For Kidz store
+* Fixed an incorrectly opening / closing door in the Just For Kidz store
 * Restored the lower path pill cabinet to it's original position
 * Moved the ammo pile on the lower route from the boxes onto the stairwell
 * Improved clipping on the tall shelves by the saferoom
@@ -67,7 +67,7 @@
 * Removed the added hedge on the stairs by the end saferoom
 #### Map 3
 * Moved the ammo pile in the tunnel of love to the second set of rooms
-* Blocked surviors from standing on the electrical box and infected ladder in the swan room
+* Blocked survivors from standing on the electrical box and infected ladder in the swan room
 * Fixed a sliding stuck spot by the console in the swan room
 * Removed the extra railing in the end saferoom
 #### Map 4
